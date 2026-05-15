@@ -1,0 +1,17 @@
+{
+  "name": "fussball-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Täglicher Scraper für fussballgucken.info – extrahiert Spiele + Sender via OpenAI API.",
+  "scripts": {
+    "start": "node scraper.js",
+    "test": "node scraper.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "openai": "^4.67.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

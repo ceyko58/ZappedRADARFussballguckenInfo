@@ -1,0 +1,164 @@
+<!--
+  App-Integration: Lädt die täglich erzeugte matches.json (DE/TR/EN)
+  und rendert sie mit Sprach-Umschalter.
+
+  WIE EINSETZEN:
+  1) MATCHES_URL unten anpassen – zeigt auf das JSON in deinem GitHub-Repo.
+  2) <div id="fussball-heute"></div> dort einfügen, wo die Liste erscheinen soll.
+-->
+
+<div id="fussball-heute">Lade Spiele …</div>
+
+<style>
+  #fussball-heute { font-family: system-ui, -apple-system, sans-serif; max-width: 760px; margin: 0 auto; }
+  #fussball-heute h2 { font-size: 1.25rem; margin: 1.5rem 0 .25rem; }
+  #fussball-heute .summary { color: #555; margin-bottom: 1rem; font-style: italic; }
+  #fussball-heute .langbar { display: flex; gap: 6px; margin: .5rem 0 1rem; }
+  #fussball-heute .langbar button {
+    border: 1px solid #d1d5db; background: #fff; padding: 4px 12px;
+    border-radius: 999px; cursor: pointer; font-size: .85rem; color: #374151;
+  }
+  #fussball-heute .langbar button.active {
+    background: #2563eb; border-color: #2563eb; color: #fff;
+  }
+  #fussball-heute .match { border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px 14px; margin-bottom: 10px; background: #fff; }
+  #fussball-heute .match.highlight { border-color: #f59e0b; background: #fffbeb; }
+  #fussball-heute .row1 { display: flex; gap: 10px; align-items: baseline; font-weight: 600; }
+  #fussball-heute .time { color: #2563eb; min-width: 50px; }
+  #fussball-heute .teams { font-size: 1.05rem; }
+  #fussball-heute .meta { color: #6b7280; font-size: .85rem; margin: 2px 0 6px; }
+  #fussball-heute .channels { display: flex; flex-wrap: wrap; gap: 6px; }
+  #fussball-heute .channel { background: #f3f4f6; padding: 3px 8px; border-radius: 999px; font-size: .8rem; }
+  #fussball-heute .updated { color: #9ca3af; font-size: .75rem; margin-top: 1rem; text-align: right; }
+</style>
+
+<script>
+  // ⚠️ HIER deine eigene JSON-URL eintragen:
+  const MATCHES_URL = "https://raw.githubusercontent.com/DEIN-USER/DEIN-REPO/main/public/matches.json";
+
+  // UI-Texte pro Sprache
+  const I18N = {
+    de: {
+      heading: "⚽ Fußball heute",
+      none: "Heute keine Live-Übertragungen gefunden.",
+      updated: "Zuletzt aktualisiert",
+      locale: "de-DE",
+    },
+    tr: {
+      heading: "⚽ Bugün futbol",
+      none: "Bugün canlı yayın yok.",
+      updated: "Son güncelleme",
+      locale: "tr-TR",
+    },
+    en: {
+      heading: "⚽ Football today",
+      none: "No live broadcasts today.",
+      updated: "Last updated",
+      locale: "en-GB",
+    },
+  };
+
+  // Erkenne Sprache aus localStorage oder Browser, sonst de
+  function getInitialLang() {
+    const saved = localStorage.getItem("fussball-lang");
+    if (saved && I18N[saved]) return saved;
+    const browser = (navigator.language || "de").slice(0, 2);
+    return I18N[browser] ? browser : "de";
+  }
+
+  let CURRENT_DATA = null;
+  let CURRENT_LANG = getInitialLang();
+
+  async function ladeFussballSpiele() {
+    const container = document.getElementById("fussball-heute");
+    try {
+      const res = await fetch(MATCHES_URL, { cache: "no-cache" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      CURRENT_DATA = await res.json();
+      render();
+    } catch (err) {
+      container.innerHTML = `<p style="color:#b91c1c">Fehler beim Laden: ${err.message}</p>`;
+    }
+  }
+
+  function setLang(lang) {
+    CURRENT_LANG = lang;
+    localStorage.setItem("fussball-lang", lang);
+    render();
+  }
+
+  function pick(value, lang) {
+    // Akzeptiert sowohl Strings als auch {de,tr,en}-Objekte
+    if (value == null) return "";
+    if (typeof value === "string") return value;
+    return value[lang] || value.de || value.en || Object.values(value)[0] || "";
+  }
+
+  function render() {
+    const root = document.getElementById("fussball-heute");
+    const data = CURRENT_DATA;
+    const t = I18N[CURRENT_LANG];
+    const matches = data.matches || [];
+
+    const datum = data.date
+      ? new Date(data.date + "T12:00:00").toLocaleDateString(t.locale, {
+          weekday: "long", day: "numeric", month: "long",
+        })
+      : "";
+
+    // Sprach-Umschalter
+    let html = `<div class="langbar">`;
+    for (const code of ["de", "tr", "en"]) {
+      const active = code === CURRENT_LANG ? " active" : "";
+      html += `<button class="${active.trim()}" data-lang="${code}">${code.toUpperCase()}</button>`;
+    }
+    html += `</div>`;
+
+    html += `<h2>${t.heading} – ${datum}</h2>`;
+
+    const summary = pick(data.summary, CURRENT_LANG);
+    if (summary) html += `<p class="summary">${escapeHtml(summary)}</p>`;
+
+    if (matches.length === 0) {
+      html += `<p>${t.none}</p>`;
+    } else {
+      matches.sort((a, b) => (a.time || "").localeCompare(b.time || ""));
+      for (const m of matches) {
+        const cls = m.isHighlight ? "match highlight" : "match";
+        const stage = pick(m.stage, CURRENT_LANG);
+        const channels = (m.channels || []).map(
+          c => `<span class="channel">${escapeHtml(c)}</span>`
+        ).join("");
+        html += `
+          <div class="${cls}">
+            <div class="row1">
+              <span class="time">${escapeHtml(m.time || "--:--")}</span>
+              <span class="teams">${escapeHtml(m.homeTeam || "?")} – ${escapeHtml(m.awayTeam || "?")}</span>
+            </div>
+            <div class="meta">${escapeHtml(m.competition || "")}${stage ? " · " + escapeHtml(stage) : ""}</div>
+            <div class="channels">${channels}</div>
+          </div>`;
+      }
+    }
+
+    if (data.generatedAt) {
+      const dt = new Date(data.generatedAt).toLocaleString(t.locale);
+      html += `<div class="updated">${t.updated}: ${dt}</div>`;
+    }
+
+    root.innerHTML = html;
+
+    // Event-Listener für Sprach-Buttons
+    root.querySelectorAll(".langbar button").forEach(btn => {
+      btn.addEventListener("click", () => setLang(btn.dataset.lang));
+    });
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, c => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    }[c]));
+  }
+
+  ladeFussballSpiele();
+</script>

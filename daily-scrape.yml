@@ -1,0 +1,47 @@
+name: Daily Fußball-Scraper
+
+# Läuft täglich um 07:00 Uhr deutscher Zeit (= 05:00 UTC im Sommer / 06:00 UTC im Winter).
+# Cron-Werte unten anpassen, falls du eine andere Uhrzeit willst.
+on:
+  schedule:
+    - cron: "0 5 * * *"      # 07:00 MESZ (Sommerzeit)
+    # - cron: "0 6 * * *"    # 07:00 MEZ  (Winterzeit) – bei Bedarf umschalten
+  workflow_dispatch:           # Erlaubt manuellen Start über die GitHub-Oberfläche
+
+permissions:
+  contents: write              # Damit der Bot das aktualisierte JSON committen darf
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Node.js einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Abhängigkeiten installieren
+        run: npm ci || npm install
+
+      - name: Scraper ausführen
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: "gpt-4o-mini"
+          OUTPUT_DIR: "./public"
+        run: node scraper.js
+
+      - name: Änderungen committen
+        run: |
+          git config user.name  "fussball-agent[bot]"
+          git config user.email "fussball-agent[bot]@users.noreply.github.com"
+          git add public/matches.json
+          if git diff --staged --quiet; then
+            echo "Keine Änderungen – nichts zu committen."
+          else
+            git commit -m "🤖 Tägliches Update: matches.json ($(date -u +%Y-%m-%d))"
+            git push
+          fi
