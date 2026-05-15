@@ -143,3 +143,27 @@ main().catch((err) => {
   console.error("❌ Fehler:", err);
   process.exit(1);
 });
+
+// Kickoff-Zeit in ISO-Format mit Berliner Zeitzonen-Offset
+function berlinLocalToISO(dateStr, timeStr) {
+  // Sommer = UTC+2, Winter = UTC+1 — dynamisch ermitteln
+  const probe = new Date(`${dateStr}T12:00:00Z`);
+  const berlinHour = parseInt(
+    new Intl.DateTimeFormat("en-US", {
+      timeZone: "Europe/Berlin",
+      hour: "2-digit",
+      hour12: false,
+    }).format(probe)
+  );
+  const offsetHours = berlinHour - 12; // 1 oder 2
+  const offsetStr = `+${String(offsetHours).padStart(2, "0")}:00`;
+  return `${dateStr}T${timeStr}:00${offsetStr}`;
+}
+
+// Jedem Spiel ein "kickoff"-Feld hinzufügen
+if (Array.isArray(data.matches)) {
+  data.matches = data.matches.map((m) => ({
+    ...m,
+    kickoff: berlinLocalToISO(data.date, m.time),
+  }));
+}
