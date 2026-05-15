@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-15",
+  "generatedAt": "2026-05-15T22:13:51.643Z",
+  "summary": {
+    "de": "Heute gibt es keine Fußballspiele zu sehen.",
+    "tr": "Bugün izlenecek futbol maçı yok.",
+    "en": "There are no football matches to watch today."
+  },
+  "matches": [],
+  "source": "https://fussballgucken.info/fussball-heute",
+  "languages": [
+    "de",
+    "tr",
+    "en"
+  ]
+}
