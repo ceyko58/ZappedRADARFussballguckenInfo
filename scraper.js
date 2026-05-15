@@ -1,7 +1,4 @@
 // scraper.js
-// Täglicher Fußball-Agent für https://fussballgucken.info/fussball-heute
-// Holt die Seite, extrahiert Spiele + Sender mit OpenAI API (DE/TR/EN), speichert als JSON.
-
 import fs from "node:fs/promises";
 import path from "node:path";
 import * as cheerio from "cheerio";
@@ -28,6 +25,33 @@ function berlinLocalToISO(dateStr, timeStr) {
   return `${dateStr}T${timeStr}:00${offsetStr}`;
 }
 
+// NEU: Datum direkt aus HTML extrahieren
+function extractPageDate(html) {
+  // Versuch 1: meta-date Tag
+  const metaMatch = html.match(/<meta[^>]+name=["']date["'][^>]+content=["']([^"']+)["']/i);
+  if (metaMatch) {
+    const dateStr = metaMatch[1].slice(0, 10);
+    if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
+      console.log(`📅 Datum aus meta-date: ${dateStr}`);
+      return dateStr;
+    }
+  }
+
+  // Versuch 2: Breadcrumb "DD.MM.YYYY"
+  const breadcrumbMatch = html.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
+  if (breadcrumbMatch) {
+    const [, d, m, y] = breadcrumbMatch;
+    const dateStr = `${y}-${m.padStart(2, "0")}-${d.padStart(2, "0")}`;
+    console.log(`📅 Datum aus Breadcrumb: ${dateStr}`);
+    return dateStr;
+  }
+
+  // Fallback: heute in Berlin
+  const fallback = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/Berlin" });
+  console.log(`📅 Datum-Fallback (heute Berlin): ${fallback}`);
+  return fallback;
+}
+
 async function fetchPage() {
   const res = await fetch(SOURCE_URL, {
     headers: {
@@ -35,7 +59,7 @@ async function fetchPage() {
       "Accept-Language": "de-DE,de;q=0.9",
     },
   });
-  if (!res.ok) throw new Error(`HTTP ${res.status} beim Laden von ${SOURCE_URL}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return await res.text();
 }
 
@@ -45,37 +69,35 @@ function extractRelevantText(html) {
   $('[class*="ad"], [class*="anzeige"], [id*="ad"]').remove();
   const mainHtml = $("main").html() || $("body").html() || "";
   const $main = cheerio.load(mainHtml);
-  const text = $main.root().text()
+  return $main.root().text()
     .replace(/\s+\n/g, "\n")
     .replace(/\n{3,}/g, "\n\n")
     .replace(/[ \t]{2,}/g, " ")
-    .trim();
-  return text.slice(0, 60000);
+    .trim()
+    .slice(0, 60000);
 }
 
-async function extractMatchesWithLLM(pageText) {
-  const today = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/Berlin" });
-  const currentYear = today.slice(0, 4);
-
+async function extractMatchesWithLLM(pageText, pageDate) {
   const systemPrompt = `Du bist ein Daten-Extraktions- und Übersetzungs-Assistent.
-Du bekommst den Textinhalt einer deutschen Fußball-TV-Seite und extrahierst ALLE Spiele die dort aufgelistet sind mit ihren Übertragungssendern.
-Du übersetzt bestimmte Felder ins Deutsche (de), Türkische (tr) und Englische (en).
 Antworte AUSSCHLIESSLICH mit gültigem JSON.`;
 
-  const userPrompt = `Extrahiere ALLE Fußballspiele aus dem folgenden Seiteninhalt der deutschen Webseite fussballgucken.info.
+  const userPrompt = `Extrahiere ALLE Fußballspiele aus dem folgenden Text einer deutschen Fußball-TV-Übersichtsseite.
 
-Die Seite zeigt die Spiele EINES bestimmten Tages an. Das Datum findest du im Seitenkopf (z.B. "Freitag, 15. Mai" oder "Samstag, 16. Mai" – das Jahr ist ${currentYear}). Verwende dieses Datum im "date"-Feld im Format YYYY-MM-DD. Falls kein Datum erkennbar ist, nutze ${today}.
+WICHTIG: Extrahiere JEDES einzelne Spiel das du im Text findest. Filtere NICHT nach Datum. Der Text enthält bereits nur die Spiele eines Tages.
 
-WICHTIG: Extrahiere ALLE Spiele die auf der Seite aufgelistet sind, unabhängig vom Datum.
+Format pro Spiel im Text:
+- Uhrzeit (z.B. "21:00")
+- Wettbewerb (z.B. "Premier League (England)")
+- Heim-Team und Auswärts-Team (durch Match-Link getrennt)
+- "N Sender-Optionen" und Liste der Sender
 
-Gib das Ergebnis in diesem JSON-Schema zurück:
+JSON-Schema:
 
 {
-  "date": "YYYY-MM-DD",
   "summary": {
-    "de": "1-2 Sätze auf Deutsch: was ist heute das Highlight?",
-    "tr": "Aynı içerik Türkçe (1-2 cümle)",
-    "en": "Same content in English (1-2 sentences)"
+    "de": "1-2 Sätze: was ist das Highlight?",
+    "tr": "Türkçe (1-2 cümle)",
+    "en": "English (1-2 sentences)"
   },
   "matches": [
     {
@@ -86,8 +108,8 @@ Gib das Ergebnis in diesem JSON-Schema zurück:
         "tr": "37. Hafta",
         "en": "Matchday 37"
       },
-      "homeTeam": "Heimmannschaft",
-      "awayTeam": "Gastmannschaft",
+      "homeTeam": "Heim",
+      "awayTeam": "Auswärts",
       "channels": ["Sender 1", "Sender 2"],
       "isHighlight": true
     }
@@ -95,12 +117,11 @@ Gib das Ergebnis in diesem JSON-Schema zurück:
 }
 
 Regeln:
-- ALLE Spiele extrahieren, nichts weglassen.
-- Teamnamen, Wettbewerbsnamen und Sender NICHT übersetzen (Eigennamen).
-- "isHighlight" = true bei großen Ligen (Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, DFB-Pokal-Finale, FA Cup Finale).
-- Wenn die Seite wirklich leer ist: { "date": "${today}", "matches": [], "summary": { "de": "Keine Spiele.", "tr": "Maç yok.", "en": "No matches." } }
+- ALLE Spiele extrahieren - lass NICHTS aus.
+- Eigennamen (Teams, Wettbewerbe, Sender) NICHT übersetzen.
+- "isHighlight" = true bei Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, DFB-Pokal-Finale, FA Cup Finale.
 
-SEITENINHALT:
+TEXT:
 """
 ${pageText}
 """`;
@@ -116,6 +137,7 @@ ${pageText}
   });
 
   const parsed = JSON.parse(completion.choices[0].message.content);
+  parsed.date = pageDate; // Datum aus HTML, nicht aus LLM!
   parsed.generatedAt = new Date().toISOString();
   parsed.source = SOURCE_URL;
   parsed.languages = ["de", "tr", "en"];
@@ -133,20 +155,23 @@ ${pageText}
 async function writeOutput(data) {
   await fs.mkdir(OUTPUT_DIR, { recursive: true });
   await fs.writeFile(OUTPUT_FILE, JSON.stringify(data, null, 2), "utf8");
-  console.log(`✅ ${data.matches?.length ?? 0} Spiele → ${OUTPUT_FILE}`);
+  console.log(`✅ ${data.matches?.length ?? 0} Spiele für ${data.date} → ${OUTPUT_FILE}`);
 }
 
 async function main() {
   console.log(`▶︎ Lade ${SOURCE_URL} …`);
   const html = await fetchPage();
 
+  const pageDate = extractPageDate(html);
+
   console.log("▶︎ Bereinige HTML …");
   const text = extractRelevantText(html);
+  console.log(`▶︎ ${text.length} Zeichen extrahiert`);
 
-  console.log(`▶︎ Sende ${text.length} Zeichen an OpenAI (${MODEL}) …`);
-  const data = await extractMatchesWithLLM(text);
+  console.log(`▶︎ Sende an OpenAI (${MODEL}) …`);
+  const data = await extractMatchesWithLLM(text, pageDate);
 
-  console.log(`▶︎ Speichere Ergebnis …`);
+  console.log(`▶︎ Speichere ${data.matches?.length ?? 0} Spiele …`);
   await writeOutput(data);
 
   console.log("✨ Fertig.");
