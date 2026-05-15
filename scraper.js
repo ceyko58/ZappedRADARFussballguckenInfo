@@ -14,7 +14,6 @@ const MODEL = process.env.OPENAI_MODEL || "gpt-4o-mini";
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-// Helper: konvertiert Berlin-Lokalzeit in ISO-Format mit Offset
 function berlinLocalToISO(dateStr, timeStr) {
   const probe = new Date(`${dateStr}T12:00:00Z`);
   const berlinHour = parseInt(
@@ -24,12 +23,11 @@ function berlinLocalToISO(dateStr, timeStr) {
       hour12: false,
     }).format(probe)
   );
-  const offsetHours = berlinHour - 12; // 1 oder 2
+  const offsetHours = berlinHour - 12;
   const offsetStr = `+${String(offsetHours).padStart(2, "0")}:00`;
   return `${dateStr}T${timeStr}:00${offsetStr}`;
 }
 
-// 1) Seite holen
 async function fetchPage() {
   const res = await fetch(SOURCE_URL, {
     headers: {
@@ -41,7 +39,6 @@ async function fetchPage() {
   return await res.text();
 }
 
-// 2) HTML säubern
 function extractRelevantText(html) {
   const $ = cheerio.load(html);
   $("script, style, noscript, header, footer, nav, aside").remove();
@@ -56,16 +53,20 @@ function extractRelevantText(html) {
   return text.slice(0, 60000);
 }
 
-// 3) OpenAI extrahiert Spiele in DE/TR/EN
 async function extractMatchesWithLLM(pageText) {
   const today = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/Berlin" });
+  const currentYear = today.slice(0, 4);
 
   const systemPrompt = `Du bist ein Daten-Extraktions- und Übersetzungs-Assistent.
-Du bekommst den Textinhalt einer deutschen Fußball-TV-Seite und extrahierst ALLE Spiele des Tages mit ihren Übertragungssendern.
+Du bekommst den Textinhalt einer deutschen Fußball-TV-Seite und extrahierst ALLE Spiele die dort aufgelistet sind mit ihren Übertragungssendern.
 Du übersetzt bestimmte Felder ins Deutsche (de), Türkische (tr) und Englische (en).
 Antworte AUSSCHLIESSLICH mit gültigem JSON.`;
 
-  const userPrompt = `Extrahiere aus dem folgenden Seiteninhalt alle Fußballspiele des heutigen Tages (${today}).
+  const userPrompt = `Extrahiere ALLE Fußballspiele aus dem folgenden Seiteninhalt der deutschen Webseite fussballgucken.info.
+
+Die Seite zeigt die Spiele EINES bestimmten Tages an. Das Datum findest du im Seitenkopf (z.B. "Freitag, 15. Mai" oder "Samstag, 16. Mai" – das Jahr ist ${currentYear}). Verwende dieses Datum im "date"-Feld im Format YYYY-MM-DD. Falls kein Datum erkennbar ist, nutze ${today}.
+
+WICHTIG: Extrahiere ALLE Spiele die auf der Seite aufgelistet sind, unabhängig vom Datum.
 
 Gib das Ergebnis in diesem JSON-Schema zurück:
 
@@ -93,12 +94,11 @@ Gib das Ergebnis in diesem JSON-Schema zurück:
   ]
 }
 
-Wichtige Regeln:
-- ALLE Spiele extrahieren.
+Regeln:
+- ALLE Spiele extrahieren, nichts weglassen.
 - Teamnamen, Wettbewerbsnamen und Sender NICHT übersetzen (Eigennamen).
-- Übersetzt werden NUR "summary" und "stage" (komplett in alle 3 Sprachen).
-- "isHighlight" = true bei großen Ligen (Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, etc.).
-- Wenn keine Spiele: { "date": "${today}", "matches": [], "summary": { "de": "Keine Spiele.", "tr": "Maç yok.", "en": "No matches." } }
+- "isHighlight" = true bei großen Ligen (Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, DFB-Pokal-Finale, FA Cup Finale).
+- Wenn die Seite wirklich leer ist: { "date": "${today}", "matches": [], "summary": { "de": "Keine Spiele.", "tr": "Maç yok.", "en": "No matches." } }
 
 SEITENINHALT:
 """
@@ -120,7 +120,6 @@ ${pageText}
   parsed.source = SOURCE_URL;
   parsed.languages = ["de", "tr", "en"];
 
-  // Kickoff-Feld pro Spiel hinzufügen (ISO mit Berlin-Offset)
   if (Array.isArray(parsed.matches)) {
     parsed.matches = parsed.matches.map((m) => ({
       ...m,
@@ -131,14 +130,12 @@ ${pageText}
   return parsed;
 }
 
-// 4) Schreiben
 async function writeOutput(data) {
   await fs.mkdir(OUTPUT_DIR, { recursive: true });
   await fs.writeFile(OUTPUT_FILE, JSON.stringify(data, null, 2), "utf8");
   console.log(`✅ ${data.matches?.length ?? 0} Spiele → ${OUTPUT_FILE}`);
 }
 
-// 5) Main
 async function main() {
   console.log(`▶︎ Lade ${SOURCE_URL} …`);
   const html = await fetchPage();
