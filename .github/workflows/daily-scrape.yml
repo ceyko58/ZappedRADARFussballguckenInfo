@@ -1,1 +1,43 @@
+name: Daily Fussball-Scraper
 
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run scraper
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: "gpt-4o-mini"
+          OUTPUT_DIR: "./public"
+        run: node scraper.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "fussball-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/matches.json
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update matches.json"
+            git push
+          fi
