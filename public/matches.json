@@ -1,12 +1,12 @@
 {
   "summary": {
-    "de": "Es sind keine Fußballspiele im Text aufgeführt.",
+    "de": "Es sind keine Fußballspiele im Text vorhanden.",
     "tr": "Metin içinde futbol maçı yok.",
-    "en": "There are no football matches listed in the text."
+    "en": "There are no football matches in the text."
   },
   "matches": [],
-  "date": "2026-05-17",
-  "generatedAt": "2026-05-17T07:29:57.347Z",
+  "date": "2026-05-18",
+  "generatedAt": "2026-05-18T08:40:04.889Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
