@@ -1,177 +1,227 @@
-// scraper.js
+// scraper.js — OHNE KI, mit Sender-Logos
 import fs from "node:fs/promises";
 import path from "node:path";
 import * as cheerio from "cheerio";
-import OpenAI from "openai";
 
 const SOURCE_URL = "https://fussballgucken.info/fussball-heute";
 const OUTPUT_DIR = process.env.OUTPUT_DIR || "./public";
 const OUTPUT_FILE = path.join(OUTPUT_DIR, "matches.json");
-const MODEL = process.env.OPENAI_MODEL || "gpt-4o-mini";
-
-const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
+const LOGO_TREE = "https://api.github.com/repos/tv-logo/tv-logos/git/trees/main?recursive=1";
+const LOGO_RAW = "https://raw.githubusercontent.com/tv-logo/tv-logos/main/";
 
 function berlinLocalToISO(dateStr, timeStr) {
   const probe = new Date(`${dateStr}T12:00:00Z`);
   const berlinHour = parseInt(
-    new Intl.DateTimeFormat("en-US", {
-      timeZone: "Europe/Berlin",
-      hour: "2-digit",
-      hour12: false,
-    }).format(probe)
+    new Intl.DateTimeFormat("en-US", { timeZone: "Europe/Berlin", hour: "2-digit", hour12: false }).format(probe)
   );
-  const offsetHours = berlinHour - 12;
-  const offsetStr = `+${String(offsetHours).padStart(2, "0")}:00`;
-  return `${dateStr}T${timeStr}:00${offsetStr}`;
+  const off = berlinHour - 12;
+  return `${dateStr}T${timeStr}:00+${String(off).padStart(2, "0")}:00`;
 }
 
 function extractPageDate(html) {
-  const metaMatch = html.match(/<meta[^>]+name=["']date["'][^>]+content=["']([^"']+)["']/i);
-  if (metaMatch) {
-    const dateStr = metaMatch[1].slice(0, 10);
-    if (/^\d{4}-\d{2}-\d{2}$/.test(dateStr)) {
-      console.log(`📅 Datum aus meta-date: ${dateStr}`);
-      return dateStr;
+  const meta = html.match(/<meta[^>]+name=["']date["'][^>]+content=["']([^"']+)["']/i);
+  if (meta) { const d = meta[1].slice(0, 10); if (/^\d{4}-\d{2}-\d{2}$/.test(d)) return d; }
+  const bc = html.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
+  if (bc) return `${bc[3]}-${bc[2].padStart(2, "0")}-${bc[1].padStart(2, "0")}`;
+  return new Date().toLocaleDateString("en-CA", { timeZone: "Europe/Berlin" });
+}
+
+function translateStage(de) {
+  if (!de) return { de: "", tr: "", en: "" };
+  const rules = [
+    [/Spieltag/gi, { tr: "Hafta", en: "Matchday" }],
+    [/Halbfinale/gi, { tr: "Yarı Final", en: "Semi-final" }],
+    [/Viertelfinale/gi, { tr: "Çeyrek Final", en: "Quarter-final" }],
+    [/Achtelfinale/gi, { tr: "Son 16 Turu", en: "Round of 16" }],
+    [/Finale/gi, { tr: "Final", en: "Final" }],
+    [/Play-?off/gi, { tr: "Play-off", en: "Play-off" }],
+    [/Playout/gi, { tr: "Play-out", en: "Play-out" }],
+    [/Hinspiel/gi, { tr: "İlk maç", en: "First leg" }],
+    [/Rückspiel/gi, { tr: "Rövanş", en: "Second leg" }],
+    [/Relegation/gi, { tr: "Baraj", en: "Relegation" }],
+    [/Qualifikation/gi, { tr: "Eleme", en: "Qualification" }],
+    [/Aufstieg/gi, { tr: "Yükselme", en: "Promotion" }],
+    [/Gruppe/gi, { tr: "Grup", en: "Group" }],
+  ];
+  let tr = de, en = de;
+  for (const [re, t] of rules) { tr = tr.replace(re, t.tr); en = en.replace(re, t.en); }
+  en = en.replace(/(\d+)\.\s*Matchday/gi, "Matchday $1");
+  return { de, tr, en };
+}
+
+function isHighlight(comp) {
+  const c = (comp || "").toLowerCase();
+  return ["premier league", "la liga", "bundesliga", "serie a", "ligue 1",
+    "champions league", "europa league", "dfb-pokal", "fa cup", "conference league"].some((k) => c.includes(k));
+}
+
+function splitTeams(slug, teamMap) {
+  const keys = Object.keys(teamMap).sort((a, b) => b.length - a.length);
+  for (const home of keys) {
+    if (slug.startsWith(home + "-")) {
+      const rest = slug.slice(home.length + 1);
+      if (teamMap[rest]) return { home: teamMap[home], away: teamMap[rest] };
     }
   }
-  const breadcrumbMatch = html.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
-  if (breadcrumbMatch) {
-    const [, d, m, y] = breadcrumbMatch;
-    const dateStr = `${y}-${m.padStart(2, "0")}-${d.padStart(2, "0")}`;
-    console.log(`📅 Datum aus Breadcrumb: ${dateStr}`);
-    return dateStr;
+  for (const away of keys) {
+    if (slug.endsWith("-" + away)) {
+      const rest = slug.slice(0, slug.length - away.length - 1);
+      if (teamMap[rest]) return { home: teamMap[rest], away: teamMap[away] };
+    }
   }
-  const fallback = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/Berlin" });
-  console.log(`📅 Datum-Fallback: ${fallback}`);
-  return fallback;
+  return { home: null, away: null };
+}
+
+// Logo-Index aus tv-logos Repo aufbauen
+async function buildLogoIndex() {
+  try {
+    const headers = { "User-Agent": "FussballAgent" };
+    if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
+    const res = await fetch(LOGO_TREE, { headers });
+    if (!res.ok) { console.log(`⚠️ Logo-Index nicht ladbar (HTTP ${res.status})`); return {}; }
+    const data = await res.json();
+    const prio = { de: 1, at: 2, ch: 3, uk: 4, us: 5, int: 6 };
+    const index = {};
+    for (const node of data.tree || []) {
+      const p = node.path;
+      if (!p.startsWith("countries/") || !p.endsWith(".png")) continue;
+      if (/\/(old|custom)\//i.test(p) || /stacked|mosaic/i.test(p)) continue;
+      const file = p.split("/").pop().replace(/\.png$/, "");
+      if (/-(alt|hz|snow|alt2|hz2)$/.test(file)) continue;
+      const cm = file.match(/-([a-z]{2}|int)$/);
+      const country = cm ? cm[1] : "";
+      const base = cm ? file.slice(0, -(cm[1].length + 1)) : file;
+      const pr = prio[country] || 9;
+      if (!index[base] || pr < index[base].pr) index[base] = { url: LOGO_RAW + p, pr };
+    }
+    console.log(`▶︎ ${Object.keys(index).length} Logo-Einträge indiziert`);
+    return index;
+  } catch (e) { console.log(`⚠️ Logo-Index Fehler: ${e.message}`); return {}; }
+}
+
+function findLogo(name, index) {
+  const c = name.toLowerCase().replace(/\([^)]*\)/g, "").replace(/\bhd\b/g, "").trim();
+  const slug = c.replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const noDigitDash = slug.replace(/-(\d)/g, "$1");
+  for (const key of [slug, noDigitDash]) {
+    if (index[key]) return index[key].url;
+  }
+  return null;
+}
+
+function parseMatches(html) {
+  const $ = cheerio.load(html);
+  $("script, style, noscript, header, footer, nav").remove();
+
+  const teamMap = {};
+  $('a[href*="/team/"]').each((_, el) => {
+    const href = $(el).attr("href") || "";
+    const m = href.match(/\/team\/([^/"?#]+)/);
+    const name = $(el).text().trim();
+    if (m && name) teamMap[m[1].toLowerCase()] = name;
+  });
+
+  const tokens = [];
+  $("body *").each((_, el) => {
+    const $el = $(el);
+    const leaf = $el.children().length === 0 ? $el.text().trim() : "";
+    if (leaf && /^\d{1,2}:\d{2}$/.test(leaf)) { tokens.push({ type: "time", value: leaf }); return; }
+    if (leaf && leaf.length < 60 &&
+      /(\d{1,2}\.\s*Spieltag|Halbfinale|Viertelfinale|Achtelfinale|Finale|Play-?off|Playout|Hinspiel|Rückspiel|Relegation|Qualifikation|Aufstieg|Gruppe)/i.test(leaf)) {
+      tokens.push({ type: "stage", value: leaf }); return;
+    }
+    if (el.tagName === "a") {
+      const href = $el.attr("href") || "";
+      if (/\/match\/\d+/.test(href)) {
+        const m = href.match(/\/match\/(\d+)\/([^/]+)\/([^/"?#]+)/);
+        if (m) tokens.push({ type: "match", id: m[1], compSlug: m[2], teamsSlug: m[3].toLowerCase() });
+      } else if (href.includes("/wettbewerb/")) {
+        const name = $el.text().trim(); if (name) tokens.push({ type: "comp", name });
+      } else if (href.includes("/sender/")) {
+        const name = $el.text().trim();
+        if (name && !/Sender-Optionen/i.test(name)) tokens.push({ type: "sender", name });
+      }
+    }
+  });
+
+  const matches = [];
+  let cur = null, lastTime = "", lastComp = "", stageParts = [];
+  for (const t of tokens) {
+    if (t.type === "time") { lastTime = t.value; stageParts = []; }
+    else if (t.type === "comp") lastComp = t.name;
+    else if (t.type === "stage") stageParts.push(t.value);
+    else if (t.type === "match") {
+      if (!cur || cur._id !== t.id) {
+        const { home, away } = splitTeams(t.teamsSlug, teamMap);
+        if (home && away) {
+          cur = { _id: t.id, time: lastTime, competition: lastComp || t.compSlug.replace(/-/g, " "),
+            stage: translateStage(stageParts.join(" ").trim()), homeTeam: home, awayTeam: away,
+            channels: [], isHighlight: isHighlight(lastComp) };
+          matches.push(cur); stageParts = [];
+        } else cur = { _id: t.id, _skip: true };
+      }
+    } else if (t.type === "sender" && cur && !cur._skip) {
+      if (!cur.channels.some((c) => c.name === t.name)) cur.channels.push({ name: t.name, logo: null });
+    }
+  }
+
+  return matches.filter((m) => !m._skip && m.time).map(({ _id, _skip, ...c }) => c);
+}
+
+function buildSummary(matches) {
+  const n = matches.length;
+  const top = matches.find((m) => m.isHighlight) || matches[0];
+  if (!top) return { de: "Heute keine Übertragungen.", tr: "Bugün yayın yok.", en: "No broadcasts today." };
+  const g = `${top.homeTeam} - ${top.awayTeam}`;
+  return {
+    de: `${n} Übertragungen heute, u.a. ${g} (${top.time} Uhr).`,
+    tr: `Bugün ${n} yayın, ${g} dahil (${top.time}).`,
+    en: `${n} broadcasts today, including ${g} (${top.time}).`,
+  };
 }
 
 async function fetchPage() {
   const res = await fetch(SOURCE_URL, {
-    headers: {
-      "User-Agent": "Mozilla/5.0 (compatible; FussballAgent/1.0)",
-      "Accept-Language": "de-DE,de;q=0.9",
-    },
+    headers: { "User-Agent": "Mozilla/5.0 (compatible; FussballAgent/1.0)", "Accept-Language": "de-DE,de;q=0.9" },
   });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return await res.text();
 }
 
-// ROBUSTE Version: entfernt NUR script/style, holt allen Text
-function extractRelevantText(html) {
-  const $ = cheerio.load(html);
-  $("script, style, noscript, svg").remove();
-
-  let text = $("body").text() || $.root().text() || "";
-
-  text = text
-    .split("\n")
-    .map((l) => l.trim())
-    .filter((l) => l.length > 0)
-    .join("\n")
-    .replace(/\n{3,}/g, "\n\n");
-
-  return text.slice(0, 80000);
-}
-
-async function extractMatchesWithLLM(pageText, pageDate) {
-  const systemPrompt = `Du bist ein Daten-Extraktions- und Übersetzungs-Assistent.
-Antworte AUSSCHLIESSLICH mit gültigem JSON.`;
-
-  const userPrompt = `Extrahiere ALLE Fußballspiele aus dem folgenden Text einer deutschen Fußball-TV-Übersichtsseite.
-
-WICHTIG: Extrahiere JEDES einzelne Spiel das du findest. Filtere NICHT nach Datum.
-
-Format pro Spiel im Text:
-- Uhrzeit (z.B. "21:00")
-- Wettbewerb (z.B. "Premier League (England)")
-- Heim-Team und Auswärts-Team
-- "N Sender-Optionen" + Liste der Sender
-
-JSON-Schema:
-
-{
-  "summary": {
-    "de": "1-2 Sätze: was ist das Highlight?",
-    "tr": "Türkçe (1-2 cümle)",
-    "en": "English (1-2 sentences)"
-  },
-  "matches": [
-    {
-      "time": "HH:MM",
-      "competition": "z.B. Premier League (England)",
-      "stage": { "de": "37. Spieltag", "tr": "37. Hafta", "en": "Matchday 37" },
-      "homeTeam": "Heim",
-      "awayTeam": "Auswärts",
-      "channels": ["Sender 1", "Sender 2"],
-      "isHighlight": true
-    }
-  ]
-}
-
-Regeln:
-- ALLE Spiele extrahieren - lass NICHTS aus.
-- Eigennamen (Teams, Wettbewerbe, Sender) NICHT übersetzen.
-- "isHighlight" = true bei Premier League, La Liga, Bundesliga, Serie A, Ligue 1, Champions League, Europa League, DFB-Pokal-Finale, FA Cup Finale.
-
-TEXT:
-"""
-${pageText}
-"""`;
-
-  const completion = await openai.chat.completions.create({
-    model: MODEL,
-    response_format: { type: "json_object" },
-    temperature: 0,
-    messages: [
-      { role: "system", content: systemPrompt },
-      { role: "user", content: userPrompt },
-    ],
-  });
-
-  const parsed = JSON.parse(completion.choices[0].message.content);
-  parsed.date = pageDate;
-  parsed.generatedAt = new Date().toISOString();
-  parsed.source = SOURCE_URL;
-  parsed.languages = ["de", "tr", "en"];
-
-  if (Array.isArray(parsed.matches)) {
-    parsed.matches = parsed.matches.map((m) => ({
-      ...m,
-      kickoff: berlinLocalToISO(parsed.date, m.time),
-    }));
-  }
-
-  return parsed;
-}
-
-async function writeOutput(data) {
-  await fs.mkdir(OUTPUT_DIR, { recursive: true });
-  await fs.writeFile(OUTPUT_FILE, JSON.stringify(data, null, 2), "utf8");
-  console.log(`✅ ${data.matches?.length ?? 0} Spiele für ${data.date} → ${OUTPUT_FILE}`);
-}
-
 async function main() {
   console.log(`▶︎ Lade ${SOURCE_URL} …`);
   const html = await fetchPage();
+  const date = extractPageDate(html);
+  console.log(`📅 Datum: ${date}`);
 
-  const pageDate = extractPageDate(html);
+  console.log("▶︎ Lade Sender-Logo-Index …");
+  const logoIndex = await buildLogoIndex();
 
-  console.log("▶︎ Bereinige HTML …");
-  const text = extractRelevantText(html);
-  console.log(`▶︎ ${text.length} Zeichen extrahiert`);
-  console.log(`▶︎ Vorschau: ${text.slice(0, 300).replace(/\n/g, " | ")}`);
+  console.log("▶︎ Parse Spiele …");
+  const matches = parseMatches(html);
 
-  console.log(`▶︎ Sende an OpenAI (${MODEL}) …`);
-  const data = await extractMatchesWithLLM(text, pageDate);
+  // Logos zuordnen
+  let withLogo = 0, total = 0;
+  for (const m of matches) {
+    m.kickoff = berlinLocalToISO(date, m.time);
+    for (const ch of m.channels) {
+      total++;
+      ch.logo = findLogo(ch.name, logoIndex);
+      if (ch.logo) withLogo++;
+    }
+  }
+  console.log(`▶︎ ${matches.length} Spiele, ${withLogo}/${total} Sender mit Logo`);
+  if (matches[0]) console.log(`▶︎ Beispiel: ${matches[0].time} ${matches[0].homeTeam} - ${matches[0].awayTeam}`);
 
-  console.log(`▶︎ Speichere ${data.matches?.length ?? 0} Spiele …`);
-  await writeOutput(data);
+  const data = {
+    date, generatedAt: new Date().toISOString(), source: SOURCE_URL,
+    languages: ["de", "tr", "en"], summary: buildSummary(matches), matches,
+  };
 
+  await fs.mkdir(OUTPUT_DIR, { recursive: true });
+  await fs.writeFile(OUTPUT_FILE, JSON.stringify(data, null, 2), "utf8");
+  console.log(`✅ ${matches.length} Spiele für ${date} → ${OUTPUT_FILE}`);
   console.log("✨ Fertig.");
 }
 
-main().catch((err) => {
-  console.error("❌ Fehler:", err);
-  process.exit(1);
-});
+main().catch((err) => { console.error("❌ Fehler:", err); process.exit(1); });
