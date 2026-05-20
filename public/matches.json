@@ -1,12 +1,404 @@
 {
   "summary": {
-    "de": "Es sind keine Fußballspiele im Text angegeben.",
-    "tr": "Metinde futbol maçı belirtilmemiştir.",
-    "en": "No football matches are mentioned in the text."
+    "de": "Heute Abend findet das Finale der Europa League zwischen SC Freiburg und Aston Villa statt. Außerdem gibt es zahlreiche weitere Fußballspiele in verschiedenen Wettbewerben.",
+    "tr": "Bu akşam SC Freiburg ile Aston Villa arasında Avrupa Ligi finali oynanacak. Ayrıca, farklı turnuvalarda birçok başka futbol maçı var.",
+    "en": "This evening, the Europa League final between SC Freiburg and Aston Villa will take place. Additionally, there are numerous other football matches in various competitions."
   },
-  "matches": [],
+  "matches": [
+    {
+      "time": "21:00",
+      "competition": "UEFA Europa League",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "Aston Villa",
+      "channels": [
+        "RTL",
+        "CANAL+",
+        "RSI LA 2",
+        "RTS 2",
+        "SRF info"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-20T21:00:00+02:00"
+    },
+    {
+      "time": "00:00",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Gruplar Aşaması",
+        "en": "Group Stage"
+      },
+      "homeTeam": "Montevideo City Torque",
+      "awayTeam": "Deportivo Riestra",
+      "channels": [
+        "OneFootball",
+        "Sportdigital.de (Livestream)",
+        "OneFootball (App)",
+        "Sportdigital+ (App)",
+        "OneFootball TV (Amazon FireTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T00:00:00+02:00"
+    },
+    {
+      "time": "00:00",
+      "competition": "Copa Libertadores",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Gruplar Aşaması",
+        "en": "Group Stage"
+      },
+      "homeTeam": "Fluminense Rio de Janeiro",
+      "awayTeam": "Club Bolivar",
+      "channels": [
+        "Sportdigital1+",
+        "blue Sport",
+        "Sportdigital1+ HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T00:00:00+02:00"
+    },
+    {
+      "time": "02:30",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Gruplar Aşaması",
+        "en": "Group Stage"
+      },
+      "homeTeam": "FC Sao Paulo",
+      "awayTeam": "Millonarios Bogotá",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T02:30:00+02:00"
+    },
+    {
+      "time": "02:30",
+      "competition": "Copa Libertadores",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Gruplar Aşaması",
+        "en": "Group Stage"
+      },
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Cruzeiro Belo Horizonte",
+      "channels": [
+        "Sportdigital1+",
+        "blue Sport",
+        "Sportdigital1+ HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T02:30:00+02:00"
+    },
+    {
+      "time": "07:00",
+      "competition": "AFC Women's Champions League",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semifinal"
+      },
+      "homeTeam": "Melbourne City FC ♀",
+      "awayTeam": "Tokyo Verdy Beleza ♀",
+      "channels": [
+        "OneFootball",
+        "The AFC Hub (YouTube)",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T07:00:00+02:00"
+    },
+    {
+      "time": "12:00",
+      "competition": "AFC Women's Champions League",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semifinal"
+      },
+      "homeTeam": "Naegohyang Women's FC ♀",
+      "awayTeam": "Suwon FMC WFC ♀",
+      "channels": [
+        "OneFootball",
+        "The AFC Hub (YouTube)",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T12:00:00+02:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "ASEAN Club Championship",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Selangor FC",
+      "awayTeam": "Buriram United",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T15:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Ilves Tampere",
+      "awayTeam": "Inter Turku",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T17:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "FK Tukums 2000",
+      "awayTeam": "Riga FC",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T17:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Kuopion PS",
+      "awayTeam": "FF Jaro",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "Grobinas Sporta Centrs",
+      "awayTeam": "SK Super Nova",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T18:00:00+02:00"
+    },
+    {
+      "time": "18:45",
+      "competition": "Eredivisie (Niederlande)",
+      "stage": {
+        "de": "Relegation",
+        "tr": "Düşme",
+        "en": "Relegation"
+      },
+      "homeTeam": "Willem II Tilburg",
+      "awayTeam": "FC Volendam",
+      "channels": [
+        "Sender unbekannt",
+        "Sender unbekannt"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T18:45:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "Testspiel",
+        "tr": "Hazırlık Maçı",
+        "en": "Friendly"
+      },
+      "homeTeam": "SV Sandhausen",
+      "awayTeam": "Eintracht Frankfurt",
+      "channels": [
+        "EintrachtTV (Frankfurt)",
+        "EintrachtTV (Smart TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Liga Portugal",
+      "stage": {
+        "de": "Relegation",
+        "tr": "Düşme",
+        "en": "Relegation"
+      },
+      "homeTeam": "SC União Torreense",
+      "awayTeam": "Casa Pia A",
+      "channels": [
+        "Sender unbekannt",
+        "Sender unbekannt"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T19:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Saudi Professional League",
+      "stage": {
+        "de": "34. Spieltag",
+        "tr": "34. Hafta",
+        "en": "Matchday 34"
+      },
+      "homeTeam": "Al-Khaleej",
+      "awayTeam": "Al-Ahli SFC",
+      "channels": [
+        "OneFootball",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)",
+        "OneFootball (App)",
+        "Sportdigital+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T20:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Serie C (Italien)",
+      "stage": {
+        "de": "Playoff",
+        "tr": "Playoff",
+        "en": "Playoff"
+      },
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Casarano Calcio",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T20:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Serie B (Italien)",
+      "stage": {
+        "de": "Aufstiegsrunde",
+        "tr": "Yükselme Turu",
+        "en": "Promotion Round"
+      },
+      "homeTeam": "FC Palermo",
+      "awayTeam": "US Catanzaro",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "OneFootball",
+        "blue Sport (Livestream)",
+        "OneFootball (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T20:00:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Serie C (Italien)",
+      "stage": {
+        "de": "Playoff",
+        "tr": "Playoff",
+        "en": "Playoff"
+      },
+      "homeTeam": "Catania Calcio",
+      "awayTeam": "Lecco Calcio 1912",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T20:30:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Serie C (Italien)",
+      "stage": {
+        "de": "Playoff",
+        "tr": "Playoff",
+        "en": "Playoff"
+      },
+      "homeTeam": "Ravenna FC",
+      "awayTeam": "US Salernitana",
+      "channels": [
+        "Rai Sport",
+        "OneFootball",
+        "Rai Sport (Livestream)",
+        "OneFootball (App)",
+        "RaiPlay (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-20T20:45:00+02:00"
+    }
+  ],
   "date": "2026-05-20",
-  "generatedAt": "2026-05-20T08:19:39.755Z",
+  "generatedAt": "2026-05-20T19:32:27.293Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
