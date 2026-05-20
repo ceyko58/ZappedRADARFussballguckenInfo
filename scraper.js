@@ -25,9 +25,7 @@ function berlinLocalToISO(dateStr, timeStr) {
   return `${dateStr}T${timeStr}:00${offsetStr}`;
 }
 
-// NEU: Datum direkt aus HTML extrahieren
 function extractPageDate(html) {
-  // Versuch 1: meta-date Tag
   const metaMatch = html.match(/<meta[^>]+name=["']date["'][^>]+content=["']([^"']+)["']/i);
   if (metaMatch) {
     const dateStr = metaMatch[1].slice(0, 10);
@@ -36,8 +34,6 @@ function extractPageDate(html) {
       return dateStr;
     }
   }
-
-  // Versuch 2: Breadcrumb "DD.MM.YYYY"
   const breadcrumbMatch = html.match(/(\d{1,2})\.(\d{1,2})\.(\d{4})/);
   if (breadcrumbMatch) {
     const [, d, m, y] = breadcrumbMatch;
@@ -45,10 +41,8 @@ function extractPageDate(html) {
     console.log(`📅 Datum aus Breadcrumb: ${dateStr}`);
     return dateStr;
   }
-
-  // Fallback: heute in Berlin
   const fallback = new Date().toLocaleDateString("en-CA", { timeZone: "Europe/Berlin" });
-  console.log(`📅 Datum-Fallback (heute Berlin): ${fallback}`);
+  console.log(`📅 Datum-Fallback: ${fallback}`);
   return fallback;
 }
 
@@ -63,18 +57,21 @@ async function fetchPage() {
   return await res.text();
 }
 
+// ROBUSTE Version: entfernt NUR script/style, holt allen Text
 function extractRelevantText(html) {
   const $ = cheerio.load(html);
-  $("script, style, noscript, header, footer, nav, aside").remove();
-  $('[class*="ad"], [class*="anzeige"], [id*="ad"]').remove();
-  const mainHtml = $("main").html() || $("body").html() || "";
-  const $main = cheerio.load(mainHtml);
-  return $main.root().text()
-    .replace(/\s+\n/g, "\n")
-    .replace(/\n{3,}/g, "\n\n")
-    .replace(/[ \t]{2,}/g, " ")
-    .trim()
-    .slice(0, 60000);
+  $("script, style, noscript, svg").remove();
+
+  let text = $("body").text() || $.root().text() || "";
+
+  text = text
+    .split("\n")
+    .map((l) => l.trim())
+    .filter((l) => l.length > 0)
+    .join("\n")
+    .replace(/\n{3,}/g, "\n\n");
+
+  return text.slice(0, 80000);
 }
 
 async function extractMatchesWithLLM(pageText, pageDate) {
@@ -83,13 +80,13 @@ Antworte AUSSCHLIESSLICH mit gültigem JSON.`;
 
   const userPrompt = `Extrahiere ALLE Fußballspiele aus dem folgenden Text einer deutschen Fußball-TV-Übersichtsseite.
 
-WICHTIG: Extrahiere JEDES einzelne Spiel das du im Text findest. Filtere NICHT nach Datum. Der Text enthält bereits nur die Spiele eines Tages.
+WICHTIG: Extrahiere JEDES einzelne Spiel das du findest. Filtere NICHT nach Datum.
 
 Format pro Spiel im Text:
 - Uhrzeit (z.B. "21:00")
 - Wettbewerb (z.B. "Premier League (England)")
-- Heim-Team und Auswärts-Team (durch Match-Link getrennt)
-- "N Sender-Optionen" und Liste der Sender
+- Heim-Team und Auswärts-Team
+- "N Sender-Optionen" + Liste der Sender
 
 JSON-Schema:
 
@@ -103,11 +100,7 @@ JSON-Schema:
     {
       "time": "HH:MM",
       "competition": "z.B. Premier League (England)",
-      "stage": {
-        "de": "z.B. 37. Spieltag",
-        "tr": "37. Hafta",
-        "en": "Matchday 37"
-      },
+      "stage": { "de": "37. Spieltag", "tr": "37. Hafta", "en": "Matchday 37" },
       "homeTeam": "Heim",
       "awayTeam": "Auswärts",
       "channels": ["Sender 1", "Sender 2"],
@@ -137,7 +130,7 @@ ${pageText}
   });
 
   const parsed = JSON.parse(completion.choices[0].message.content);
-  parsed.date = pageDate; // Datum aus HTML, nicht aus LLM!
+  parsed.date = pageDate;
   parsed.generatedAt = new Date().toISOString();
   parsed.source = SOURCE_URL;
   parsed.languages = ["de", "tr", "en"];
@@ -167,6 +160,7 @@ async function main() {
   console.log("▶︎ Bereinige HTML …");
   const text = extractRelevantText(html);
   console.log(`▶︎ ${text.length} Zeichen extrahiert`);
+  console.log(`▶︎ Vorschau: ${text.slice(0, 300).replace(/\n/g, " | ")}`);
 
   console.log(`▶︎ Sende an OpenAI (${MODEL}) …`);
   const data = await extractMatchesWithLLM(text, pageDate);
