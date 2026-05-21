@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-20",
-  "generatedAt": "2026-05-20T20:13:32.323Z",
+  "date": "2026-05-21",
+  "generatedAt": "2026-05-21T08:26:04.145Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,9 +8,9 @@
     "en"
   ],
   "summary": {
-    "de": "20 Übertragungen heute, u.a. Melbourne City FC ♀ - Tokyo Verdy Beleza ♀ (07:00 Uhr).",
-    "tr": "Bugün 20 yayın, Melbourne City FC ♀ - Tokyo Verdy Beleza ♀ dahil (07:00).",
-    "en": "20 broadcasts today, including Melbourne City FC ♀ - Tokyo Verdy Beleza ♀ (07:00)."
+    "de": "21 Übertragungen heute, u.a. VfL Wolfsburg - SC Paderborn 07 (20:30 Uhr).",
+    "tr": "Bugün 21 yayın, VfL Wolfsburg - SC Paderborn 07 dahil (20:30).",
+    "en": "21 broadcasts today, including VfL Wolfsburg - SC Paderborn 07 (20:30)."
   },
   "matches": [
     {
@@ -21,78 +21,8 @@
         "tr": "Grupnphase 5. Hafta",
         "en": "Groupnphase Matchday 5"
       },
-      "homeTeam": "Montevideo City Torque",
-      "awayTeam": "Deportivo Riestra",
-      "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital.de (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital+ (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T00:00:00+02:00"
-    },
-    {
-      "time": "00:00",
-      "competition": "Copa Libertadores",
-      "stage": {
-        "de": "Gruppenphase 5. Spieltag",
-        "tr": "Grupnphase 5. Hafta",
-        "en": "Groupnphase Matchday 5"
-      },
-      "homeTeam": "Fluminense Rio de Janeiro",
-      "awayTeam": "Club Bolivar",
-      "channels": [
-        {
-          "name": "Sportdigital1+",
-          "logo": null
-        },
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital1+ HD",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "OneFootball",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T00:00:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Copa Sudamericana",
-      "stage": {
-        "de": "Gruppenphase 5. Spieltag",
-        "tr": "Grupnphase 5. Hafta",
-        "en": "Groupnphase Matchday 5"
-      },
-      "homeTeam": "FC Sao Paulo",
-      "awayTeam": "Millonarios Bogotá",
+      "homeTeam": "FC Santos",
+      "awayTeam": "CA San Lorenzo",
       "channels": [
         {
           "name": "Sportdigital Fussball",
@@ -116,7 +46,96 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-20T02:30:00+02:00"
+      "kickoff": "2026-05-21T00:00:00+02:00"
+    },
+    {
+      "time": "00:00",
+      "competition": "Copa Libertadores",
+      "stage": {
+        "de": "Gruppenphase 5. Spieltag",
+        "tr": "Grupnphase 5. Hafta",
+        "en": "Groupnphase Matchday 5"
+      },
+      "homeTeam": "Club Nacional",
+      "awayTeam": "Universitario de Deportes",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital1+ (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital+ (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T00:00:00+02:00"
+    },
+    {
+      "time": "02:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
+      },
+      "homeTeam": "Houston Dash ♀",
+      "awayTeam": "San Diego Wave FC ♀",
+      "channels": [
+        {
+          "name": "NWSL+",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T02:00:00+02:00"
+    },
+    {
+      "time": "02:30",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Gruppenphase 5. Spieltag",
+        "tr": "Grupnphase 5. Hafta",
+        "en": "Groupnphase Matchday 5"
+      },
+      "homeTeam": "CA River Plate",
+      "awayTeam": "Red Bull Bragantino",
+      "channels": [
+        {
+          "name": "Sportdigital Fussball",
+          "logo": null
+        },
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital Fussball HD",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "OneFootball",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T02:30:00+02:00"
     },
     {
       "time": "02:30",
@@ -126,8 +145,8 @@
         "tr": "Grupnphase 5. Hafta",
         "en": "Groupnphase Matchday 5"
       },
-      "homeTeam": "Boca Juniors",
-      "awayTeam": "Cruzeiro Belo Horizonte",
+      "homeTeam": "Flamengo Rio de Janeiro",
+      "awayTeam": "Estudiantes de La Plata",
       "channels": [
         {
           "name": "Sportdigital1+",
@@ -151,88 +170,56 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-20T02:30:00+02:00"
+      "kickoff": "2026-05-21T02:30:00+02:00"
     },
     {
-      "time": "07:00",
-      "competition": "AFC Women's Champions League",
+      "time": "04:00",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "Halbfinale",
-        "tr": "Yarı Final",
-        "en": "Semi-final"
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
       },
-      "homeTeam": "Melbourne City FC ♀",
-      "awayTeam": "Tokyo Verdy Beleza ♀",
+      "homeTeam": "Portland Thorns ♀",
+      "awayTeam": "Bay FC ♀",
       "channels": [
         {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "The AFC Hub (YouTube)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
+          "name": "NWSL+",
           "logo": null
         }
       ],
-      "isHighlight": true,
-      "kickoff": "2026-05-20T07:00:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-05-21T04:00:00+02:00"
     },
     {
-      "time": "12:00",
-      "competition": "AFC Women's Champions League",
+      "time": "04:00",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "Halbfinale",
-        "tr": "Yarı Final",
-        "en": "Semi-final"
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
       },
-      "homeTeam": "Naegohyang Women's FC ♀",
-      "awayTeam": "Suwon FMC WFC ♀",
+      "homeTeam": "Angel City FC ♀",
+      "awayTeam": "Kansas City Current ♀",
       "channels": [
         {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "The AFC Hub (YouTube)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
+          "name": "NWSL+",
           "logo": null
         }
       ],
-      "isHighlight": true,
-      "kickoff": "2026-05-20T12:00:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-05-21T04:00:00+02:00"
     },
     {
-      "time": "15:00",
-      "competition": "ASEAN Club Championship",
+      "time": "14:30",
+      "competition": "Premjer Liha (Ukraine)",
       "stage": {
-        "de": "Finale Hinspiel",
-        "tr": "Final İlk maç",
-        "en": "Final First leg"
+        "de": "30. Spieltag",
+        "tr": "30. Hafta",
+        "en": "Matchday 30"
       },
-      "homeTeam": "Selangor FC",
-      "awayTeam": "Buriram United",
+      "homeTeam": "Schachtjor Donezk",
+      "awayTeam": "Kolos Kowaliwka",
       "channels": [
         {
           "name": "OneFootball",
@@ -256,42 +243,7 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-20T15:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Ilves Tampere",
-      "awayTeam": "Inter Turku",
-      "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T17:00:00+02:00"
+      "kickoff": "2026-05-21T14:30:00+02:00"
     },
     {
       "time": "17:00",
@@ -301,8 +253,8 @@
         "tr": "14. Hafta",
         "en": "Matchday 14"
       },
-      "homeTeam": "FK Tukums 2000",
-      "awayTeam": "Riga FC",
+      "homeTeam": "BFC Daugavpils",
+      "awayTeam": "FK Ogre United",
       "channels": [
         {
           "name": "OneFootball",
@@ -326,209 +278,18 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-20T17:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Kuopion PS",
-      "awayTeam": "FF Jaro",
-      "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "Grobinas Sporta Centrs",
-      "awayTeam": "SK Super Nova",
-      "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T18:00:00+02:00"
+      "kickoff": "2026-05-21T17:00:00+02:00"
     },
     {
       "time": "18:45",
       "competition": "Eredivisie (Niederlande)",
       "stage": {
-        "de": "Relegation Hinspiel",
-        "tr": "Baraj İlk maç",
-        "en": "Relegation First leg"
+        "de": "Playoff Europa-Playoffs",
+        "tr": "Play-off Europa-Play-offs",
+        "en": "Play-off Europa-Play-offs"
       },
-      "homeTeam": "Willem II Tilburg",
-      "awayTeam": "FC Volendam",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T18:45:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "SV Sandhausen",
-      "awayTeam": "Eintracht Frankfurt",
-      "channels": [
-        {
-          "name": "EintrachtTV (Frankfurt)",
-          "logo": null
-        },
-        {
-          "name": "EintrachtTV (Smart TV)",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T19:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Liga Portugal",
-      "stage": {
-        "de": "Relegation Hinspiel",
-        "tr": "Baraj İlk maç",
-        "en": "Relegation First leg"
-      },
-      "homeTeam": "SC União Torreense",
-      "awayTeam": "Casa Pia AC",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T19:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Saudi Professional League",
-      "stage": {
-        "de": "34. Spieltag",
-        "tr": "34. Hafta",
-        "en": "Matchday 34"
-      },
-      "homeTeam": "Al-Khaleej",
-      "awayTeam": "Al-Ahli SFC",
-      "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital Fussball 2",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital.de (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital+ (App)",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T20:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Serie C (Italien)",
-      "stage": {
-        "de": "Playoff",
-        "tr": "Play-off",
-        "en": "Play-off"
-      },
-      "homeTeam": "Union Brescia",
-      "awayTeam": "Casarano Calcio",
-      "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-20T20:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Serie B (Italien)",
-      "stage": {
-        "de": "Aufstiegsrunde Halbfinale (Rückspiel)",
-        "tr": "Yükselmesrunde Yarı Final (Rövanş)",
-        "en": "Promotionsrunde Semi-final (Second leg)"
-      },
-      "homeTeam": "FC Palermo",
-      "awayTeam": "US Catanzaro",
+      "homeTeam": "Ajax Amsterdam",
+      "awayTeam": "FC Groningen",
       "channels": [
         {
           "name": "blue Sport",
@@ -543,27 +304,27 @@
           "logo": null
         },
         {
-          "name": "blue Sport (Livestream)",
+          "name": "Sportdigital Fussball 2",
           "logo": null
         },
         {
-          "name": "OneFootball (App)",
+          "name": "Sportdigital.de (Livestream)",
           "logo": null
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-20T20:00:00+02:00"
+      "kickoff": "2026-05-21T18:45:00+02:00"
     },
     {
-      "time": "20:30",
-      "competition": "Serie C (Italien)",
+      "time": "19:00",
+      "competition": "Virsliga (Lettland)",
       "stage": {
-        "de": "Playoff",
-        "tr": "Play-off",
-        "en": "Play-off"
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
       },
-      "homeTeam": "Catania Calcio",
-      "awayTeam": "Lecco Calcio 1912",
+      "homeTeam": "Rigas FS",
+      "awayTeam": "FK Jelgava",
       "channels": [
         {
           "name": "OneFootball",
@@ -587,77 +348,357 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-20T20:30:00+02:00"
+      "kickoff": "2026-05-21T19:00:00+02:00"
     },
     {
-      "time": "20:45",
-      "competition": "Serie C (Italien)",
+      "time": "20:00",
+      "competition": "Saudi Professional League",
       "stage": {
-        "de": "Playoff",
-        "tr": "Play-off",
-        "en": "Play-off"
+        "de": "34. Spieltag",
+        "tr": "34. Hafta",
+        "en": "Matchday 34"
       },
-      "homeTeam": "Ravenna FC",
-      "awayTeam": "US Salernitana",
+      "homeTeam": "Al-Fayha FC",
+      "awayTeam": "Al-Hilal Riad",
       "channels": [
-        {
-          "name": "Rai Sport",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png"
-        },
         {
           "name": "OneFootball",
           "logo": null
-        },
-        {
-          "name": "Rai Sport (Livestream)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-sport-it.png"
         },
         {
           "name": "OneFootball (App)",
           "logo": null
         },
         {
-          "name": "RaiPlay (App)",
+          "name": "Sportdigital+ (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Android/Google TV)",
           "logo": null
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-20T20:45:00+02:00"
+      "kickoff": "2026-05-21T20:00:00+02:00"
     },
     {
-      "time": "21:00",
-      "competition": "UEFA Europa League",
+      "time": "20:00",
+      "competition": "Saudi Professional League",
       "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
+        "de": "34. Spieltag",
+        "tr": "34. Hafta",
+        "en": "Matchday 34"
       },
-      "homeTeam": "SC Freiburg",
-      "awayTeam": "Aston Villa",
+      "homeTeam": "Al-Nassr FC",
+      "awayTeam": "Damac FC",
       "channels": [
         {
-          "name": "RTL",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/rtl-de.png"
-        },
-        {
-          "name": "CANAL+",
+          "name": "Sportdigital Fussball",
           "logo": null
         },
         {
-          "name": "RSI LA 2",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/rsi-la2-ch.png"
+          "name": "blue Sport",
+          "logo": null
         },
         {
-          "name": "RTS 2",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/rts2-rs.png"
+          "name": "Sportdigital Fussball HD",
+          "logo": null
         },
         {
-          "name": "SRF info",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-info-ch.png"
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "OneFootball",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T20:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "IA Akranes",
+      "awayTeam": "IB Vestmannaeyjar",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Android/Google TV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Apple TV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T20:00:00+02:00"
+    },
+    {
+      "time": "20:15",
+      "competition": "Super League (Schweiz)",
+      "stage": {
+        "de": "Relegation SFL-Barrage, Rückspiel",
+        "tr": "Baraj SFL-Barrage, Rövanş",
+        "en": "Relegation SFL-Barrage, Second leg"
+      },
+      "homeTeam": "Grasshopper Club Zürich",
+      "awayTeam": "FC Aarau",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "blue Sport UHD",
+          "logo": null
+        },
+        {
+          "name": "blue Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "Swisscom blue TV App",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T20:15:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Jupiler Pro League (Belgien)",
+      "stage": {
+        "de": "9. Spieltag",
+        "tr": "9. Hafta",
+        "en": "Matchday 9"
+      },
+      "homeTeam": "KV Mechelen",
+      "awayTeam": "Club Brügge",
+      "channels": [
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Amazon)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Android TV)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Apple TV)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T20:30:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Jupiler Pro League (Belgien)",
+      "stage": {
+        "de": "9. Spieltag",
+        "tr": "9. Hafta",
+        "en": "Matchday 9"
+      },
+      "homeTeam": "KAA Gent",
+      "awayTeam": "Royale Union Saint-Gilloise",
+      "channels": [
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Amazon)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Android TV)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Apple TV)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T20:30:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Jupiler Pro League (Belgien)",
+      "stage": {
+        "de": "9. Spieltag",
+        "tr": "9. Hafta",
+        "en": "Matchday 9"
+      },
+      "homeTeam": "RSC Anderlecht",
+      "awayTeam": "VV St. Truiden",
+      "channels": [
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Amazon)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Android TV)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Apple TV)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T20:30:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Bundesliga",
+      "stage": {
+        "de": "Relegation Hinspiel",
+        "tr": "Baraj İlk maç",
+        "en": "Relegation First leg"
+      },
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "SC Paderborn 07",
+      "channels": [
+        {
+          "name": "SAT.1",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png"
+        },
+        {
+          "name": "Sky Sport Bundesliga",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png"
+        },
+        {
+          "name": "SAT.1 HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png"
+        },
+        {
+          "name": "Sky Sport Bundesliga HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png"
+        },
+        {
+          "name": "Sky Go",
+          "logo": null
         }
       ],
       "isHighlight": true,
-      "kickoff": "2026-05-20T21:00:00+02:00"
+      "kickoff": "2026-05-21T20:30:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Eredivisie (Niederlande)",
+      "stage": {
+        "de": "Playoff Europa-Playoffs",
+        "tr": "Play-off Europa-Play-offs",
+        "en": "Play-off Europa-Play-offs"
+      },
+      "homeTeam": "FC Utrecht",
+      "awayTeam": "SC Heerenveen",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital Fussball 2",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital.de (Livestream)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Scottish Premiership",
+      "stage": {
+        "de": "Relegation Hinspiel",
+        "tr": "Baraj İlk maç",
+        "en": "Relegation First leg"
+      },
+      "homeTeam": "Partick Thistle FC",
+      "awayTeam": "St. Mirren FC",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital.de (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital+ (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-21T21:00:00+02:00"
     }
   ]
 }
