@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-22",
-  "generatedAt": "2026-05-22T08:17:05.804Z",
+  "date": "2026-05-23",
+  "generatedAt": "2026-05-23T07:24:53.339Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,24 +8,47 @@
     "en"
   ],
   "summary": {
-    "de": "16 Übertragungen heute, u.a. VfL Wolfsburg (U19) - VfB Stuttgart (U19) (17:00 Uhr).",
-    "tr": "Bugün 16 yayın, VfL Wolfsburg (U19) - VfB Stuttgart (U19) dahil (17:00).",
-    "en": "16 broadcasts today, including VfL Wolfsburg (U19) - VfB Stuttgart (U19) (17:00)."
+    "de": "59 Übertragungen heute, u.a. N.N. - N.N. (07:00 Uhr).",
+    "tr": "Bugün 59 yayın, N.N. - N.N. dahil (07:00).",
+    "en": "59 broadcasts today, including N.N. - N.N. (07:00)."
   },
   "matches": [
     {
-      "time": "17:00",
-      "competition": "Virsliga (Lettland)",
+      "time": "02:00",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
       },
-      "homeTeam": "Auda Riga",
-      "awayTeam": "FK Liepaja",
+      "homeTeam": "Boston Legacy FC ♀",
+      "awayTeam": "OL Reign ♀",
+      "channels": [
+        {
+          "name": "NWSL+",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T02:00:00+02:00"
+    },
+    {
+      "time": "07:00",
+      "competition": "AFC Women's Champions League",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "N.N.",
+      "awayTeam": "N.N.",
       "channels": [
         {
           "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "The AFC Hub (YouTube)",
           "logo": null
         },
         {
@@ -39,180 +62,21 @@
         {
           "name": "OneFootball TV (Android/Google TV)",
           "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
         }
       ],
-      "isHighlight": false,
-      "kickoff": "2026-05-22T17:00:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-05-23T07:00:00+02:00"
     },
     {
-      "time": "17:00",
-      "competition": "DFB-Pokal der Junioren",
+      "time": "10:10",
+      "competition": "A-League (Australien)",
       "stage": {
         "de": "Finale",
         "tr": "Final",
         "en": "Final"
       },
-      "homeTeam": "VfL Wolfsburg (U19)",
-      "awayTeam": "VfB Stuttgart (U19)",
-      "channels": [
-        {
-          "name": "Sky Sport Mix",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-mix-de.png"
-        },
-        {
-          "name": "Sky Sport Top Event",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png"
-        },
-        {
-          "name": "Sky Sport Mix HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-mix-de.png"
-        },
-        {
-          "name": "Sky Sport Top Event HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png"
-        },
-        {
-          "name": "Sky Go",
-          "logo": null
-        }
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-22T17:00:00+02:00"
-    },
-    {
-      "time": "17:15",
-      "competition": "Coupe Gambardella (Frankreich)",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "HSC Montpellier (U18)",
-      "awayTeam": "Paris St. Germain (U18)",
-      "channels": [
-        {
-          "name": "France 4",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png"
-        },
-        {
-          "name": "France 4 HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png"
-        },
-        {
-          "name": "France 4 (Livestream)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-4-fr.png"
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-22T17:15:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "08. Spieltag",
-        "tr": "08. Hafta",
-        "en": "Matchday 08"
-      },
-      "homeTeam": "Vaasan PS",
-      "awayTeam": "HJK Helsinki",
-      "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-22T18:00:00+02:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "ÖFB Frauen Bundesliga",
-      "stage": {
-        "de": "23. Spieltag Meistergruppe",
-        "tr": "23. Hafta MeisterGrup",
-        "en": "Matchday 23 MeisterGroup"
-      },
-      "homeTeam": "SK Sturm Graz ♀",
-      "awayTeam": "SKN St. Pölten ♀",
-      "channels": [
-        {
-          "name": "ÖFB TV",
-          "logo": null
-        },
-        {
-          "name": "ÖFB TV (via ÖFB App)",
-          "logo": null
-        }
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-22T18:30:00+02:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "Bundesliga (Österreich)",
-      "stage": {
-        "de": "Playoff Europacup-Playoff, Finale (Hinspiel)",
-        "tr": "Play-off Europacup-Play-off, Final (İlk maç)",
-        "en": "Play-off Europacup-Play-off, Final (First leg)"
-      },
-      "homeTeam": "SV Ried",
-      "awayTeam": "SK Rapid Wien",
-      "channels": [
-        {
-          "name": "Sky Sport Austria 1",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-austria-1-de.png"
-        },
-        {
-          "name": "Sky Sport Austria 1 HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-austria-1-de.png"
-        },
-        {
-          "name": "Sky Go (Austria)",
-          "logo": null
-        },
-        {
-          "name": "Sky X (Austria)",
-          "logo": null
-        },
-        {
-          "name": "Sky Go (Huawei, Austria)",
-          "logo": null
-        }
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-22T18:30:00+02:00"
-    },
-    {
-      "time": "19:45",
-      "competition": "Türkischer Pokal",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "Trabzonspor Kulübü",
-      "awayTeam": "Konyaspor",
+      "homeTeam": "Auckland FC",
+      "awayTeam": "Sydney FC",
       "channels": [
         {
           "name": "Sportdigital Fussball",
@@ -236,18 +100,263 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-22T19:45:00+02:00"
+      "kickoff": "2026-05-23T10:10:00+02:00"
     },
     {
-      "time": "20:00",
-      "competition": "Besta deild karla (Island)",
+      "time": "11:30",
+      "competition": "Landespokal Baden",
       "stage": {
-        "de": "08. Spieltag",
-        "tr": "08. Hafta",
-        "en": "Matchday 08"
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
       },
-      "homeTeam": "IF Keflavik",
-      "awayTeam": "Thor Akureyri",
+      "homeTeam": "VfR Mannheim",
+      "awayTeam": "Waldhof Mannheim",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "DFB.TV",
+          "logo": null
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T11:30:00+02:00"
+    },
+    {
+      "time": "11:30",
+      "competition": "Landespokal Schleswig-Holstein",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "SV Todesfelde",
+      "awayTeam": "1. FC Phönix Lübeck",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "NDR Livestream",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T11:30:00+02:00"
+    },
+    {
+      "time": "11:30",
+      "competition": "Landespokal Bremen",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "SV Hemelingen",
+      "awayTeam": "Leher TS",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T11:30:00+02:00"
+    },
+    {
+      "time": "11:30",
+      "competition": "Landespokal Berlin",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "VSG Altglienicke",
+      "awayTeam": "BFC Dynamo",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "rbb24",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T11:30:00+02:00"
+    },
+    {
+      "time": "11:30",
+      "competition": "Landespokal Brandenburg",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Energie Cottbus",
+      "awayTeam": "VfB Krieschow",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "rbb24",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T11:30:00+02:00"
+    },
+    {
+      "time": "11:30",
+      "competition": "Landespokal Hamburg",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "SC Vorwärts-Wacker Billstedt",
+      "awayTeam": "Hamburg-Elmsbütteler BC",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "NDR Livestream",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T11:30:00+02:00"
+    },
+    {
+      "time": "11:30",
+      "competition": "Landespokal Thüringen",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Carl Zeiss Jena",
+      "awayTeam": "ZFC Meuselwitz",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "MDR Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T11:30:00+02:00"
+    },
+    {
+      "time": "12:00",
+      "competition": "Premjer Liha (Ukraine)",
+      "stage": {
+        "de": "30. Spieltag",
+        "tr": "30. Hafta",
+        "en": "Matchday 30"
+      },
+      "homeTeam": "FC Oleksandria",
+      "awayTeam": "Krywbas Krywyj Rih",
       "channels": [
         {
           "name": "OneFootball",
@@ -271,18 +380,18 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-22T20:00:00+02:00"
+      "kickoff": "2026-05-23T12:00:00+02:00"
     },
     {
-      "time": "20:00",
-      "competition": "Besta deild karla (Island)",
+      "time": "13:00",
+      "competition": "Veikkausliiga (Finnland)",
       "stage": {
         "de": "08. Spieltag",
         "tr": "08. Hafta",
         "en": "Matchday 08"
       },
-      "homeTeam": "KA Akureyri",
-      "awayTeam": "Valur Reykjavik",
+      "homeTeam": "Inter Turku",
+      "awayTeam": "Turun PS",
       "channels": [
         {
           "name": "OneFootball",
@@ -306,21 +415,899 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-22T20:00:00+02:00"
+      "kickoff": "2026-05-23T13:00:00+02:00"
     },
     {
-      "time": "20:00",
-      "competition": "Serie B (Italien)",
+      "time": "13:30",
+      "competition": "WSL - Women's Super League (England)",
       "stage": {
-        "de": "Playout Rückspiel",
-        "tr": "Play-out Rövanş",
-        "en": "Play-out Second leg"
+        "de": "Relegation",
+        "tr": "Baraj",
+        "en": "Relegation"
       },
-      "homeTeam": "FC Südtirol",
-      "awayTeam": "SSC Bari",
+      "homeTeam": "Charlton Athletic",
+      "awayTeam": "Leicester City",
       "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital1+ (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital+ (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T13:30:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "Landespokal Südwest",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "TSV Schott Mainz",
+      "awayTeam": "FK Pirmasens",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T13:30:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "Landespokal Südbaden",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Bahlinger SC",
+      "awayTeam": "FC 08 Villingen",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T13:30:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "Landespokal Niedersachsen",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Lüneburger SK",
+      "awayTeam": "TUS Bersenbrück",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "NDR Livestream",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T13:30:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "Landespokal Mecklenburg-Vorpommern",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "SV Pastow",
+      "awayTeam": "Hansa Rostock",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "NDR Livestream",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T13:30:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "Landespokal Sachsen-Anhalt",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Germania Halberstadt",
+      "awayTeam": "Hallescher FC",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "MDR Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T13:30:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "Landespokal Rheinland",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "TuS Koblenz",
+      "awayTeam": "Eintracht Trier",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "DFB.TV",
+          "logo": null
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T13:30:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "ÖFB Frauen Bundesliga",
+      "stage": {
+        "de": "23. Spieltag Qualifikationsgruppe",
+        "tr": "23. Hafta ElemesGrup",
+        "en": "Matchday 23 QualificationsGroup"
+      },
+      "homeTeam": "Linzer ASK ♀",
+      "awayTeam": "SpG Südburgenland/TSV Hartberg ♀",
+      "channels": [
+        {
+          "name": "ÖFB TV",
+          "logo": null
+        },
+        {
+          "name": "ÖFB TV (via ÖFB App)",
+          "logo": null
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T14:00:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "ÖFB Frauen Bundesliga",
+      "stage": {
+        "de": "23. Spieltag Meistergruppe",
+        "tr": "23. Hafta MeisterGrup",
+        "en": "Matchday 23 MeisterGroup"
+      },
+      "homeTeam": "FK Austria Wien ♀",
+      "awayTeam": "Red Bull Salzburg ♀",
+      "channels": [
+        {
+          "name": "ÖFB TV",
+          "logo": null
+        },
+        {
+          "name": "ÖFB TV (via ÖFB App)",
+          "logo": null
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T14:00:00+02:00"
+    },
+    {
+      "time": "14:30",
+      "competition": "Premjer Liha (Ukraine)",
+      "stage": {
+        "de": "30. Spieltag",
+        "tr": "30. Hafta",
+        "en": "Matchday 30"
+      },
+      "homeTeam": "Epitsentr Kamianets-Podilskyi",
+      "awayTeam": "SK Poltava",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Android/Google TV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Apple TV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T14:30:00+02:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "ÖFB Frauen Bundesliga",
+      "stage": {
+        "de": "23. Spieltag Qualifikationsgruppe",
+        "tr": "23. Hafta ElemesGrup",
+        "en": "Matchday 23 QualificationsGroup"
+      },
+      "homeTeam": "FC Blau Weiß Linz/Union Kleinmünchen ♀",
+      "awayTeam": "SCR Altach ♀",
+      "channels": [
+        {
+          "name": "ORF Sport+",
+          "logo": null
+        },
+        {
+          "name": "ORF Sport+ HD",
+          "logo": null
+        },
+        {
+          "name": "ORF ON",
+          "logo": null
+        },
+        {
+          "name": "ORF ON (App)",
+          "logo": null
+        },
+        {
+          "name": "ORF ON (Amazon)",
+          "logo": null
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T15:00:00+02:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Landespokal Mittelrhein",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Fortuna Köln",
+      "awayTeam": "FC Viktoria Köln",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T15:30:00+02:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Landespokal Niederrhein",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "MSV Duisburg",
+      "awayTeam": "SC St. Tönis",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T15:30:00+02:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Landespokal Württemberg",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Stuttgarter Kickers",
+      "awayTeam": "SG Sonnenhof Großaspach",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T15:30:00+02:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Landespokal Sachsen",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "FSV Zwickau",
+      "awayTeam": "Erzgebirge Aue",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "DFB.TV",
+          "logo": null
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "MDR Mediathek",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T15:30:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "Ilves Tampere",
+      "awayTeam": "IF Gnistan",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Android/Google TV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Apple TV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "FF Jaro",
+      "awayTeam": "IFK Mariehamn",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Android/Google TV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Apple TV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "SJK Seinäjoki",
+      "awayTeam": "AC Oulu",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Android/Google TV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Apple TV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "Kuopion PS",
+      "awayTeam": "FC Lahti",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Android/Google TV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Apple TV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Women's Super League (Schweiz)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FC Rot-Schwarz Thun ♀",
+      "awayTeam": "FC Luzern ♀",
+      "channels": [
+        {
+          "name": "AWSL Play",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:00:00+02:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "Landespokal Saarland",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "1. FC Saarbrücken",
+      "awayTeam": "FC 08 Homburg",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:30:00+02:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "Landespokal Bayern",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "FC Würzburger Kickers",
+      "awayTeam": "TSV 1860 München",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "BR (ARD Mediathek)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/br-de.png"
+        },
+        {
+          "name": "BR24 Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "DFB.TV",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:30:00+02:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "Landespokal Westfalen",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "SC Verl",
+      "awayTeam": "Sportfreunde Lotte",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:30:00+02:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "EFL Championship (England)",
+      "stage": {
+        "de": "Playoff Finale",
+        "tr": "Play-off Final",
+        "en": "Play-off Final"
+      },
+      "homeTeam": "Hull City AFC",
+      "awayTeam": "FC Middlesbrough",
+      "channels": [
+        {
+          "name": "Sky Sport Premier League",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png"
+        },
+        {
+          "name": "Sky Sport Top Event",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png"
+        },
+        {
+          "name": "Sky Sport Premier League HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png"
+        },
+        {
+          "name": "Sky Sport Top Event HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png"
+        },
+        {
+          "name": "Sky Go",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:30:00+02:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "Landespokal Hessen",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "SG Barockstadt Fulda-Lehnerz",
+      "awayTeam": "SV Wehen Wiesbaden",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "Das Erste Mediathek",
+          "logo": null
+        },
+        {
+          "name": "sportschau.de (ARD)",
+          "logo": null
+        },
+        {
+          "name": "Das Erste (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T16:30:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Premjer Liha (Ukraine)",
+      "stage": {
+        "de": "30. Spieltag",
+        "tr": "30. Hafta",
+        "en": "Matchday 30"
+      },
+      "homeTeam": "Karpaty Lwiw",
+      "awayTeam": "FK Sorja Luhansk",
+      "channels": [
+        {
+          "name": "OneFootball",
+          "logo": null
+        },
+        {
+          "name": "OneFootball (App)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Amazon FireTV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Android/Google TV)",
+          "logo": null
+        },
+        {
+          "name": "OneFootball TV (Apple TV)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T17:00:00+02:00"
+    },
+    {
+      "time": "17:30",
+      "competition": "Ekstraklasa (Polen)",
+      "stage": {
+        "de": "34. Spieltag",
+        "tr": "34. Hafta",
+        "en": "Matchday 34"
+      },
+      "homeTeam": "Lech Posen",
+      "awayTeam": "Wisla Plock",
+      "channels": [
+        {
+          "name": "Sportdigital Fussball",
+          "logo": null
+        },
         {
           "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital Fussball HD",
           "logo": null
         },
         {
@@ -330,64 +1317,21 @@
         {
           "name": "OneFootball",
           "logo": null
-        },
-        {
-          "name": "blue Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-22T20:00:00+02:00"
+      "kickoff": "2026-05-23T17:30:00+02:00"
     },
     {
-      "time": "20:30",
-      "competition": "2. Bundesliga",
-      "stage": {
-        "de": "Relegation Hinspiel",
-        "tr": "Baraj İlk maç",
-        "en": "Relegation First leg"
-      },
-      "homeTeam": "Rot-Weiss Essen",
-      "awayTeam": "SpVgg Greuther Fürth",
-      "channels": [
-        {
-          "name": "SAT.1",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png"
-        },
-        {
-          "name": "Sky Sport Bundesliga",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png"
-        },
-        {
-          "name": "SAT.1 HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sat-1-de.png"
-        },
-        {
-          "name": "Sky Sport Bundesliga HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-bundesliga-de.png"
-        },
-        {
-          "name": "Sky Go",
-          "logo": null
-        }
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-22T20:30:00+02:00"
-    },
-    {
-      "time": "20:45",
+      "time": "18:00",
       "competition": "Serie A (Italien)",
       "stage": {
         "de": "38. Spieltag",
         "tr": "38. Hafta",
         "en": "Matchday 38"
       },
-      "homeTeam": "AC Florenz",
-      "awayTeam": "Atalanta Bergamo",
+      "homeTeam": "FC Bologna",
+      "awayTeam": "Inter Mailand",
       "channels": [
         {
           "name": "DAZN",
@@ -411,53 +1355,156 @@
         }
       ],
       "isHighlight": true,
-      "kickoff": "2026-05-22T20:45:00+02:00"
+      "kickoff": "2026-05-23T18:00:00+02:00"
     },
     {
-      "time": "21:00",
-      "competition": "Coupe de France",
+      "time": "18:00",
+      "competition": "Women's Super League (Schweiz)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Yverdon-Sport FC ♀",
+      "awayTeam": "FC Sion ♀",
+      "channels": [
+        {
+          "name": "AWSL Play",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Champions League (Frauen)",
       "stage": {
         "de": "Finale",
         "tr": "Final",
         "en": "Final"
       },
-      "homeTeam": "RC Lens",
-      "awayTeam": "O.G.C. Nizza",
+      "homeTeam": "FC Barcelona ♀",
+      "awayTeam": "OL Lyonnes ♀",
       "channels": [
         {
-          "name": "MagentaSport (Sat)",
+          "name": "SRF info",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-info-ch.png"
+        },
+        {
+          "name": "l'Équipe",
           "logo": null
         },
         {
-          "name": "France 2",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png"
-        },
-        {
-          "name": "MagentaSport HD",
+          "name": "L'Équipe HD",
           "logo": null
         },
         {
-          "name": "France 2 HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-2-fr.png"
+          "name": "SRF info HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-info-ch.png"
         },
         {
-          "name": "MagentaSport",
+          "name": "Disney+",
+          "logo": null
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T18:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Eredivisie (Niederlande)",
+      "stage": {
+        "de": "Relegation Rückspiel",
+        "tr": "Baraj Rövanş",
+        "en": "Relegation Second leg"
+      },
+      "homeTeam": "FC Volendam",
+      "awayTeam": "Willem II Tilburg",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T20:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "DFB-Pokal",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "VfB Stuttgart",
+      "channels": [
+        {
+          "name": "Das Erste",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        },
+        {
+          "name": "KiKA",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kika-de.png"
+        },
+        {
+          "name": "Sky Sport Top Event",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png"
+        },
+        {
+          "name": "l'Équipe",
+          "logo": null
+        },
+        {
+          "name": "Das Erste HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T20:00:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "St. Louis City",
+      "awayTeam": "Austin FC",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "logo": null
+        },
+        {
+          "name": "Apple TV (App)",
+          "logo": null
+        },
+        {
+          "name": "Apple TV (PlayStation)",
+          "logo": null
+        },
+        {
+          "name": "Apple TV (Set-Top-Box)",
+          "logo": null
+        },
+        {
+          "name": "Apple TV (Xbox)",
           "logo": null
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-22T21:00:00+02:00"
+      "kickoff": "2026-05-23T20:30:00+02:00"
     },
     {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
+      "time": "20:30",
+      "competition": "Niké Liga (Slowakei)",
       "stage": {
-        "de": "08. Spieltag",
-        "tr": "08. Hafta",
-        "en": "Matchday 08"
+        "de": "Relegation Rückspiel",
+        "tr": "Baraj Rövanş",
+        "en": "Relegation Second leg"
       },
-      "homeTeam": "UMF Stjarnan",
-      "awayTeam": "Fram Reykjavik",
+      "homeTeam": "KFC Komarno",
+      "awayTeam": "MFK Lokomotiva Zvolen",
       "channels": [
         {
           "name": "OneFootball",
@@ -481,77 +1528,446 @@
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-22T21:15:00+02:00"
+      "kickoff": "2026-05-23T20:30:00+02:00"
     },
     {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
+      "time": "20:45",
+      "competition": "Serie A (Italien)",
       "stage": {
-        "de": "08. Spieltag",
-        "tr": "08. Hafta",
-        "en": "Matchday 08"
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
       },
-      "homeTeam": "Breidablik Kópavogur",
-      "awayTeam": "KR Reykjavik",
+      "homeTeam": "Lazio Rom",
+      "awayTeam": "Pisa Sporting Club",
       "channels": [
         {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Amazon)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Android TV)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "DAZN (Apple TV)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T20:45:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "FC Valencia",
+      "awayTeam": "FC Barcelona",
+      "channels": [
+        {
+          "name": "DAZN 1",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-1-be.png"
+        },
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "DAZN 1 HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-1-be.png"
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Athletic Bilbao",
+      "channels": [
+        {
+          "name": "DAZN 2",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-2-be.png"
+        },
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "DAZN 2 HD",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-2-be.png"
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "RCD Mallorca",
+      "awayTeam": "Real Oviedo",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "blue Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "Girona F.C.",
+      "awayTeam": "Elche C.F.",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "blue Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "FC Getafe",
+      "awayTeam": "CA Osasuna",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "blue Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "Espanyol Barcelona",
+      "awayTeam": "Real Sociedad",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "blue Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "R.C. Celta de Vigo",
+      "awayTeam": "FC Sevilla",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "blue Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "Real Betis Balompié",
+      "awayTeam": "UD Levante",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "blue Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "38. Spieltag",
+        "tr": "38. Hafta",
+        "en": "Matchday 38"
+      },
+      "homeTeam": "Deportivo Alaves",
+      "awayTeam": "Rayo Vallecano",
+      "channels": [
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
+          "name": "DAZN",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        },
+        {
+          "name": "blue Sport (Livestream)",
+          "logo": null
+        },
+        {
+          "name": "DAZN (App)",
+          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
+        }
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-23T21:00:00+02:00"
+    },
+    {
+      "time": "22:00",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
+      "stage": {
+        "de": "17. Spieltag",
+        "tr": "17. Hafta",
+        "en": "Matchday 17"
+      },
+      "homeTeam": "FC Sao Paulo",
+      "awayTeam": "Botafogo",
+      "channels": [
+        {
+          "name": "Sportdigital Fussball",
+          "logo": null
+        },
+        {
+          "name": "blue Sport",
+          "logo": null
+        },
+        {
+          "name": "Sportdigital Fussball HD",
+          "logo": null
+        },
+        {
+          "name": "blue Sport HD",
+          "logo": null
+        },
+        {
           "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
           "logo": null
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-22T21:15:00+02:00"
+      "kickoff": "2026-05-23T22:00:00+02:00"
     },
     {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
+      "time": "22:00",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "08. Spieltag",
-        "tr": "08. Hafta",
-        "en": "Matchday 08"
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
       },
-      "homeTeam": "Vikingur Reykjavik",
-      "awayTeam": "FH Hafnarfjördur",
+      "homeTeam": "Racing Louisville FC ♀",
+      "awayTeam": "North Carolina Courage ♀",
       "channels": [
         {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
+          "name": "NWSL+",
           "logo": null
         }
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-22T21:15:00+02:00"
+      "kickoff": "2026-05-23T22:00:00+02:00"
+    },
+    {
+      "time": "22:30",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Minnesota United FC",
+      "awayTeam": "Real Salt Lake City",
+      "channels": [
+        {
+          "name": "Apple TV",
+          "logo": null
+        },
+        {
+          "name": "Apple TV (App)",
+          "logo": null
+        },
+        {
+          "name": "Apple TV (PlayStation)",
+          "logo": null
+        },
+        {
+          "name": "Apple TV (Set-Top-Box)",
+          "logo": null
+        },
+        {
+          "name": "Apple TV (Xbox)",
+          "logo": null
+        }
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-23T22:30:00+02:00"
     }
   ]
 }
