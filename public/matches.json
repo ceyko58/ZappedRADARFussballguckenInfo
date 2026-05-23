@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generatedAt": "2026-05-23T07:24:53.339Z",
+  "generatedAt": "2026-05-23T18:36:01.593Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -24,10 +24,7 @@
       "homeTeam": "Boston Legacy FC ♀",
       "awayTeam": "OL Reign ♀",
       "channels": [
-        {
-          "name": "NWSL+",
-          "logo": null
-        }
+        "NWSL+"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T02:00:00+02:00"
@@ -43,26 +40,11 @@
       "homeTeam": "N.N.",
       "awayTeam": "N.N.",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "The AFC Hub (YouTube)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "The AFC Hub (YouTube)",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T07:00:00+02:00"
@@ -78,26 +60,11 @@
       "homeTeam": "Auckland FC",
       "awayTeam": "Sydney FC",
       "channels": [
-        {
-          "name": "Sportdigital Fussball",
-          "logo": null
-        },
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital Fussball HD",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "OneFootball",
-          "logo": null
-        }
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T10:10:00+02:00"
@@ -113,26 +80,11 @@
       "homeTeam": "VfR Mannheim",
       "awayTeam": "Waldhof Mannheim",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "DFB.TV",
-          "logo": null
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "DFB.TV (via Sky)",
+        "Das Erste",
+        "Das Erste HD",
+        "DFB.TV",
+        "Das Erste Mediathek"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T11:30:00+02:00"
@@ -148,26 +100,11 @@
       "homeTeam": "SV Todesfelde",
       "awayTeam": "1. FC Phönix Lübeck",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "NDR Livestream",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "NDR Livestream",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T11:30:00+02:00"
@@ -183,26 +120,11 @@
       "homeTeam": "SV Hemelingen",
       "awayTeam": "Leher TS",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "sportschau.de (ARD)",
+        "Das Erste (App)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T11:30:00+02:00"
@@ -218,26 +140,11 @@
       "homeTeam": "VSG Altglienicke",
       "awayTeam": "BFC Dynamo",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "rbb24",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "rbb24",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T11:30:00+02:00"
@@ -253,26 +160,11 @@
       "homeTeam": "Energie Cottbus",
       "awayTeam": "VfB Krieschow",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "rbb24",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "rbb24",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T11:30:00+02:00"
@@ -288,26 +180,11 @@
       "homeTeam": "SC Vorwärts-Wacker Billstedt",
       "awayTeam": "Hamburg-Elmsbütteler BC",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "NDR Livestream",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "NDR Livestream",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T11:30:00+02:00"
@@ -323,26 +200,11 @@
       "homeTeam": "Carl Zeiss Jena",
       "awayTeam": "ZFC Meuselwitz",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "MDR Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "MDR Mediathek",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T11:30:00+02:00"
@@ -358,26 +220,11 @@
       "homeTeam": "FC Oleksandria",
       "awayTeam": "Krywbas Krywyj Rih",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T12:00:00+02:00"
@@ -393,26 +240,11 @@
       "homeTeam": "Inter Turku",
       "awayTeam": "Turun PS",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T13:00:00+02:00"
@@ -428,26 +260,11 @@
       "homeTeam": "Charlton Athletic",
       "awayTeam": "Leicester City",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital1+ (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital+ (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        }
+        "OneFootball",
+        "Sportdigital1+ (Livestream)",
+        "OneFootball (App)",
+        "Sportdigital+ (App)",
+        "OneFootball TV (Amazon FireTV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T13:30:00+02:00"
@@ -463,26 +280,11 @@
       "homeTeam": "TSV Schott Mainz",
       "awayTeam": "FK Pirmasens",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "sportschau.de (ARD)",
+        "Das Erste (App)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T13:30:00+02:00"
@@ -498,26 +300,11 @@
       "homeTeam": "Bahlinger SC",
       "awayTeam": "FC 08 Villingen",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "sportschau.de (ARD)",
+        "Das Erste (App)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T13:30:00+02:00"
@@ -533,26 +320,11 @@
       "homeTeam": "Lüneburger SK",
       "awayTeam": "TUS Bersenbrück",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "NDR Livestream",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "NDR Livestream",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T13:30:00+02:00"
@@ -568,26 +340,11 @@
       "homeTeam": "SV Pastow",
       "awayTeam": "Hansa Rostock",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "NDR Livestream",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "NDR Livestream",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T13:30:00+02:00"
@@ -603,26 +360,11 @@
       "homeTeam": "Germania Halberstadt",
       "awayTeam": "Hallescher FC",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "MDR Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "MDR Mediathek",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T13:30:00+02:00"
@@ -638,26 +380,11 @@
       "homeTeam": "TuS Koblenz",
       "awayTeam": "Eintracht Trier",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "DFB.TV",
-          "logo": null
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        }
+        "DFB.TV (via Sky)",
+        "Das Erste",
+        "Das Erste HD",
+        "DFB.TV",
+        "Das Erste Mediathek"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T13:30:00+02:00"
@@ -673,14 +400,8 @@
       "homeTeam": "Linzer ASK ♀",
       "awayTeam": "SpG Südburgenland/TSV Hartberg ♀",
       "channels": [
-        {
-          "name": "ÖFB TV",
-          "logo": null
-        },
-        {
-          "name": "ÖFB TV (via ÖFB App)",
-          "logo": null
-        }
+        "ÖFB TV",
+        "ÖFB TV (via ÖFB App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T14:00:00+02:00"
@@ -696,14 +417,8 @@
       "homeTeam": "FK Austria Wien ♀",
       "awayTeam": "Red Bull Salzburg ♀",
       "channels": [
-        {
-          "name": "ÖFB TV",
-          "logo": null
-        },
-        {
-          "name": "ÖFB TV (via ÖFB App)",
-          "logo": null
-        }
+        "ÖFB TV",
+        "ÖFB TV (via ÖFB App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T14:00:00+02:00"
@@ -719,26 +434,11 @@
       "homeTeam": "Epitsentr Kamianets-Podilskyi",
       "awayTeam": "SK Poltava",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T14:30:00+02:00"
@@ -754,26 +454,11 @@
       "homeTeam": "FC Blau Weiß Linz/Union Kleinmünchen ♀",
       "awayTeam": "SCR Altach ♀",
       "channels": [
-        {
-          "name": "ORF Sport+",
-          "logo": null
-        },
-        {
-          "name": "ORF Sport+ HD",
-          "logo": null
-        },
-        {
-          "name": "ORF ON",
-          "logo": null
-        },
-        {
-          "name": "ORF ON (App)",
-          "logo": null
-        },
-        {
-          "name": "ORF ON (Amazon)",
-          "logo": null
-        }
+        "ORF Sport+",
+        "ORF Sport+ HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T15:00:00+02:00"
@@ -789,26 +474,11 @@
       "homeTeam": "Fortuna Köln",
       "awayTeam": "FC Viktoria Köln",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "sportschau.de (ARD)",
+        "Das Erste (App)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T15:30:00+02:00"
@@ -824,26 +494,11 @@
       "homeTeam": "MSV Duisburg",
       "awayTeam": "SC St. Tönis",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "sportschau.de (ARD)",
+        "Das Erste (App)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T15:30:00+02:00"
@@ -859,26 +514,11 @@
       "homeTeam": "Stuttgarter Kickers",
       "awayTeam": "SG Sonnenhof Großaspach",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "sportschau.de (ARD)",
+        "Das Erste (App)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T15:30:00+02:00"
@@ -894,26 +534,11 @@
       "homeTeam": "FSV Zwickau",
       "awayTeam": "Erzgebirge Aue",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "DFB.TV",
-          "logo": null
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "MDR Mediathek",
-          "logo": null
-        }
+        "DFB.TV (via Sky)",
+        "Das Erste",
+        "Das Erste HD",
+        "DFB.TV",
+        "Das Erste Mediathek"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T15:30:00+02:00"
@@ -929,26 +554,11 @@
       "homeTeam": "Ilves Tampere",
       "awayTeam": "IF Gnistan",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:00:00+02:00"
@@ -964,26 +574,11 @@
       "homeTeam": "FF Jaro",
       "awayTeam": "IFK Mariehamn",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:00:00+02:00"
@@ -999,26 +594,11 @@
       "homeTeam": "SJK Seinäjoki",
       "awayTeam": "AC Oulu",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:00:00+02:00"
@@ -1034,26 +614,11 @@
       "homeTeam": "Kuopion PS",
       "awayTeam": "FC Lahti",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:00:00+02:00"
@@ -1069,10 +634,7 @@
       "homeTeam": "FC Rot-Schwarz Thun ♀",
       "awayTeam": "FC Luzern ♀",
       "channels": [
-        {
-          "name": "AWSL Play",
-          "logo": null
-        }
+        "AWSL Play"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:00:00+02:00"
@@ -1088,26 +650,11 @@
       "homeTeam": "1. FC Saarbrücken",
       "awayTeam": "FC 08 Homburg",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "sportschau.de (ARD)",
+        "Das Erste (App)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:30:00+02:00"
@@ -1123,26 +670,11 @@
       "homeTeam": "FC Würzburger Kickers",
       "awayTeam": "TSV 1860 München",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "BR (ARD Mediathek)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/br-de.png"
-        },
-        {
-          "name": "BR24 Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "DFB.TV",
-          "logo": null
-        }
+        "DFB.TV (via Sky)",
+        "Das Erste",
+        "Das Erste HD",
+        "BR (ARD Mediathek)",
+        "BR24 Sport (Livestream)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:30:00+02:00"
@@ -1158,26 +690,11 @@
       "homeTeam": "SC Verl",
       "awayTeam": "Sportfreunde Lotte",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "sportschau.de (ARD)",
+        "Das Erste (App)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:30:00+02:00"
@@ -1193,26 +710,11 @@
       "homeTeam": "Hull City AFC",
       "awayTeam": "FC Middlesbrough",
       "channels": [
-        {
-          "name": "Sky Sport Premier League",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png"
-        },
-        {
-          "name": "Sky Sport Top Event",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png"
-        },
-        {
-          "name": "Sky Sport Premier League HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-premier-league-de.png"
-        },
-        {
-          "name": "Sky Sport Top Event HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png"
-        },
-        {
-          "name": "Sky Go",
-          "logo": null
-        }
+        "Sky Sport Premier League",
+        "Sky Sport Top Event",
+        "Sky Sport Premier League HD",
+        "Sky Sport Top Event HD",
+        "Sky Go"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:30:00+02:00"
@@ -1228,26 +730,11 @@
       "homeTeam": "SG Barockstadt Fulda-Lehnerz",
       "awayTeam": "SV Wehen Wiesbaden",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "Das Erste Mediathek",
-          "logo": null
-        },
-        {
-          "name": "sportschau.de (ARD)",
-          "logo": null
-        },
-        {
-          "name": "Das Erste (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "hessenschau.de",
+        "sportschau.de (ARD)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T16:30:00+02:00"
@@ -1263,26 +750,11 @@
       "homeTeam": "Karpaty Lwiw",
       "awayTeam": "FK Sorja Luhansk",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T17:00:00+02:00"
@@ -1298,26 +770,11 @@
       "homeTeam": "Lech Posen",
       "awayTeam": "Wisla Plock",
       "channels": [
-        {
-          "name": "Sportdigital Fussball",
-          "logo": null
-        },
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital Fussball HD",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "OneFootball",
-          "logo": null
-        }
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T17:30:00+02:00"
@@ -1333,26 +790,11 @@
       "homeTeam": "FC Bologna",
       "awayTeam": "Inter Mailand",
       "channels": [
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "DAZN (Amazon)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "DAZN (Android TV)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "DAZN (Apple TV)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T18:00:00+02:00"
@@ -1368,10 +810,7 @@
       "homeTeam": "Yverdon-Sport FC ♀",
       "awayTeam": "FC Sion ♀",
       "channels": [
-        {
-          "name": "AWSL Play",
-          "logo": null
-        }
+        "AWSL Play"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T18:00:00+02:00"
@@ -1387,26 +826,11 @@
       "homeTeam": "FC Barcelona ♀",
       "awayTeam": "OL Lyonnes ♀",
       "channels": [
-        {
-          "name": "SRF info",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-info-ch.png"
-        },
-        {
-          "name": "l'Équipe",
-          "logo": null
-        },
-        {
-          "name": "L'Équipe HD",
-          "logo": null
-        },
-        {
-          "name": "SRF info HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/switzerland/srf-info-ch.png"
-        },
-        {
-          "name": "Disney+",
-          "logo": null
-        }
+        "SRF info",
+        "l'Équipe",
+        "L'Équipe HD",
+        "SRF info HD",
+        "Disney+"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T18:00:00+02:00"
@@ -1436,26 +860,11 @@
       "homeTeam": "FC Bayern München",
       "awayTeam": "VfB Stuttgart",
       "channels": [
-        {
-          "name": "Das Erste",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        },
-        {
-          "name": "KiKA",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/kika-de.png"
-        },
-        {
-          "name": "Sky Sport Top Event",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/sky-sport/sky-sport-top-event-de.png"
-        },
-        {
-          "name": "l'Équipe",
-          "logo": null
-        },
-        {
-          "name": "Das Erste HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/das-erste-de.png"
-        }
+        "Das Erste",
+        "KiKA",
+        "Sky Sport Top Event",
+        "l'Équipe",
+        "Das Erste HD"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T20:00:00+02:00"
@@ -1471,26 +880,11 @@
       "homeTeam": "St. Louis City",
       "awayTeam": "Austin FC",
       "channels": [
-        {
-          "name": "Apple TV",
-          "logo": null
-        },
-        {
-          "name": "Apple TV (App)",
-          "logo": null
-        },
-        {
-          "name": "Apple TV (PlayStation)",
-          "logo": null
-        },
-        {
-          "name": "Apple TV (Set-Top-Box)",
-          "logo": null
-        },
-        {
-          "name": "Apple TV (Xbox)",
-          "logo": null
-        }
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T20:30:00+02:00"
@@ -1506,26 +900,11 @@
       "homeTeam": "KFC Komarno",
       "awayTeam": "MFK Lokomotiva Zvolen",
       "channels": [
-        {
-          "name": "OneFootball",
-          "logo": null
-        },
-        {
-          "name": "OneFootball (App)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Amazon FireTV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Android/Google TV)",
-          "logo": null
-        },
-        {
-          "name": "OneFootball TV (Apple TV)",
-          "logo": null
-        }
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T20:30:00+02:00"
@@ -1541,26 +920,11 @@
       "homeTeam": "Lazio Rom",
       "awayTeam": "Pisa Sporting Club",
       "channels": [
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "DAZN (Amazon)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "DAZN (Android TV)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "DAZN (Apple TV)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T20:45:00+02:00"
@@ -1576,26 +940,11 @@
       "homeTeam": "FC Valencia",
       "awayTeam": "FC Barcelona",
       "channels": [
-        {
-          "name": "DAZN 1",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-1-be.png"
-        },
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "DAZN 1 HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-1-be.png"
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "DAZN 1",
+        "blue Sport",
+        "DAZN 1 HD",
+        "blue Sport HD",
+        "DAZN"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1611,26 +960,11 @@
       "homeTeam": "Real Madrid",
       "awayTeam": "Athletic Bilbao",
       "channels": [
-        {
-          "name": "DAZN 2",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-2-be.png"
-        },
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "DAZN 2 HD",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/belgium/dazn-2-be.png"
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "DAZN 2",
+        "blue Sport",
+        "DAZN 2 HD",
+        "blue Sport HD",
+        "DAZN"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1646,26 +980,11 @@
       "homeTeam": "RCD Mallorca",
       "awayTeam": "Real Oviedo",
       "channels": [
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "blue Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1681,26 +1000,11 @@
       "homeTeam": "Girona F.C.",
       "awayTeam": "Elche C.F.",
       "channels": [
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "blue Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1716,26 +1020,11 @@
       "homeTeam": "FC Getafe",
       "awayTeam": "CA Osasuna",
       "channels": [
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "blue Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1751,26 +1040,11 @@
       "homeTeam": "Espanyol Barcelona",
       "awayTeam": "Real Sociedad",
       "channels": [
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "blue Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1786,26 +1060,11 @@
       "homeTeam": "R.C. Celta de Vigo",
       "awayTeam": "FC Sevilla",
       "channels": [
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "blue Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1821,26 +1080,11 @@
       "homeTeam": "Real Betis Balompié",
       "awayTeam": "UD Levante",
       "channels": [
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "blue Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1856,26 +1100,11 @@
       "homeTeam": "Deportivo Alaves",
       "awayTeam": "Rayo Vallecano",
       "channels": [
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "DAZN",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        },
-        {
-          "name": "blue Sport (Livestream)",
-          "logo": null
-        },
-        {
-          "name": "DAZN (App)",
-          "logo": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dazn-de.png"
-        }
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
       ],
       "isHighlight": true,
       "kickoff": "2026-05-23T21:00:00+02:00"
@@ -1891,26 +1120,11 @@
       "homeTeam": "FC Sao Paulo",
       "awayTeam": "Botafogo",
       "channels": [
-        {
-          "name": "Sportdigital Fussball",
-          "logo": null
-        },
-        {
-          "name": "blue Sport",
-          "logo": null
-        },
-        {
-          "name": "Sportdigital Fussball HD",
-          "logo": null
-        },
-        {
-          "name": "blue Sport HD",
-          "logo": null
-        },
-        {
-          "name": "OneFootball",
-          "logo": null
-        }
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T22:00:00+02:00"
@@ -1926,10 +1140,7 @@
       "homeTeam": "Racing Louisville FC ♀",
       "awayTeam": "North Carolina Courage ♀",
       "channels": [
-        {
-          "name": "NWSL+",
-          "logo": null
-        }
+        "NWSL+"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T22:00:00+02:00"
@@ -1945,26 +1156,11 @@
       "homeTeam": "Minnesota United FC",
       "awayTeam": "Real Salt Lake City",
       "channels": [
-        {
-          "name": "Apple TV",
-          "logo": null
-        },
-        {
-          "name": "Apple TV (App)",
-          "logo": null
-        },
-        {
-          "name": "Apple TV (PlayStation)",
-          "logo": null
-        },
-        {
-          "name": "Apple TV (Set-Top-Box)",
-          "logo": null
-        },
-        {
-          "name": "Apple TV (Xbox)",
-          "logo": null
-        }
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
       ],
       "isHighlight": false,
       "kickoff": "2026-05-23T22:30:00+02:00"
