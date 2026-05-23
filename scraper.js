@@ -1,4 +1,4 @@
-// scraper.js — OHNE KI, mit Sender-Logos
+// scraper.js — OHNE KI, reines Parsing mit Cheerio
 import fs from "node:fs/promises";
 import path from "node:path";
 import * as cheerio from "cheerio";
@@ -6,8 +6,6 @@ import * as cheerio from "cheerio";
 const SOURCE_URL = "https://fussballgucken.info/fussball-heute";
 const OUTPUT_DIR = process.env.OUTPUT_DIR || "./public";
 const OUTPUT_FILE = path.join(OUTPUT_DIR, "matches.json");
-const LOGO_TREE = "https://api.github.com/repos/tv-logo/tv-logos/git/trees/main?recursive=1";
-const LOGO_RAW = "https://raw.githubusercontent.com/tv-logo/tv-logos/main/";
 
 function berlinLocalToISO(dateStr, timeStr) {
   const probe = new Date(`${dateStr}T12:00:00Z`);
@@ -72,43 +70,6 @@ function splitTeams(slug, teamMap) {
   return { home: null, away: null };
 }
 
-// Logo-Index aus tv-logos Repo aufbauen
-async function buildLogoIndex() {
-  try {
-    const headers = { "User-Agent": "FussballAgent" };
-    if (process.env.GITHUB_TOKEN) headers.Authorization = `Bearer ${process.env.GITHUB_TOKEN}`;
-    const res = await fetch(LOGO_TREE, { headers });
-    if (!res.ok) { console.log(`⚠️ Logo-Index nicht ladbar (HTTP ${res.status})`); return {}; }
-    const data = await res.json();
-    const prio = { de: 1, at: 2, ch: 3, uk: 4, us: 5, int: 6 };
-    const index = {};
-    for (const node of data.tree || []) {
-      const p = node.path;
-      if (!p.startsWith("countries/") || !p.endsWith(".png")) continue;
-      if (/\/(old|custom)\//i.test(p) || /stacked|mosaic/i.test(p)) continue;
-      const file = p.split("/").pop().replace(/\.png$/, "");
-      if (/-(alt|hz|snow|alt2|hz2)$/.test(file)) continue;
-      const cm = file.match(/-([a-z]{2}|int)$/);
-      const country = cm ? cm[1] : "";
-      const base = cm ? file.slice(0, -(cm[1].length + 1)) : file;
-      const pr = prio[country] || 9;
-      if (!index[base] || pr < index[base].pr) index[base] = { url: LOGO_RAW + p, pr };
-    }
-    console.log(`▶︎ ${Object.keys(index).length} Logo-Einträge indiziert`);
-    return index;
-  } catch (e) { console.log(`⚠️ Logo-Index Fehler: ${e.message}`); return {}; }
-}
-
-function findLogo(name, index) {
-  const c = name.toLowerCase().replace(/\([^)]*\)/g, "").replace(/\bhd\b/g, "").trim();
-  const slug = c.replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-  const noDigitDash = slug.replace(/-(\d)/g, "$1");
-  for (const key of [slug, noDigitDash]) {
-    if (index[key]) return index[key].url;
-  }
-  return null;
-}
-
 function parseMatches(html) {
   const $ = cheerio.load(html);
   $("script, style, noscript, header, footer, nav").remove();
@@ -161,7 +122,7 @@ function parseMatches(html) {
         } else cur = { _id: t.id, _skip: true };
       }
     } else if (t.type === "sender" && cur && !cur._skip) {
-      if (!cur.channels.some((c) => c.name === t.name)) cur.channels.push({ name: t.name, logo: null });
+      if (!cur.channels.includes(t.name)) cur.channels.push(t.name);
     }
   }
 
@@ -194,24 +155,12 @@ async function main() {
   const date = extractPageDate(html);
   console.log(`📅 Datum: ${date}`);
 
-  console.log("▶︎ Lade Sender-Logo-Index …");
-  const logoIndex = await buildLogoIndex();
-
   console.log("▶︎ Parse Spiele …");
   const matches = parseMatches(html);
+  console.log(`▶︎ ${matches.length} Spiele gefunden`);
+  if (matches[0]) console.log(`▶︎ Beispiel: ${matches[0].time} ${matches[0].homeTeam} - ${matches[0].awayTeam} [${matches[0].channels.slice(0,3).join(", ")}]`);
 
-  // Logos zuordnen
-  let withLogo = 0, total = 0;
-  for (const m of matches) {
-    m.kickoff = berlinLocalToISO(date, m.time);
-    for (const ch of m.channels) {
-      total++;
-      ch.logo = findLogo(ch.name, logoIndex);
-      if (ch.logo) withLogo++;
-    }
-  }
-  console.log(`▶︎ ${matches.length} Spiele, ${withLogo}/${total} Sender mit Logo`);
-  if (matches[0]) console.log(`▶︎ Beispiel: ${matches[0].time} ${matches[0].homeTeam} - ${matches[0].awayTeam}`);
+  for (const m of matches) m.kickoff = berlinLocalToISO(date, m.time);
 
   const data = {
     date, generatedAt: new Date().toISOString(), source: SOURCE_URL,
