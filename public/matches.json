@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-24",
-  "generatedAt": "2026-05-24T07:45:35.588Z",
+  "date": "2026-05-25",
+  "generatedAt": "2026-05-25T08:50:12.001Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,21 +8,77 @@
     "en"
   ],
   "summary": {
-    "de": "50 Übertragungen heute, u.a. Parma Calcio 1913 - US Sassuolo Calcio (15:00 Uhr).",
-    "tr": "Bugün 50 yayın, Parma Calcio 1913 - US Sassuolo Calcio dahil (15:00).",
-    "en": "50 broadcasts today, including Parma Calcio 1913 - US Sassuolo Calcio (15:00)."
+    "de": "11 Übertragungen heute, u.a. SK Rapid Wien - SV Ried (16:30 Uhr).",
+    "tr": "Bugün 11 yayın, SK Rapid Wien - SV Ried dahil (16:30).",
+    "en": "11 broadcasts today, including SK Rapid Wien - SV Ried (16:30)."
   },
   "matches": [
     {
-      "time": "00:00",
-      "competition": "Campeonato Brasileiro Série A (Brasilien)",
+      "time": "01:00",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "17. Spieltag",
-        "tr": "17. Hafta",
-        "en": "Matchday 17"
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
       },
-      "homeTeam": "Gremio Porto Alegre",
-      "awayTeam": "FC Santos",
+      "homeTeam": "San Diego Wave FC ♀",
+      "awayTeam": "Orlando Pride ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-25T01:00:00+02:00"
+    },
+    {
+      "time": "01:00",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Inter Miami",
+      "awayTeam": "Philadelphia Union",
+      "channels": [
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-25T01:00:00+02:00"
+    },
+    {
+      "time": "03:00",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Los Angeles FC",
+      "awayTeam": "Seattle Sounders",
+      "channels": [
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-25T03:00:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "U17-EM",
+      "stage": {
+        "de": "Gruppenphase 1. Spieltag",
+        "tr": "Grupnphase 1. Hafta",
+        "en": "Groupnphase Matchday 1"
+      },
+      "homeTeam": "Kroatien (U17)",
+      "awayTeam": "Belgien (U17)",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
@@ -31,350 +87,58 @@
         "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-24T00:00:00+02:00"
-    },
-    {
-      "time": "00:30",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "Utah Royals FC ♀",
-      "awayTeam": "Denver Summit ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T00:30:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "D.C. United",
-      "awayTeam": "Montreal Impact",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T01:30:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "FC Cincinnati",
-      "awayTeam": "Orlando City SC",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T01:30:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Charlotte FC",
-      "awayTeam": "New England Revolution",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T01:30:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Nashville SC",
-      "awayTeam": "New York City FC",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T02:30:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Sporting Kansas City",
-      "awayTeam": "New York Red Bulls",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T02:30:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Chicago Fire",
-      "awayTeam": "Toronto FC",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T02:30:00+02:00"
-    },
-    {
-      "time": "02:45",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "Houston Dash ♀",
-      "awayTeam": "Angel City FC ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T02:45:00+02:00"
-    },
-    {
-      "time": "03:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "San Diego FC",
-      "awayTeam": "Vancouver Whitecaps",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T03:30:00+02:00"
-    },
-    {
-      "time": "03:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Portland Timbers",
-      "awayTeam": "San Jose Earthquakes",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T03:30:00+02:00"
-    },
-    {
-      "time": "03:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Colorado Rapids",
-      "awayTeam": "FC Dallas",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T03:30:00+02:00"
-    },
-    {
-      "time": "04:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "LA Galaxy",
-      "awayTeam": "Houston Dynamo",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T04:30:00+02:00"
-    },
-    {
-      "time": "12:00",
-      "competition": "Premjer Liha (Ukraine)",
-      "stage": {
-        "de": "30. Spieltag",
-        "tr": "30. Hafta",
-        "en": "Matchday 30"
-      },
-      "homeTeam": "Polissya Schytomyr",
-      "awayTeam": "FC Ruch Lwiw",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T12:00:00+02:00"
-    },
-    {
-      "time": "12:00",
-      "competition": "Premjer Liha (Ukraine)",
-      "stage": {
-        "de": "30. Spieltag",
-        "tr": "30. Hafta",
-        "en": "Matchday 30"
-      },
-      "homeTeam": "Dynamo Kiew",
-      "awayTeam": "FC Kudrivka",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T12:00:00+02:00"
-    },
-    {
-      "time": "12:00",
-      "competition": "Premjer Liha (Ukraine)",
-      "stage": {
-        "de": "30. Spieltag",
-        "tr": "30. Hafta",
-        "en": "Matchday 30"
-      },
-      "homeTeam": "FC Obolon Kiew",
-      "awayTeam": "LNZ Tscherkassy",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T12:00:00+02:00"
-    },
-    {
-      "time": "12:00",
-      "competition": "Premjer Liha (Ukraine)",
-      "stage": {
-        "de": "30. Spieltag",
-        "tr": "30. Hafta",
-        "en": "Matchday 30"
-      },
-      "homeTeam": "FC Veres Rivne",
-      "awayTeam": "Metalist Charkiw",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T12:00:00+02:00"
-    },
-    {
-      "time": "12:15",
-      "competition": "Eredivisie (Niederlande)",
-      "stage": {
-        "de": "Playoff Europa-Qualifikation",
-        "tr": "Play-off Europa-Eleme",
-        "en": "Play-off Europa-Qualification"
-      },
-      "homeTeam": "Ajax Amsterdam",
-      "awayTeam": "FC Utrecht",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "DAZN"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T12:15:00+02:00"
+      "kickoff": "2026-05-25T13:30:00+02:00"
     },
     {
       "time": "14:00",
+      "competition": "Women's Super League (Schweiz)",
+      "stage": {
+        "de": "Playoff Finale (Hinspiel)",
+        "tr": "Play-off Final (İlk maç)",
+        "en": "Play-off Final (First leg)"
+      },
+      "homeTeam": "BSC Young Boys ♀",
+      "awayTeam": "Servette FC Chênois ♀",
+      "channels": [
+        "RSI LA 2",
+        "SRF zwei",
+        "RSI LA 2 HD",
+        "SRF zwei HD",
+        "Play RSI (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-25T14:00:00+02:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "Bundesliga (Österreich)",
+      "stage": {
+        "de": "Playoff Europacup-Playoff, Finale (Rückspiel)",
+        "tr": "Play-off Europacup-Play-off, Final (Rövanş)",
+        "en": "Play-off Europacup-Play-off, Final (Second leg)"
+      },
+      "homeTeam": "SK Rapid Wien",
+      "awayTeam": "SV Ried",
+      "channels": [
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 1 HD",
+        "Sky Go (Austria)",
+        "Sky X (Austria)",
+        "Sky Go (Huawei, Austria)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-25T16:30:00+02:00"
+    },
+    {
+      "time": "17:00",
       "competition": "Virsliga (Lettland)",
       "stage": {
         "de": "15. Spieltag",
         "tr": "15. Hafta",
         "en": "Matchday 15"
       },
-      "homeTeam": "Riga FC",
-      "awayTeam": "SK Super Nova",
+      "homeTeam": "FK Ogre United",
+      "awayTeam": "Grobinas Sporta Centrs",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -383,605 +147,87 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-24T14:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Chance Liga (Tschechien)",
-      "stage": {
-        "de": "35. Spieltag",
-        "tr": "35. Hafta",
-        "en": "Matchday 35"
-      },
-      "homeTeam": "Slavia Prag",
-      "awayTeam": "Viktoria Pilsen",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T14:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Landespokal Niedersachsen",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "SSV Jeddeloh II",
-      "awayTeam": "SV Drochtersen/Assel",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T14:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Schweizer Cup",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "FC Stade-Lausanne-Ouchy",
-      "awayTeam": "FC St. Gallen",
-      "channels": [
-        "RSI LA 2",
-        "RTS 2",
-        "SRF zwei",
-        "RSI LA 2 HD",
-        "RTS 2 HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T14:00:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "Parma Calcio 1913",
-      "awayTeam": "US Sassuolo Calcio",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T15:00:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "Länderspiel (U15 Frauen)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Deutschland ♀ (U15)",
-      "awayTeam": "USA ♀ (U15)",
-      "channels": [
-        "DFB.TV (via Sky)",
-        "DFB.TV",
-        "DFB.TV+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T15:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "West Ham United",
-      "awayTeam": "Leeds United",
-      "channels": [
-        "Sky Sport 3",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport 3 HD",
-        "Sky Sport Premier League HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "Tottenham Hotspur",
-      "awayTeam": "FC Everton",
-      "channels": [
-        "Sky Sport 2",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport 2 HD",
-        "Sky Sport Premier League HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "AFC Sunderland",
-      "awayTeam": "FC Chelsea",
-      "channels": [
-        "Sky Sport 7",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport 7 HD",
-        "Sky Sport Premier League HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "Nottingham Forest",
-      "awayTeam": "AFC Bournemouth",
-      "channels": [
-        "Sky Sport 5",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport 5 HD",
-        "Sky Sport Premier League HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "Manchester City",
-      "awayTeam": "Aston Villa",
-      "channels": [
-        "Sky Sport 8",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport 8 HD",
-        "Sky Sport Premier League HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "FC Liverpool",
-      "awayTeam": "Brentford FC",
-      "channels": [
-        "Sky Sport 4",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport 4 HD",
-        "Sky Sport Premier League HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "FC Fulham",
-      "awayTeam": "Newcastle United",
-      "channels": [
-        "Sky Sport 9",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport 9 HD",
-        "Sky Sport Premier League HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "FC Arsenal",
-      "channels": [
-        "Sky Sport 1",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport Austria 1",
-        "Sky Sport 1 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "FC Burnley",
-      "awayTeam": "Wolverhampton Wanderers",
-      "channels": [
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport Premier League HD",
-        "Sky Sport Top Event HD",
-        "Sky Go"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "Brighton and Hove Albion",
-      "awayTeam": "Manchester United",
-      "channels": [
-        "Sky Sport 6",
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
-        "Sky Sport 6 HD",
-        "Sky Sport Premier League HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Ligue 2 (Frankreich)",
-      "stage": {
-        "de": "Relegation Rückspiel",
-        "tr": "Baraj Rövanş",
-        "en": "Relegation Second leg"
-      },
-      "homeTeam": "Stade Laval",
-      "awayTeam": "FC Rouen 1899",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T17:00:00+02:00"
+      "kickoff": "2026-05-25T17:00:00+02:00"
     },
     {
       "time": "18:00",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "SSC Neapel",
-      "awayTeam": "Udinese Calcio",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Coppa Italia Femminile (Italien)",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "Juventus Turin ♀",
-      "awayTeam": "AS Rom ♀",
-      "channels": [
-        "Rai 2",
-        "Rai 2 HD",
-        "DAZN",
-        "Rai 2 (RaiPlay)",
-        "DAZN (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Süper Lig (Türkei)",
-      "stage": {
-        "de": "Qualifikation Aufstiegsfinale aus der TFF 1. Lig",
-        "tr": "Eleme YükselmesFinal aus der TFF 1. Lig",
-        "en": "Qualification PromotionsFinal aus der TFF 1. Lig"
-      },
-      "homeTeam": "Esenler Erokspor",
-      "awayTeam": "Çorum Futbol Kulübü",
-      "channels": [
-        "TRT Spor (A1 TV)",
-        "TRT Spor HD (A1 TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T18:00:00+02:00"
-    },
-    {
-      "time": "18:15",
-      "competition": "Taça de Portugal",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "Sporting Lissabon",
-      "awayTeam": "SC União Torreense",
-      "channels": [
-        "RTP Internacional",
-        "RTP Internacional (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T18:15:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "Kansas City Current ♀",
-      "awayTeam": "Portland Thorns ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T19:00:00+02:00"
-    },
-    {
-      "time": "20:30",
-      "competition": "Liga Profesional (Argentinien)",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "CA River Plate",
-      "awayTeam": "Club Atlético Belgrano",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T20:30:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "Hellas Verona",
-      "awayTeam": "AS Rom",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "FC Turin",
-      "awayTeam": "Juventus Turin",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "AC Mailand",
-      "awayTeam": "Cagliari Calcio",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "US Lecce",
-      "awayTeam": "CFC Genua",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "US Cremonese",
-      "awayTeam": "Como 1907",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T20:45:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "La Liga (Spanien)",
-      "stage": {
-        "de": "38. Spieltag",
-        "tr": "38. Hafta",
-        "en": "Matchday 38"
-      },
-      "homeTeam": "FC Villarreal",
-      "awayTeam": "Atletico Madrid",
-      "channels": [
-        "DAZN 1",
-        "blue Sport",
-        "DAZN 1 HD",
-        "blue Sport HD",
-        "DAZN"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-24T21:00:00+02:00"
-    },
-    {
-      "time": "23:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "Bay FC ♀",
-      "awayTeam": "Chicago Red Stars ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-24T23:00:00+02:00"
-    },
-    {
-      "time": "23:00",
-      "competition": "Major League Soccer (MLS)",
+      "competition": "Virsliga (Lettland)",
       "stage": {
         "de": "15. Spieltag",
         "tr": "15. Hafta",
         "en": "Matchday 15"
       },
-      "homeTeam": "Columbus Crew SC",
-      "awayTeam": "Atlanta United",
+      "homeTeam": "Rigas FS",
+      "awayTeam": "FK Tukums 2000",
       "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-24T23:00:00+02:00"
+      "kickoff": "2026-05-25T18:00:00+02:00"
     },
     {
-      "time": "23:30",
-      "competition": "Campeonato Brasileiro Série A (Brasilien)",
+      "time": "19:00",
+      "competition": "U17-EM",
       "stage": {
-        "de": "17. Spieltag",
-        "tr": "17. Hafta",
-        "en": "Matchday 17"
+        "de": "Gruppenphase 1. Spieltag",
+        "tr": "Grupnphase 1. Hafta",
+        "en": "Groupnphase Matchday 1"
       },
-      "homeTeam": "Corinthians Sao Paulo",
-      "awayTeam": "Atletico Mineiro",
+      "homeTeam": "Estland (U17)",
+      "awayTeam": "Spanien (U17)",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
         "Sportdigital Fussball HD",
         "blue Sport HD",
-        "Sportdigital.de (Livestream)"
+        "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-24T23:30:00+02:00"
+      "kickoff": "2026-05-25T19:00:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Bundesliga",
+      "stage": {
+        "de": "Relegation Rückspiel",
+        "tr": "Baraj Rövanş",
+        "en": "Relegation Second leg"
+      },
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "VfL Wolfsburg",
+      "channels": [
+        "SAT.1",
+        "Sky Sport Bundesliga",
+        "SAT.1 HD",
+        "Sky Sport Bundesliga HD",
+        "Joyn.de"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-25T20:30:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Scottish Premiership",
+      "stage": {
+        "de": "Relegation Rückspiel",
+        "tr": "Baraj Rövanş",
+        "en": "Relegation Second leg"
+      },
+      "homeTeam": "St. Mirren FC",
+      "awayTeam": "Partick Thistle FC",
+      "channels": [
+        "OneFootball",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)",
+        "OneFootball (App)",
+        "Sportdigital+ (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-25T21:00:00+02:00"
     }
   ]
 }
