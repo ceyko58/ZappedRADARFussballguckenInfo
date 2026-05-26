@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-25",
-  "generatedAt": "2026-05-25T08:50:12.001Z",
+  "date": "2026-05-26",
+  "generatedAt": "2026-05-26T08:25:38.727Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,67 +8,11 @@
     "en"
   ],
   "summary": {
-    "de": "11 Übertragungen heute, u.a. SK Rapid Wien - SV Ried (16:30 Uhr).",
-    "tr": "Bugün 11 yayın, SK Rapid Wien - SV Ried dahil (16:30).",
-    "en": "11 broadcasts today, including SK Rapid Wien - SV Ried (16:30)."
+    "de": "8 Übertragungen heute, u.a. SpVgg Greuther Fürth - Rot-Weiss Essen (20:30 Uhr).",
+    "tr": "Bugün 8 yayın, SpVgg Greuther Fürth - Rot-Weiss Essen dahil (20:30).",
+    "en": "8 broadcasts today, including SpVgg Greuther Fürth - Rot-Weiss Essen (20:30)."
   },
   "matches": [
-    {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "San Diego Wave FC ♀",
-      "awayTeam": "Orlando Pride ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-25T01:00:00+02:00"
-    },
-    {
-      "time": "01:00",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Inter Miami",
-      "awayTeam": "Philadelphia Union",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-25T01:00:00+02:00"
-    },
-    {
-      "time": "03:00",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Los Angeles FC",
-      "awayTeam": "Seattle Sounders",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-25T03:00:00+02:00"
-    },
     {
       "time": "13:30",
       "competition": "U17-EM",
@@ -77,8 +21,8 @@
         "tr": "Grupnphase 1. Hafta",
         "en": "Groupnphase Matchday 1"
       },
-      "homeTeam": "Kroatien (U17)",
-      "awayTeam": "Belgien (U17)",
+      "homeTeam": "Italien (U17)",
+      "awayTeam": "Frankreich (U17)",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
@@ -87,47 +31,7 @@
         "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-25T13:30:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Women's Super League (Schweiz)",
-      "stage": {
-        "de": "Playoff Finale (Hinspiel)",
-        "tr": "Play-off Final (İlk maç)",
-        "en": "Play-off Final (First leg)"
-      },
-      "homeTeam": "BSC Young Boys ♀",
-      "awayTeam": "Servette FC Chênois ♀",
-      "channels": [
-        "RSI LA 2",
-        "SRF zwei",
-        "RSI LA 2 HD",
-        "SRF zwei HD",
-        "Play RSI (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-25T14:00:00+02:00"
-    },
-    {
-      "time": "16:30",
-      "competition": "Bundesliga (Österreich)",
-      "stage": {
-        "de": "Playoff Europacup-Playoff, Finale (Rückspiel)",
-        "tr": "Play-off Europacup-Play-off, Final (Rövanş)",
-        "en": "Play-off Europacup-Play-off, Final (Second leg)"
-      },
-      "homeTeam": "SK Rapid Wien",
-      "awayTeam": "SV Ried",
-      "channels": [
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 1 HD",
-        "Sky Go (Austria)",
-        "Sky X (Austria)",
-        "Sky Go (Huawei, Austria)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-25T16:30:00+02:00"
+      "kickoff": "2026-05-26T13:30:00+02:00"
     },
     {
       "time": "17:00",
@@ -137,8 +41,8 @@
         "tr": "15. Hafta",
         "en": "Matchday 15"
       },
-      "homeTeam": "FK Ogre United",
-      "awayTeam": "Grobinas Sporta Centrs",
+      "homeTeam": "FK Jelgava",
+      "awayTeam": "FK Liepaja",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -147,7 +51,7 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-25T17:00:00+02:00"
+      "kickoff": "2026-05-26T17:00:00+02:00"
     },
     {
       "time": "18:00",
@@ -157,8 +61,8 @@
         "tr": "15. Hafta",
         "en": "Matchday 15"
       },
-      "homeTeam": "Rigas FS",
-      "awayTeam": "FK Tukums 2000",
+      "homeTeam": "BFC Daugavpils",
+      "awayTeam": "Auda Riga",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -167,18 +71,18 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-25T18:00:00+02:00"
+      "kickoff": "2026-05-26T18:00:00+02:00"
     },
     {
-      "time": "19:00",
+      "time": "18:00",
       "competition": "U17-EM",
       "stage": {
         "de": "Gruppenphase 1. Spieltag",
         "tr": "Grupnphase 1. Hafta",
         "en": "Groupnphase Matchday 1"
       },
-      "homeTeam": "Estland (U17)",
-      "awayTeam": "Spanien (U17)",
+      "homeTeam": "Montenegro (U17)",
+      "awayTeam": "Dänemark (U17)",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
@@ -187,18 +91,38 @@
         "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-25T19:00:00+02:00"
+      "kickoff": "2026-05-26T18:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Liga F (Spanien)",
+      "stage": {
+        "de": "29. Spieltag",
+        "tr": "29. Hafta",
+        "en": "Matchday 29"
+      },
+      "homeTeam": "FC Levante Badalona ♀",
+      "awayTeam": "Real Madrid ♀",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-26T19:00:00+02:00"
     },
     {
       "time": "20:30",
-      "competition": "Bundesliga",
+      "competition": "2. Bundesliga",
       "stage": {
         "de": "Relegation Rückspiel",
         "tr": "Baraj Rövanş",
         "en": "Relegation Second leg"
       },
-      "homeTeam": "SC Paderborn 07",
-      "awayTeam": "VfL Wolfsburg",
+      "homeTeam": "SpVgg Greuther Fürth",
+      "awayTeam": "Rot-Weiss Essen",
       "channels": [
         "SAT.1",
         "Sky Sport Bundesliga",
@@ -207,27 +131,47 @@
         "Joyn.de"
       ],
       "isHighlight": true,
-      "kickoff": "2026-05-25T20:30:00+02:00"
+      "kickoff": "2026-05-26T20:30:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Ligue 1 (Frankreich)",
+      "stage": {
+        "de": "Relegation Hinspiel",
+        "tr": "Baraj İlk maç",
+        "en": "Relegation First leg"
+      },
+      "homeTeam": "AS St. Etienne",
+      "awayTeam": "O.G.C. Nizza",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-26T20:45:00+02:00"
     },
     {
       "time": "21:00",
-      "competition": "Scottish Premiership",
+      "competition": "Liga F (Spanien)",
       "stage": {
-        "de": "Relegation Rückspiel",
-        "tr": "Baraj Rövanş",
-        "en": "Relegation Second leg"
+        "de": "29. Spieltag",
+        "tr": "29. Hafta",
+        "en": "Matchday 29"
       },
-      "homeTeam": "St. Mirren FC",
-      "awayTeam": "Partick Thistle FC",
+      "homeTeam": "Atletico Madrid ♀",
+      "awayTeam": "UD Granadilla Teneriffa ♀",
       "channels": [
-        "OneFootball",
-        "Sportdigital Fussball 2",
-        "Sportdigital.de (Livestream)",
-        "OneFootball (App)",
-        "Sportdigital+ (App)"
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-25T21:00:00+02:00"
+      "kickoff": "2026-05-26T21:00:00+02:00"
     }
   ]
 }
