@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-27",
-  "generatedAt": "2026-05-27T08:33:40.701Z",
+  "date": "2026-05-28",
+  "generatedAt": "2026-05-28T08:37:37.773Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,11 +8,31 @@
     "en"
   ],
   "summary": {
-    "de": "10 Übertragungen heute, u.a. Crystal Palace - Rayo Vallecano (21:00 Uhr).",
-    "tr": "Bugün 10 yayın, Crystal Palace - Rayo Vallecano dahil (21:00).",
-    "en": "10 broadcasts today, including Crystal Palace - Rayo Vallecano (21:00)."
+    "de": "9 Übertragungen heute, u.a. Atletico Mineiro - Academia Puerto Cabello (00:00 Uhr).",
+    "tr": "Bugün 9 yayın, Atletico Mineiro - Academia Puerto Cabello dahil (00:00).",
+    "en": "9 broadcasts today, including Atletico Mineiro - Academia Puerto Cabello (00:00)."
   },
   "matches": [
+    {
+      "time": "00:00",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Gruppenphase 6. Spieltag",
+        "tr": "Grupnphase 6. Hafta",
+        "en": "Groupnphase Matchday 6"
+      },
+      "homeTeam": "Atletico Mineiro",
+      "awayTeam": "Academia Puerto Cabello",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-28T00:00:00+02:00"
+    },
     {
       "time": "00:00",
       "competition": "Copa Libertadores",
@@ -21,17 +41,17 @@
         "tr": "Grupnphase 6. Hafta",
         "en": "Groupnphase Matchday 6"
       },
-      "homeTeam": "LDU Quito",
-      "awayTeam": "Club Always Ready",
+      "homeTeam": "Independiente del Valle",
+      "awayTeam": "Rosario Central",
       "channels": [
+        "Sportdigital1+",
         "blue Sport",
+        "Sportdigital1+ HD",
         "blue Sport HD",
-        "OneFootball",
-        "Sportdigital1+ (Livestream)",
-        "blue Sport (Livestream)"
+        "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-27T00:00:00+02:00"
+      "kickoff": "2026-05-28T00:00:00+02:00"
     },
     {
       "time": "02:30",
@@ -41,8 +61,8 @@
         "tr": "Grupnphase 6. Hafta",
         "en": "Groupnphase Matchday 6"
       },
-      "homeTeam": "FC Santos",
-      "awayTeam": "Deportivo Cuenca",
+      "homeTeam": "Red Bull Bragantino",
+      "awayTeam": "Carabobo FC",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
@@ -51,7 +71,7 @@
         "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-27T02:30:00+02:00"
+      "kickoff": "2026-05-28T02:30:00+02:00"
     },
     {
       "time": "02:30",
@@ -61,80 +81,88 @@
         "tr": "Grupnphase 6. Hafta",
         "en": "Groupnphase Matchday 6"
       },
-      "homeTeam": "Flamengo Rio de Janeiro",
-      "awayTeam": "Cusco FC",
+      "homeTeam": "Fluminense Rio de Janeiro",
+      "awayTeam": "La Guaira",
       "channels": [
+        "Sportdigital1+",
         "blue Sport",
+        "Sportdigital1+ HD",
         "blue Sport HD",
-        "OneFootball",
-        "Sportdigital1+ (Livestream)",
-        "blue Sport (Livestream)"
+        "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-27T02:30:00+02:00"
+      "kickoff": "2026-05-28T02:30:00+02:00"
     },
     {
-      "time": "14:00",
-      "competition": "ASEAN Club Championship",
+      "time": "13:30",
+      "competition": "U17-EM",
       "stage": {
-        "de": "Finale Rückspiel",
-        "tr": "Final Rövanş",
-        "en": "Final Second leg"
+        "de": "Gruppenphase 2. Spieltag",
+        "tr": "Grupnphase 2. Hafta",
+        "en": "Groupnphase Matchday 2"
       },
-      "homeTeam": "Buriram United",
-      "awayTeam": "Selangor FC",
+      "homeTeam": "Belgien (U17)",
+      "awayTeam": "Spanien (U17)",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-27T14:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Länderspiel (U15 Frauen)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Niederlande ♀ (U15)",
-      "awayTeam": "Deutschland ♀ (U15)",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-05-27T16:00:00+02:00"
+      "kickoff": "2026-05-28T13:30:00+02:00"
     },
     {
       "time": "18:00",
-      "competition": "Länderspiel (U19)",
+      "competition": "U17-EM",
+      "stage": {
+        "de": "Gruppenphase 2. Spieltag",
+        "tr": "Grupnphase 2. Hafta",
+        "en": "Groupnphase Matchday 2"
+      },
+      "homeTeam": "Estland (U17)",
+      "awayTeam": "Kroatien (U17)",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-28T18:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "U17-EM",
+      "stage": {
+        "de": "Aufstiegsspiele zur 3. Liga Playoff Hinspiel",
+        "tr": "Yükselmesspiele zur 3. Liga Play-off İlk maç",
+        "en": "Promotionsspiele zur 3. Liga Play-off First leg"
+      },
+      "homeTeam": "1. FC Lok Leipzig",
+      "awayTeam": "FC Würzburger Kickers",
+      "channels": [
+        "MagentaSport (Sat)",
+        "MagentaSport HD",
+        "MagentaSport",
+        "OneFootball",
+        "MagentaSport (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-28T19:00:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Slowakei (U19)",
-      "awayTeam": "Deutschland (U19)",
-      "channels": [
-        "DFB.TV (via Sky)",
-        "DFB.TV",
-        "DFB.TV+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-27T18:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Liga F (Spanien)",
-      "stage": {
-        "de": "29. Spieltag",
-        "tr": "29. Hafta",
-        "en": "Matchday 29"
-      },
-      "homeTeam": "FC Barcelona ♀",
-      "awayTeam": "Real Sociedad ♀",
+      "homeTeam": "Irland",
+      "awayTeam": "Katar",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -143,67 +171,21 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-27T19:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Serie C (Italien)",
-      "stage": {
-        "de": "Playoff Halbfinale (Rückspiel)",
-        "tr": "Play-off Yarı Final (Rövanş)",
-        "en": "Play-off Semi-final (Second leg)"
-      },
-      "homeTeam": "Union Brescia",
-      "awayTeam": "US Salernitana",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-27T20:00:00+02:00"
+      "kickoff": "2026-05-28T20:45:00+02:00"
     },
     {
       "time": "21:00",
-      "competition": "UEFA Conference League",
+      "competition": "Liga Portugal",
       "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
+        "de": "Relegation Rückspiel",
+        "tr": "Baraj Rövanş",
+        "en": "Relegation Second leg"
       },
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Rayo Vallecano",
-      "channels": [
-        "NITRO",
-        "CANAL+",
-        "RSI LA 2",
-        "RTS 2",
-        "SRF zwei"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-27T21:00:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "Serie C (Italien)",
-      "stage": {
-        "de": "Playoff Halbfinale (Rückspiel)",
-        "tr": "Play-off Yarı Final (Rövanş)",
-        "en": "Play-off Semi-final (Second leg)"
-      },
-      "homeTeam": "Catania Calcio",
-      "awayTeam": "Ascoli Calcio",
-      "channels": [
-        "Rai Sport",
-        "OneFootball",
-        "Rai Sport (Livestream)",
-        "OneFootball (App)",
-        "RaiPlay (App)"
-      ],
+      "homeTeam": "Casa Pia AC",
+      "awayTeam": "SC União Torreense",
+      "channels": [],
       "isHighlight": false,
-      "kickoff": "2026-05-27T21:00:00+02:00"
+      "kickoff": "2026-05-28T21:00:00+02:00"
     }
   ]
 }
