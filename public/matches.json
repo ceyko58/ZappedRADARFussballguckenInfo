@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-30",
-  "generatedAt": "2026-05-30T07:34:51.624Z",
+  "date": "2026-05-31",
+  "generatedAt": "2026-05-31T08:08:19.962Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,336 +8,37 @@
     "en"
   ],
   "summary": {
-    "de": "18 Übertragungen heute, u.a. Carl Zeiss Jena ♀ (U17) - VfB Stuttgart ♀ (U17) (13:00 Uhr).",
-    "tr": "Bugün 18 yayın, Carl Zeiss Jena ♀ (U17) - VfB Stuttgart ♀ (U17) dahil (13:00).",
-    "en": "18 broadcasts today, including Carl Zeiss Jena ♀ (U17) - VfB Stuttgart ♀ (U17) (13:00)."
+    "de": "31 Übertragungen heute, u.a. Racing Santander - FC Cádiz (18:30 Uhr).",
+    "tr": "Bugün 31 yayın, Racing Santander - FC Cádiz dahil (18:30).",
+    "en": "31 broadcasts today, including Racing Santander - FC Cádiz (18:30)."
   },
   "matches": [
     {
-      "time": "01:00",
+      "time": "00:30",
       "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
         "de": "10. Spieltag",
         "tr": "10. Hafta",
         "en": "Matchday 10"
       },
-      "homeTeam": "Orlando Pride ♀",
-      "awayTeam": "Bay FC ♀",
+      "homeTeam": "Washington Spirit ♀",
+      "awayTeam": "OL Reign ♀",
       "channels": [
         "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-30T01:00:00+02:00"
+      "kickoff": "2026-05-31T00:30:00+02:00"
     },
     {
-      "time": "02:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "10. Spieltag",
-        "tr": "10. Hafta",
-        "en": "Matchday 10"
-      },
-      "homeTeam": "Racing Louisville FC ♀",
-      "awayTeam": "Denver Summit ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T02:00:00+02:00"
-    },
-    {
-      "time": "13:00",
-      "competition": "DFB-Pokal der Juniorinnen",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "Carl Zeiss Jena ♀ (U17)",
-      "awayTeam": "VfB Stuttgart ♀ (U17)",
-      "channels": [
-        "DFB.TV (via Sky)",
-        "DFB Verband (YouTube)",
-        "DFB.TV",
-        "DFB.TV+"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-30T13:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "HJK Helsinki",
-      "awayTeam": "IFK Mariehamn",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T14:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
-      },
-      "homeTeam": "FK Liepaja",
-      "awayTeam": "FK Tukums 2000",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T14:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "ÖFB Frauen Bundesliga",
-      "stage": {
-        "de": "24. Spieltag Meistergruppe",
-        "tr": "24. Hafta MeisterGrup",
-        "en": "Matchday 24 MeisterGroup"
-      },
-      "homeTeam": "FK Austria Wien ♀",
-      "awayTeam": "SKN St. Pölten ♀",
-      "channels": [
-        "ORF Sport+",
-        "ORF Sport+ HD",
-        "ORF ON",
-        "ORF ON (App)",
-        "ORF ON (Amazon)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-30T14:00:00+02:00"
-    },
-    {
-      "time": "14:00",
+      "time": "01:30",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Schottland",
-      "awayTeam": "Curaçao",
-      "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T14:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "Turun PS",
-      "awayTeam": "Vaasan PS",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T16:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "FC Lahti",
-      "awayTeam": "Ilves Tampere",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T16:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "IF Gnistan",
-      "awayTeam": "SJK Seinäjoki",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T16:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "Kuopion PS",
-      "awayTeam": "Inter Turku",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T16:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
-      },
-      "homeTeam": "Auda Riga",
-      "awayTeam": "FK Ogre United",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T16:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "Paris St. Germain",
-      "awayTeam": "FC Arsenal",
-      "channels": [
-        "DAZN 1",
-        "ZDF",
-        "CANAL+",
-        "Sky Sport Austria 1",
-        "M6"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-05-30T18:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Women's Super League (Schweiz)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "FC Sion ♀",
-      "awayTeam": "FC Rot-Schwarz Thun ♀",
-      "channels": [
-        "AWSL Play"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T19:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Women's Super League (Schweiz)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "FC Luzern ♀",
-      "awayTeam": "Yverdon-Sport FC ♀",
-      "channels": [
-        "AWSL Play"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T19:00:00+02:00"
-    },
-    {
-      "time": "19:30",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "10. Spieltag",
-        "tr": "10. Hafta",
-        "en": "Matchday 10"
-      },
-      "homeTeam": "Kansas City Current ♀",
-      "awayTeam": "Boston Legacy FC ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T19:30:00+02:00"
-    },
-    {
-      "time": "22:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "10. Spieltag",
-        "tr": "10. Hafta",
-        "en": "Matchday 10"
-      },
-      "homeTeam": "Portland Thorns ♀",
-      "awayTeam": "Utah Royals FC ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-05-30T22:00:00+02:00"
-    },
-    {
-      "time": "22:30",
-      "competition": "Campeonato Brasileiro Série A (Brasilien)",
-      "stage": {
-        "de": "18. Spieltag",
-        "tr": "18. Hafta",
-        "en": "Matchday 18"
-      },
-      "homeTeam": "Gremio Porto Alegre",
-      "awayTeam": "Corinthians Sao Paulo",
+      "homeTeam": "Ecuador",
+      "awayTeam": "Saudi Arabien",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
@@ -346,7 +47,567 @@
         "Sportdigital.de (Livestream)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-05-30T22:30:00+02:00"
+      "kickoff": "2026-05-31T01:30:00+02:00"
+    },
+    {
+      "time": "02:00",
+      "competition": "CONCACAF Champions Cup",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Deportivo Toluca",
+      "awayTeam": "UANL Tigres",
+      "channels": [
+        "Sportdigital1+",
+        "blue Sport",
+        "Sportdigital1+ HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T02:00:00+02:00"
+    },
+    {
+      "time": "12:00",
+      "competition": "Liga F (Spanien)",
+      "stage": {
+        "de": "30. Spieltag",
+        "tr": "30. Hafta",
+        "en": "Matchday 30"
+      },
+      "homeTeam": "Real Madrid ♀",
+      "awayTeam": "FC Granada ♀",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T12:00:00+02:00"
+    },
+    {
+      "time": "12:00",
+      "competition": "Liga F (Spanien)",
+      "stage": {
+        "de": "30. Spieltag",
+        "tr": "30. Hafta",
+        "en": "Matchday 30"
+      },
+      "homeTeam": "Real Sociedad ♀",
+      "awayTeam": "Atletico Madrid ♀",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T12:00:00+02:00"
+    },
+    {
+      "time": "13:00",
+      "competition": "U19-DFB-Nachwuchsliga",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "1899 Hoffenheim (U19)",
+      "awayTeam": "1. FC Köln (U19)",
+      "channels": [
+        "Sky Sport Bundesliga",
+        "Sky Sport Bundesliga HD",
+        "Sky Go",
+        "WOW",
+        "skysport.de"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T13:00:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "U17-EM",
+      "stage": {
+        "de": "Gruppenphase 3. Spieltag",
+        "tr": "Grupnphase 3. Hafta",
+        "en": "Groupnphase Matchday 3"
+      },
+      "homeTeam": "Belgien (U17)",
+      "awayTeam": "Estland (U17)",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "OneFootball",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T13:30:00+02:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "U17-EM",
+      "stage": {
+        "de": "Gruppenphase 3. Spieltag",
+        "tr": "Grupnphase 3. Hafta",
+        "en": "Groupnphase Matchday 3"
+      },
+      "homeTeam": "Spanien (U17)",
+      "awayTeam": "Kroatien (U17)",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T13:30:00+02:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
+      },
+      "homeTeam": "AC Oulu",
+      "awayTeam": "FF Jaro",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T15:00:00+02:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "16. Spieltag",
+        "tr": "16. Hafta",
+        "en": "Matchday 16"
+      },
+      "homeTeam": "FK Jelgava",
+      "awayTeam": "BFC Daugavpils",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T15:00:00+02:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Schweiz",
+      "awayTeam": "Jordanien",
+      "channels": [
+        "RSI LA 2",
+        "RTS 2",
+        "SRF zwei",
+        "RSI LA 2 HD",
+        "RTS 2 HD"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T15:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Liga F (Spanien)",
+      "stage": {
+        "de": "30. Spieltag",
+        "tr": "30. Hafta",
+        "en": "Matchday 30"
+      },
+      "homeTeam": "Madrid CFF ♀",
+      "awayTeam": "FC Barcelona ♀",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "Red Bull Bragantino",
+      "awayTeam": "SC Internacional Porto Alegre",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Tschechien",
+      "awayTeam": "Kosovo",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T16:00:00+02:00"
+    },
+    {
+      "time": "17:30",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Polen",
+      "awayTeam": "Ukraine",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T17:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Jupiler Pro League (Belgien)",
+      "stage": {
+        "de": "Playoff Qualifikation Conference League",
+        "tr": "Play-off Eleme Conference League",
+        "en": "Play-off Qualification Conference League"
+      },
+      "homeTeam": "KAA Gent",
+      "awayTeam": "KRC Genk",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "La Liga 2 (Spanien)",
+      "stage": {
+        "de": "42. Spieltag",
+        "tr": "42. Hafta",
+        "en": "Matchday 42"
+      },
+      "homeTeam": "Racing Santander",
+      "awayTeam": "FC Cádiz",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-31T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "La Liga 2 (Spanien)",
+      "stage": {
+        "de": "42. Spieltag",
+        "tr": "42. Hafta",
+        "en": "Matchday 42"
+      },
+      "homeTeam": "Real Saragossa",
+      "awayTeam": "FC Malaga",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-31T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "La Liga 2 (Spanien)",
+      "stage": {
+        "de": "42. Spieltag",
+        "tr": "42. Hafta",
+        "en": "Matchday 42"
+      },
+      "homeTeam": "Burgos CF",
+      "awayTeam": "FC Andorra",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-31T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "La Liga 2 (Spanien)",
+      "stage": {
+        "de": "42. Spieltag",
+        "tr": "42. Hafta",
+        "en": "Matchday 42"
+      },
+      "homeTeam": "UD Almeria",
+      "awayTeam": "Real Valladolid",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-31T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "La Liga 2 (Spanien)",
+      "stage": {
+        "de": "42. Spieltag",
+        "tr": "42. Hafta",
+        "en": "Matchday 42"
+      },
+      "homeTeam": "CD Castellón",
+      "awayTeam": "SD Eibar",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-31T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "La Liga 2 (Spanien)",
+      "stage": {
+        "de": "42. Spieltag",
+        "tr": "42. Hafta",
+        "en": "Matchday 42"
+      },
+      "homeTeam": "Deportivo La Coruña",
+      "awayTeam": "UD Las Palmas",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-05-31T18:30:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
+      },
+      "homeTeam": "Thor Akureyri",
+      "awayTeam": "UMF Stjarnan",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
+      },
+      "homeTeam": "KR Reykjavik",
+      "awayTeam": "KA Akureyri",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
+      },
+      "homeTeam": "IB Vestmannaeyjar",
+      "awayTeam": "IF Keflavik",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "Chicago Red Stars ♀",
+      "awayTeam": "San Diego Wave FC ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T19:00:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Deutschland",
+      "awayTeam": "Finnland",
+      "channels": [
+        "ZDF",
+        "l'Équipe",
+        "ZDF HD",
+        "L'Équipe HD",
+        "ZDFmediathek"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T20:45:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "NJ/NY Gotham FC ♀",
+      "awayTeam": "Houston Dash ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "Palmeiras Sao Paulo",
+      "awayTeam": "Chapecoense AF",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T21:00:00+02:00"
+    },
+    {
+      "time": "21:15",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
+      },
+      "homeTeam": "Valur Reykjavik",
+      "awayTeam": "Vikingur Reykjavik",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T21:15:00+02:00"
+    },
+    {
+      "time": "21:30",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "USA",
+      "awayTeam": "Senegal",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-05-31T21:30:00+02:00"
     }
   ]
 }
