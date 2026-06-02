@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-01",
-  "generatedAt": "2026-06-01T10:10:49.354Z",
+  "date": "2026-06-02",
+  "generatedAt": "2026-06-02T09:00:34.686Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,68 +8,12 @@
     "en"
   ],
   "summary": {
-    "de": "9 Übertragungen heute, u.a. Angel City FC ♀ - North Carolina Courage ♀ (01:00 Uhr).",
-    "tr": "Bugün 9 yayın, Angel City FC ♀ - North Carolina Courage ♀ dahil (01:00).",
-    "en": "9 broadcasts today, including Angel City FC ♀ - North Carolina Courage ♀ (01:00)."
+    "de": "4 Übertragungen heute, u.a. Kroatien - Belgien (18:00 Uhr).",
+    "tr": "Bugün 4 yayın, Kroatien - Belgien dahil (18:00).",
+    "en": "4 broadcasts today, including Kroatien - Belgien (18:00)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "10. Spieltag",
-        "tr": "10. Hafta",
-        "en": "Matchday 10"
-      },
-      "homeTeam": "Angel City FC ♀",
-      "awayTeam": "North Carolina Courage ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-01T01:00:00+02:00"
-    },
-    {
-      "time": "13:30",
-      "competition": "U17-EM",
-      "stage": {
-        "de": "Gruppenphase 3. Spieltag",
-        "tr": "Grupnphase 3. Hafta",
-        "en": "Groupnphase Matchday 3"
-      },
-      "homeTeam": "Dänemark (U17)",
-      "awayTeam": "Italien (U17)",
-      "channels": [
-        "blue Sport",
-        "blue Sport HD",
-        "OneFootball",
-        "Sportdigital Fussball 2",
-        "Sportdigital.de (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-01T13:30:00+02:00"
-    },
-    {
-      "time": "13:30",
-      "competition": "U17-EM",
-      "stage": {
-        "de": "Gruppenphase 3. Spieltag",
-        "tr": "Grupnphase 3. Hafta",
-        "en": "Groupnphase Matchday 3"
-      },
-      "homeTeam": "Frankreich (U17)",
-      "awayTeam": "Montenegro (U17)",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "l'Équipe",
-        "Sportdigital Fussball HD",
-        "L'Équipe HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-01T13:30:00+02:00"
-    },
-    {
       "time": "18:00",
       "competition": "Länderspiel (Herren)",
       "stage": {
@@ -77,57 +21,17 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Bulgarien",
-      "awayTeam": "Montenegro",
+      "homeTeam": "Kroatien",
+      "awayTeam": "Belgien",
       "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "DAZN 1",
+        "RSI LA 2",
+        "RTS 2",
+        "SRF zwei",
+        "DAZN 1 HD"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-01T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Slowakei",
-      "awayTeam": "Malta",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-01T18:00:00+02:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "Aufstiegsspiele zur 3. Liga Playoff Rückspiel",
-        "tr": "Yükselmesspiele zur 3. Liga Play-off Rövanş",
-        "en": "Promotionsspiele zur 3. Liga Play-off Second leg"
-      },
-      "homeTeam": "FC Würzburger Kickers",
-      "awayTeam": "1. FC Lok Leipzig",
-      "channels": [
-        "MagentaSport (Sat)",
-        "MagentaSport HD",
-        "MagentaSport",
-        "OneFootball",
-        "MagentaSport (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-01T18:30:00+02:00"
+      "kickoff": "2026-06-02T18:00:00+02:00"
     },
     {
       "time": "19:00",
@@ -137,28 +41,8 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Norwegen",
-      "awayTeam": "Schweden",
-      "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-01T19:00:00+02:00"
-    },
-    {
-      "time": "19:30",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Türkei",
-      "awayTeam": "Nordmazedonien",
+      "homeTeam": "Georgien",
+      "awayTeam": "Rumänien",
       "channels": [
         "DAZN 2",
         "DAZN 2 HD",
@@ -167,7 +51,7 @@
         "DAZN (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-01T19:30:00+02:00"
+      "kickoff": "2026-06-02T19:00:00+02:00"
     },
     {
       "time": "20:45",
@@ -177,17 +61,37 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Österreich",
-      "awayTeam": "Tunesien",
+      "homeTeam": "Wales",
+      "awayTeam": "Ghana",
       "channels": [
-        "ServusTV (AT)",
+        "DAZN 1",
         "l'Équipe",
-        "ServusTV HD (AT)",
+        "DAZN 1 HD",
         "L'Équipe HD",
         "DAZN"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-01T20:45:00+02:00"
+      "kickoff": "2026-06-02T20:45:00+02:00"
+    },
+    {
+      "time": "21:15",
+      "competition": "Serie C (Italien)",
+      "stage": {
+        "de": "Playoff Aufstiegs-Finale (Hinspiel)",
+        "tr": "Play-off Yükselmes-Final (İlk maç)",
+        "en": "Play-off Promotions-Final (First leg)"
+      },
+      "homeTeam": "Union Brescia",
+      "awayTeam": "Ascoli Calcio",
+      "channels": [
+        "Rai Sport",
+        "OneFootball",
+        "Rai Sport (Livestream)",
+        "OneFootball (App)",
+        "RaiPlay (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-02T21:15:00+02:00"
     }
   ]
 }
