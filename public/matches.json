@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-02",
-  "generatedAt": "2026-06-02T09:00:34.686Z",
+  "date": "2026-06-03",
+  "generatedAt": "2026-06-03T09:20:35.087Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,31 +8,11 @@
     "en"
   ],
   "summary": {
-    "de": "4 Übertragungen heute, u.a. Kroatien - Belgien (18:00 Uhr).",
-    "tr": "Bugün 4 yayın, Kroatien - Belgien dahil (18:00).",
-    "en": "4 broadcasts today, including Kroatien - Belgien (18:00)."
+    "de": "6 Übertragungen heute, u.a. Gibraltar - Britische Jungferninseln (19:00 Uhr).",
+    "tr": "Bugün 6 yayın, Gibraltar - Britische Jungferninseln dahil (19:00).",
+    "en": "6 broadcasts today, including Gibraltar - Britische Jungferninseln (19:00)."
   },
   "matches": [
-    {
-      "time": "18:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Kroatien",
-      "awayTeam": "Belgien",
-      "channels": [
-        "DAZN 1",
-        "RSI LA 2",
-        "RTS 2",
-        "SRF zwei",
-        "DAZN 1 HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-02T18:00:00+02:00"
-    },
     {
       "time": "19:00",
       "competition": "Länderspiel (Herren)",
@@ -41,17 +21,57 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Georgien",
-      "awayTeam": "Rumänien",
+      "homeTeam": "Gibraltar",
+      "awayTeam": "Britische Jungferninseln",
       "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
         "DAZN",
         "DAZN (App)",
-        "DAZN (Amazon)"
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-02T19:00:00+02:00"
+      "kickoff": "2026-06-03T19:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Albanien",
+      "awayTeam": "Israel",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-03T20:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Dänemark",
+      "awayTeam": "DR Kongo",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-03T20:00:00+02:00"
     },
     {
       "time": "20:45",
@@ -61,37 +81,57 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Wales",
-      "awayTeam": "Ghana",
+      "homeTeam": "Polen",
+      "awayTeam": "Nigeria",
       "channels": [
-        "DAZN 1",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-03T20:45:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Luxemburg",
+      "awayTeam": "Italien",
+      "channels": [
+        "Rai 1",
+        "Rai 1 HD",
+        "DAZN",
+        "Rai 1 (RaiPlay)",
+        "DAZN (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-03T20:45:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Niederlande",
+      "awayTeam": "Algerien",
+      "channels": [
+        "PULS 4",
         "l'Équipe",
-        "DAZN 1 HD",
+        "PULS 4 HD",
         "L'Équipe HD",
         "DAZN"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-02T20:45:00+02:00"
-    },
-    {
-      "time": "21:15",
-      "competition": "Serie C (Italien)",
-      "stage": {
-        "de": "Playoff Aufstiegs-Finale (Hinspiel)",
-        "tr": "Play-off Yükselmes-Final (İlk maç)",
-        "en": "Play-off Promotions-Final (First leg)"
-      },
-      "homeTeam": "Union Brescia",
-      "awayTeam": "Ascoli Calcio",
-      "channels": [
-        "Rai Sport",
-        "OneFootball",
-        "Rai Sport (Livestream)",
-        "OneFootball (App)",
-        "RaiPlay (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-02T21:15:00+02:00"
+      "kickoff": "2026-06-03T20:45:00+02:00"
     }
   ]
 }
