@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-03",
-  "generatedAt": "2026-06-03T09:20:35.087Z",
+  "date": "2026-06-04",
+  "generatedAt": "2026-06-04T08:42:52.968Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,11 +8,111 @@
     "en"
   ],
   "summary": {
-    "de": "6 Übertragungen heute, u.a. Gibraltar - Britische Jungferninseln (19:00 Uhr).",
-    "tr": "Bugün 6 yayın, Gibraltar - Britische Jungferninseln dahil (19:00).",
-    "en": "6 broadcasts today, including Gibraltar - Britische Jungferninseln (19:00)."
+    "de": "9 Übertragungen heute, u.a. Belgien (U17) - Frankreich (U17) (13:30 Uhr).",
+    "tr": "Bugün 9 yayın, Belgien (U17) - Frankreich (U17) dahil (13:30).",
+    "en": "9 broadcasts today, including Belgien (U17) - Frankreich (U17) (13:30)."
   },
   "matches": [
+    {
+      "time": "13:30",
+      "competition": "U17-EM",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Belgien (U17)",
+      "awayTeam": "Frankreich (U17)",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "DAZN"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-04T13:30:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Länderspiel (U23 Frauen)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Deutschland ♀ (U23)",
+      "awayTeam": "Dänemark ♀ (U23)",
+      "channels": [
+        "DF1",
+        "DF1 HD",
+        "DAZN",
+        "DF1 (Livestream)",
+        "DFB (YouTube)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-04T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Nordirland",
+      "awayTeam": "Guinea",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-04T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Slowenien",
+      "awayTeam": "Zypern",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-04T18:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "U17-EM",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Italien (U17)",
+      "awayTeam": "Spanien (U17)",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "DAZN"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-04T19:00:00+02:00"
+    },
     {
       "time": "19:00",
       "competition": "Länderspiel (Herren)",
@@ -21,8 +121,8 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Gibraltar",
-      "awayTeam": "Britische Jungferninseln",
+      "homeTeam": "Schweden",
+      "awayTeam": "Griechenland",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -31,18 +131,18 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-03T19:00:00+02:00"
+      "kickoff": "2026-06-04T19:00:00+02:00"
     },
     {
-      "time": "20:00",
+      "time": "19:00",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Albanien",
-      "awayTeam": "Israel",
+      "homeTeam": "Andorra",
+      "awayTeam": "Liechtenstein",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -51,27 +151,7 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-03T20:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Dänemark",
-      "awayTeam": "DR Kongo",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-03T20:00:00+02:00"
+      "kickoff": "2026-06-04T19:00:00+02:00"
     },
     {
       "time": "20:45",
@@ -81,57 +161,37 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Polen",
-      "awayTeam": "Nigeria",
+      "homeTeam": "Spanien",
+      "awayTeam": "Irak",
       "channels": [
+        "DAZN 1",
+        "DAZN 1 HD",
         "DAZN",
         "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "DAZN (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-03T20:45:00+02:00"
+      "kickoff": "2026-06-04T20:45:00+02:00"
     },
     {
-      "time": "20:45",
+      "time": "21:10",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Luxemburg",
-      "awayTeam": "Italien",
+      "homeTeam": "Frankreich",
+      "awayTeam": "Elfenbeinküste",
       "channels": [
-        "Rai 1",
-        "Rai 1 HD",
-        "DAZN",
-        "Rai 1 (RaiPlay)",
-        "DAZN (App)"
+        "DAZN 2",
+        "RTS 2",
+        "SRF zwei",
+        "TF1",
+        "Cielo"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-03T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Niederlande",
-      "awayTeam": "Algerien",
-      "channels": [
-        "PULS 4",
-        "l'Équipe",
-        "PULS 4 HD",
-        "L'Équipe HD",
-        "DAZN"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-03T20:45:00+02:00"
+      "kickoff": "2026-06-04T21:10:00+02:00"
     }
   ]
 }
