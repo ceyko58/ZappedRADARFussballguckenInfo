@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-04",
-  "generatedAt": "2026-06-04T08:42:52.968Z",
+  "date": "2026-06-05",
+  "generatedAt": "2026-06-05T08:37:38.147Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,61 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "9 Übertragungen heute, u.a. Belgien (U17) - Frankreich (U17) (13:30 Uhr).",
-    "tr": "Bugün 9 yayın, Belgien (U17) - Frankreich (U17) dahil (13:30).",
-    "en": "9 broadcasts today, including Belgien (U17) - Frankreich (U17) (13:30)."
+    "de": "16 Übertragungen heute, u.a. Tschechien - Guatemala (02:00 Uhr).",
+    "tr": "Bugün 16 yayın, Tschechien - Guatemala dahil (02:00).",
+    "en": "16 broadcasts today, including Tschechien - Guatemala (02:00)."
   },
   "matches": [
     {
-      "time": "13:30",
-      "competition": "U17-EM",
-      "stage": {
-        "de": "Halbfinale",
-        "tr": "Yarı Final",
-        "en": "Semi-final"
-      },
-      "homeTeam": "Belgien (U17)",
-      "awayTeam": "Frankreich (U17)",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "DAZN"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-04T13:30:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Länderspiel (U23 Frauen)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Deutschland ♀ (U23)",
-      "awayTeam": "Dänemark ♀ (U23)",
-      "channels": [
-        "DF1",
-        "DF1 HD",
-        "DAZN",
-        "DF1 (Livestream)",
-        "DFB (YouTube)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-04T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
+      "time": "02:00",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Nordirland",
-      "awayTeam": "Guinea",
+      "homeTeam": "Tschechien",
+      "awayTeam": "Guatemala",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -71,78 +31,94 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-04T18:00:00+02:00"
+      "kickoff": "2026-06-05T02:00:00+02:00"
     },
     {
-      "time": "18:00",
+      "time": "14:00",
+      "competition": "Länderspiel (U19 Frauen)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Deutschland ♀ (U19)",
+      "awayTeam": "USA ♀ (U19)",
+      "channels": [
+        "DFB.TV (via Sky)",
+        "DFB.TV",
+        "DFB.TV+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T14:00:00+02:00"
+    },
+    {
+      "time": "15:00",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Slowenien",
-      "awayTeam": "Zypern",
+      "homeTeam": "Indonesien",
+      "awayTeam": "Oman",
       "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
         "DAZN",
+        "FIFA+",
         "DAZN (App)",
+        "FIFA+ (App)",
         "DAZN (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-04T18:00:00+02:00"
+      "kickoff": "2026-06-05T15:00:00+02:00"
     },
     {
-      "time": "19:00",
-      "competition": "U17-EM",
+      "time": "18:00",
+      "competition": "WM 2027 (Frauen)",
       "stage": {
-        "de": "Halbfinale",
-        "tr": "Yarı Final",
-        "en": "Semi-final"
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
       },
-      "homeTeam": "Italien (U17)",
-      "awayTeam": "Spanien (U17)",
+      "homeTeam": "Österreich ♀",
+      "awayTeam": "Slowenien ♀",
       "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "DAZN"
+        "ORF 1",
+        "ORF 1 HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-04T19:00:00+02:00"
+      "kickoff": "2026-06-05T18:00:00+02:00"
     },
     {
-      "time": "19:00",
+      "time": "18:00",
+      "competition": "WM 2027 (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Polen ♀",
+      "awayTeam": "Frankreich ♀",
+      "channels": [
+        "France 4",
+        "France 4 HD",
+        "France 4 (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Schweden",
-      "awayTeam": "Griechenland",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-04T19:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Andorra",
-      "awayTeam": "Liechtenstein",
+      "homeTeam": "Belarus",
+      "awayTeam": "Syrien",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -151,18 +127,117 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-04T19:00:00+02:00"
+      "kickoff": "2026-06-05T18:00:00+02:00"
     },
     {
-      "time": "20:45",
+      "time": "18:00",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Spanien",
-      "awayTeam": "Irak",
+      "homeTeam": "Georgien",
+      "awayTeam": "Bahrain",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T18:00:00+02:00"
+    },
+    {
+      "time": "18:15",
+      "competition": "WM 2027 (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Italien ♀",
+      "awayTeam": "Serbien ♀",
+      "channels": [
+        "Rai 2",
+        "Rai 2 HD",
+        "Rai 2 (RaiPlay)",
+        "RaiPlay (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T18:15:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Slowakei",
+      "awayTeam": "Montenegro",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T18:30:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "WM 2027 (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Liechtenstein ♀",
+      "awayTeam": "Estland ♀",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "FIFA+ (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Republik Moldau",
+      "awayTeam": "Bulgarien",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "San Marino",
+      "awayTeam": "Bangladesch",
       "channels": [
         "DAZN 1",
         "DAZN 1 HD",
@@ -171,27 +246,87 @@
         "DAZN (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-04T20:45:00+02:00"
+      "kickoff": "2026-06-05T19:00:00+02:00"
     },
     {
-      "time": "21:10",
+      "time": "19:30",
+      "competition": "WM 2027 (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Schweiz ♀",
+      "awayTeam": "Malta ♀",
+      "channels": [
+        "RSI LA 2",
+        "RTS 2",
+        "SRF zwei",
+        "RSI LA 2 HD",
+        "RTS 2 HD"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T19:30:00+02:00"
+    },
+    {
+      "time": "19:45",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Frankreich",
-      "awayTeam": "Elfenbeinküste",
+      "homeTeam": "Ungarn",
+      "awayTeam": "Finnland",
       "channels": [
-        "DAZN 2",
-        "RTS 2",
-        "SRF zwei",
-        "TF1",
-        "Cielo"
+        "DAZN 1",
+        "DAZN 1 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-04T21:10:00+02:00"
+      "kickoff": "2026-06-05T19:45:00+02:00"
+    },
+    {
+      "time": "20:35",
+      "competition": "WM 2027 (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Deutschland ♀",
+      "awayTeam": "Norwegen ♀",
+      "channels": [
+        "Das Erste",
+        "Das Erste HD",
+        "Das Erste Mediathek",
+        "Das Erste (App)",
+        "sportschau.de (Audio)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T20:35:00+02:00"
+    },
+    {
+      "time": "22:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Aserbaidschan",
+      "awayTeam": "Malta",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-05T22:00:00+02:00"
     }
   ]
 }
