@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-07",
-  "generatedAt": "2026-06-07T08:18:13.112Z",
+  "date": "2026-06-08",
+  "generatedAt": "2026-06-08T09:17:10.928Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,170 +8,48 @@
     "en"
   ],
   "summary": {
-    "de": "11 Übertragungen heute, u.a. UD Las Palmas - FC Malaga (16:00 Uhr).",
-    "tr": "Bugün 11 yayın, UD Las Palmas - FC Malaga dahil (16:00).",
-    "en": "11 broadcasts today, including UD Las Palmas - FC Malaga (16:00)."
+    "de": "4 Übertragungen heute, u.a. Albanien (U21) - Italien (U21) (18:15 Uhr).",
+    "tr": "Bugün 4 yayın, Albanien (U21) - Italien (U21) dahil (18:15).",
+    "en": "4 broadcasts today, including Albanien (U21) - Italien (U21) (18:15)."
   },
   "matches": [
     {
-      "time": "00:00",
-      "competition": "Länderspiel (Herren)",
+      "time": "18:15",
+      "competition": "Länderspiel (U21)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Venezuela",
-      "awayTeam": "Türkei",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-07T00:00:00+02:00"
-    },
-    {
-      "time": "00:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Brasilien",
-      "awayTeam": "Ägypten",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-07T00:00:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Liechtenstein",
-      "awayTeam": "Zypern",
-      "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-07T15:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "La Liga 2 (Spanien)",
-      "stage": {
-        "de": "Aufstiegsrunde Halbfinale (Hinspiel)",
-        "tr": "Yükselmesrunde Yarı Final (İlk maç)",
-        "en": "Promotionsrunde Semi-final (First leg)"
-      },
-      "homeTeam": "UD Las Palmas",
-      "awayTeam": "FC Malaga",
-      "channels": [
-        "blue Sport",
-        "blue Sport HD",
-        "DAZN",
-        "blue Sport (Livestream)",
-        "DAZN (App)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-06-07T16:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Serie C (Italien)",
-      "stage": {
-        "de": "Playoff Aufstiegs-Finale (Rückspiel)",
-        "tr": "Play-off Yükselmes-Final (Rövanş)",
-        "en": "Play-off Promotions-Final (Second leg)"
-      },
-      "homeTeam": "Ascoli Calcio",
-      "awayTeam": "Union Brescia",
+      "homeTeam": "Albanien (U21)",
+      "awayTeam": "Italien (U21)",
       "channels": [
         "Rai 2",
         "Rai 2 HD",
-        "OneFootball",
-        "Rai 2 (RaiPlay)",
-        "OneFootball (App)"
+        "Rai 2 (RaiPlay)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-07T18:00:00+02:00"
+      "kickoff": "2026-06-08T18:15:00+02:00"
     },
     {
-      "time": "19:00",
-      "competition": "U17-EM",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "Belgien (U17)",
-      "awayTeam": "Italien (U17)",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "DAZN"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-07T19:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Länderspiel (Herren)",
+      "time": "20:15",
+      "competition": "Länderspiel (U23 Frauen)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Kosovo",
-      "awayTeam": "Andorra",
+      "homeTeam": "Deutschland ♀ (U23)",
+      "awayTeam": "Dänemark ♀ (U23)",
       "channels": [
+        "DF1",
+        "DF1 HD",
         "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "DF1 (Livestream)",
+        "DFB (YouTube)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-07T20:00:00+02:00"
-    },
-    {
-      "time": "20:30",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Dänemark",
-      "awayTeam": "Ukraine",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-07T20:30:00+02:00"
+      "kickoff": "2026-06-08T20:15:00+02:00"
     },
     {
       "time": "20:45",
@@ -181,57 +59,37 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Kroatien",
-      "awayTeam": "Slowenien",
+      "homeTeam": "Niederlande",
+      "awayTeam": "Usbekistan",
       "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
         "DAZN",
         "DAZN (App)",
-        "DAZN (Amazon)"
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-07T20:45:00+02:00"
+      "kickoff": "2026-06-08T20:45:00+02:00"
     },
     {
-      "time": "21:00",
+      "time": "21:10",
       "competition": "Länderspiel (Herren)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Griechenland",
-      "awayTeam": "Italien",
+      "homeTeam": "Frankreich",
+      "awayTeam": "Nordirland",
       "channels": [
-        "Rai 1",
-        "l'Équipe",
-        "Rai 1 HD",
-        "L'Équipe HD",
+        "DAZN 1",
+        "TF1",
+        "DAZN 1 HD",
+        "TF1 HD",
         "DAZN"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-07T21:00:00+02:00"
-    },
-    {
-      "time": "22:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Ecuador",
-      "awayTeam": "Guatemala",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-07T22:00:00+02:00"
+      "kickoff": "2026-06-08T21:10:00+02:00"
     }
   ]
 }
