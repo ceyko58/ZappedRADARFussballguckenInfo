@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-09",
-  "generatedAt": "2026-06-09T08:25:54.669Z",
+  "date": "2026-06-10",
+  "generatedAt": "2026-06-10T08:42:22.962Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,287 +8,11 @@
     "en"
   ],
   "summary": {
-    "de": "15 Übertragungen heute, u.a. UD Almeria - CD Castellón (21:00 Uhr).",
-    "tr": "Bugün 15 yayın, UD Almeria - CD Castellón dahil (21:00).",
-    "en": "15 broadcasts today, including UD Almeria - CD Castellón (21:00)."
+    "de": "3 Übertragungen heute, u.a. FC Malaga - UD Las Palmas (21:00 Uhr).",
+    "tr": "Bugün 3 yayın, FC Malaga - UD Las Palmas dahil (21:00).",
+    "en": "3 broadcasts today, including FC Malaga - UD Las Palmas (21:00)."
   },
   "matches": [
-    {
-      "time": "04:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Peru",
-      "awayTeam": "Spanien",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T04:00:00+02:00"
-    },
-    {
-      "time": "14:30",
-      "competition": "Premjer Liha (Ukraine)",
-      "stage": {
-        "de": "Relegation Rückspiel",
-        "tr": "Baraj Rövanş",
-        "en": "Relegation Second leg"
-      },
-      "homeTeam": "FC Livyi Bereh",
-      "awayTeam": "FC Oleksandria",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T14:30:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "Länderspiel (U19 Frauen)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Deutschland ♀ (U19)",
-      "awayTeam": "USA ♀ (U19)",
-      "channels": [
-        "DFB.TV (via Sky)",
-        "DFB (YouTube)",
-        "DFB.TV",
-        "DFB.TV+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T15:00:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Indonesien",
-      "awayTeam": "Mozambique",
-      "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "FIFA+ (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T15:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premjer Liha (Ukraine)",
-      "stage": {
-        "de": "Relegation Rückspiel",
-        "tr": "Baraj Rövanş",
-        "en": "Relegation Second leg"
-      },
-      "homeTeam": "FC Ahrobiznes Volochysk",
-      "awayTeam": "FC Kudrivka",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Armenien",
-      "awayTeam": "Republik Moldau",
-      "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T17:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "WM 2027 (Frauen)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Norwegen ♀",
-      "awayTeam": "Österreich ♀",
-      "channels": [
-        "ORF 1",
-        "ORF Sport+",
-        "ORF 1 HD",
-        "ORF Sport+ HD",
-        "ORF ON"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "WM 2027 (Frauen)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Slowenien ♀",
-      "awayTeam": "Deutschland ♀",
-      "channels": [
-        "ZDF",
-        "ZDF HD",
-        "ZDFmediathek",
-        "ZDFmediathek (Android)",
-        "ZDFmediathek (iOS)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T18:00:00+02:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Belarus",
-      "awayTeam": "Burkina Faso",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T18:30:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "WM 2027 (Frauen)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Schweden ♀",
-      "awayTeam": "Italien ♀",
-      "channels": [
-        "Rai 2",
-        "Rai 2 HD",
-        "Rai 2 (RaiPlay)",
-        "RaiPlay (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T19:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "WM 2027 (Frauen)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Nordirland ♀",
-      "awayTeam": "Schweiz ♀",
-      "channels": [
-        "RSI LA 2",
-        "RTS 2",
-        "SRF zwei",
-        "RSI LA 2 HD",
-        "RTS 2 HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T19:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Ungarn",
-      "awayTeam": "Kasachstan",
-      "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T19:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Aserbaidschan",
-      "awayTeam": "San Marino",
-      "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T20:00:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "WM 2027 (Frauen)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Frankreich ♀",
-      "awayTeam": "Irland ♀",
-      "channels": [
-        "W9",
-        "W9 (Livestream via 6play)",
-        "M6+ (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-09T21:00:00+02:00"
-    },
     {
       "time": "21:00",
       "competition": "La Liga 2 (Spanien)",
@@ -297,8 +21,8 @@
         "tr": "Yükselmesrunde Yarı Final (Rövanş)",
         "en": "Promotionsrunde Semi-final (Second leg)"
       },
-      "homeTeam": "UD Almeria",
-      "awayTeam": "CD Castellón",
+      "homeTeam": "FC Malaga",
+      "awayTeam": "UD Las Palmas",
       "channels": [
         "blue Sport",
         "blue Sport HD",
@@ -307,7 +31,47 @@
         "DAZN (App)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-06-09T21:00:00+02:00"
+      "kickoff": "2026-06-10T21:00:00+02:00"
+    },
+    {
+      "time": "21:45",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Portugal",
+      "awayTeam": "Nigeria",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-10T21:45:00+02:00"
+    },
+    {
+      "time": "22:00",
+      "competition": "Länderspiel (Herren)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "England",
+      "awayTeam": "Costa Rica",
+      "channels": [
+        "DAZN 1",
+        "l'Équipe",
+        "Cielo",
+        "DAZN 1 HD",
+        "L'Équipe HD"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-10T22:00:00+02:00"
     }
   ]
 }
