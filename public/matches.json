@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-10",
-  "generatedAt": "2026-06-10T08:42:22.962Z",
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T09:06:48.527Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,70 +8,30 @@
     "en"
   ],
   "summary": {
-    "de": "3 Übertragungen heute, u.a. FC Malaga - UD Las Palmas (21:00 Uhr).",
-    "tr": "Bugün 3 yayın, FC Malaga - UD Las Palmas dahil (21:00).",
-    "en": "3 broadcasts today, including FC Malaga - UD Las Palmas (21:00)."
+    "de": "1 Übertragungen heute, u.a. Mexiko - Südafrika (21:00 Uhr).",
+    "tr": "Bugün 1 yayın, Mexiko - Südafrika dahil (21:00).",
+    "en": "1 broadcasts today, including Mexiko - Südafrika (21:00)."
   },
   "matches": [
     {
       "time": "21:00",
-      "competition": "La Liga 2 (Spanien)",
+      "competition": "WM 2026",
       "stage": {
-        "de": "Aufstiegsrunde Halbfinale (Rückspiel)",
-        "tr": "Yükselmesrunde Yarı Final (Rövanş)",
-        "en": "Promotionsrunde Semi-final (Second leg)"
+        "de": "Gruppenphase Gruppe A",
+        "tr": "Grupnphase Grup A",
+        "en": "Groupnphase Group A"
       },
-      "homeTeam": "FC Malaga",
-      "awayTeam": "UD Las Palmas",
+      "homeTeam": "Mexiko",
+      "awayTeam": "Südafrika",
       "channels": [
-        "blue Sport",
-        "blue Sport HD",
-        "DAZN",
-        "blue Sport (Livestream)",
-        "DAZN (App)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-06-10T21:00:00+02:00"
-    },
-    {
-      "time": "21:45",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Portugal",
-      "awayTeam": "Nigeria",
-      "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ZDF",
+        "ORF 1",
+        "M6"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-10T21:45:00+02:00"
-    },
-    {
-      "time": "22:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "England",
-      "awayTeam": "Costa Rica",
-      "channels": [
-        "DAZN 1",
-        "l'Équipe",
-        "Cielo",
-        "DAZN 1 HD",
-        "L'Équipe HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-10T22:00:00+02:00"
+      "kickoff": "2026-06-11T21:00:00+02:00"
     }
   ]
 }
