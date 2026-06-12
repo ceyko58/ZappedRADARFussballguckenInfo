@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-11",
-  "generatedAt": "2026-06-11T09:06:48.527Z",
+  "date": "2026-06-12",
+  "generatedAt": "2026-06-12T08:52:57.888Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,30 +8,110 @@
     "en"
   ],
   "summary": {
-    "de": "1 Übertragungen heute, u.a. Mexiko - Südafrika (21:00 Uhr).",
-    "tr": "Bugün 1 yayın, Mexiko - Südafrika dahil (21:00).",
-    "en": "1 broadcasts today, including Mexiko - Südafrika (21:00)."
+    "de": "5 Übertragungen heute, u.a. Südkorea - Tschechien (04:00 Uhr).",
+    "tr": "Bugün 5 yayın, Südkorea - Tschechien dahil (04:00).",
+    "en": "5 broadcasts today, including Südkorea - Tschechien (04:00)."
   },
   "matches": [
     {
-      "time": "21:00",
+      "time": "04:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Gruppenphase Gruppe A",
         "tr": "Grupnphase Grup A",
         "en": "Groupnphase Group A"
       },
-      "homeTeam": "Mexiko",
-      "awayTeam": "Südafrika",
+      "homeTeam": "Südkorea",
+      "awayTeam": "Tschechien",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
+        "ORF 1",
+        "RSI LA 2",
+        "RTS 2"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-12T04:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "17. Spieltag",
+        "tr": "17. Hafta",
+        "en": "Matchday 17"
+      },
+      "homeTeam": "FK Tukums 2000",
+      "awayTeam": "BFC Daugavpils",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-12T17:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "17. Spieltag",
+        "tr": "17. Hafta",
+        "en": "Matchday 17"
+      },
+      "homeTeam": "FK Liepaja",
+      "awayTeam": "SK Super Nova",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-12T18:00:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "NIFL Women's Premiership (Nordirland)",
+      "stage": {
+        "de": "02. Spieltag",
+        "tr": "02. Hafta",
+        "en": "Matchday 02"
+      },
+      "homeTeam": "Cliftonville FC ♀",
+      "awayTeam": "Glentoran FC ♀",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-12T20:45:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe B",
+        "tr": "Grupnphase Grup B",
+        "en": "Groupnphase Group B"
+      },
+      "homeTeam": "Kanada",
+      "awayTeam": "Bosnien-Herzegowina",
+      "channels": [
+        "Das Erste",
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
         "ORF 1",
         "M6"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-11T21:00:00+02:00"
+      "kickoff": "2026-06-12T21:00:00+02:00"
     }
   ]
 }
