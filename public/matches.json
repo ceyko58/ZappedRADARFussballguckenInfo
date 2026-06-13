@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-12",
-  "generatedAt": "2026-06-12T08:52:57.888Z",
+  "date": "2026-06-13",
+  "generatedAt": "2026-06-13T08:15:44.519Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,21 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "5 Übertragungen heute, u.a. Südkorea - Tschechien (04:00 Uhr).",
-    "tr": "Bugün 5 yayın, Südkorea - Tschechien dahil (04:00).",
-    "en": "5 broadcasts today, including Südkorea - Tschechien (04:00)."
+    "de": "11 Übertragungen heute, u.a. USA - Paraguay (03:00 Uhr).",
+    "tr": "Bugün 11 yayın, USA - Paraguay dahil (03:00).",
+    "en": "11 broadcasts today, including USA - Paraguay (03:00)."
   },
   "matches": [
     {
-      "time": "04:00",
+      "time": "03:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe A",
-        "tr": "Grupnphase Grup A",
-        "en": "Groupnphase Group A"
+        "de": "Gruppenphase Gruppe D",
+        "tr": "Grupnphase Grup D",
+        "en": "Groupnphase Group D"
       },
-      "homeTeam": "Südkorea",
-      "awayTeam": "Tschechien",
+      "homeTeam": "USA",
+      "awayTeam": "Paraguay",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
@@ -31,7 +31,127 @@
         "RTS 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-12T04:00:00+02:00"
+      "kickoff": "2026-06-13T03:00:00+02:00"
+    },
+    {
+      "time": "13:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "17. Spieltag",
+        "tr": "17. Hafta",
+        "en": "Matchday 17"
+      },
+      "homeTeam": "FK Ogre United",
+      "awayTeam": "Riga FC",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-13T13:00:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "Ilves Tampere",
+      "awayTeam": "Turun PS",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-13T14:00:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "Inter Turku",
+      "awayTeam": "AC Oulu",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-13T14:00:00+02:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "17. Spieltag",
+        "tr": "17. Hafta",
+        "en": "Matchday 17"
+      },
+      "homeTeam": "Grobinas Sporta Centrs",
+      "awayTeam": "Rigas FS",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-13T15:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "FF Jaro",
+      "awayTeam": "HJK Helsinki",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-13T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "Vaasan PS",
+      "awayTeam": "Kuopion PS",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-13T16:00:00+02:00"
     },
     {
       "time": "17:00",
@@ -41,8 +161,8 @@
         "tr": "17. Hafta",
         "en": "Matchday 17"
       },
-      "homeTeam": "FK Tukums 2000",
-      "awayTeam": "BFC Daugavpils",
+      "homeTeam": "Auda Riga",
+      "awayTeam": "FK Jelgava",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -51,18 +171,18 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-12T17:00:00+02:00"
+      "kickoff": "2026-06-13T17:00:00+02:00"
     },
     {
       "time": "18:00",
-      "competition": "Virsliga (Lettland)",
+      "competition": "Veikkausliiga (Finnland)",
       "stage": {
-        "de": "17. Spieltag",
-        "tr": "17. Hafta",
-        "en": "Matchday 17"
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
       },
-      "homeTeam": "FK Liepaja",
-      "awayTeam": "SK Super Nova",
+      "homeTeam": "FC Lahti",
+      "awayTeam": "SJK Seinäjoki",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -71,27 +191,27 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-12T18:00:00+02:00"
+      "kickoff": "2026-06-13T18:00:00+02:00"
     },
     {
-      "time": "20:45",
-      "competition": "NIFL Women's Premiership (Nordirland)",
+      "time": "18:00",
+      "competition": "Veikkausliiga (Finnland)",
       "stage": {
-        "de": "02. Spieltag",
-        "tr": "02. Hafta",
-        "en": "Matchday 02"
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
       },
-      "homeTeam": "Cliftonville FC ♀",
-      "awayTeam": "Glentoran FC ♀",
+      "homeTeam": "IFK Mariehamn",
+      "awayTeam": "IF Gnistan",
       "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-12T20:45:00+02:00"
+      "kickoff": "2026-06-13T18:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -101,17 +221,17 @@
         "tr": "Grupnphase Grup B",
         "en": "Groupnphase Group B"
       },
-      "homeTeam": "Kanada",
-      "awayTeam": "Bosnien-Herzegowina",
+      "homeTeam": "Katar",
+      "awayTeam": "SchweizAlle WM-Spiele der Schweizer Nationalmannschaft",
       "channels": [
-        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ORF 1",
+        "ZDF",
+        "ServusTV (AT)",
         "M6"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-12T21:00:00+02:00"
+      "kickoff": "2026-06-13T21:00:00+02:00"
     }
   ]
 }
