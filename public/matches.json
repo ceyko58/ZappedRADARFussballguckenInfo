@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-18",
-  "generatedAt": "2026-06-18T09:08:10.329Z",
+  "date": "2026-06-19",
+  "generatedAt": "2026-06-19T09:24:11.656Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,110 +8,70 @@
     "en"
   ],
   "summary": {
-    "de": "5 Übertragungen heute, u.a. Ghana - Panama (01:00 Uhr).",
-    "tr": "Bugün 5 yayın, Ghana - Panama dahil (01:00).",
-    "en": "5 broadcasts today, including Ghana - Panama (01:00)."
+    "de": "3 Übertragungen heute, u.a. Kanada - Katar (00:00 Uhr).",
+    "tr": "Bugün 3 yayın, Kanada - Katar dahil (00:00).",
+    "en": "3 broadcasts today, including Kanada - Katar (00:00)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Gruppenphase Gruppe L",
-        "tr": "Grupnphase Grup L",
-        "en": "Groupnphase Group L"
-      },
-      "homeTeam": "Ghana",
-      "awayTeam": "Panama",
-      "channels": [
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "ServusTV (AT)",
-        "RSI LA 2",
-        "RTS 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-18T01:00:00+02:00"
-    },
-    {
-      "time": "04:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Gruppenphase Gruppe K",
-        "tr": "Grupnphase Grup K",
-        "en": "Groupnphase Group K"
-      },
-      "homeTeam": "Usbekistan",
-      "awayTeam": "Kolumbien",
-      "channels": [
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "ServusTV (AT)",
-        "RSI LA 2",
-        "RTS 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-18T04:00:00+02:00"
-    },
-    {
-      "time": "12:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
-      },
-      "homeTeam": "AC Oulu",
-      "awayTeam": "IFK Mariehamn",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-18T12:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Gruppenphase Gruppe A",
-        "tr": "Grupnphase Grup A",
-        "en": "Groupnphase Group A"
-      },
-      "homeTeam": "Tschechien",
-      "awayTeam": "Südafrika",
-      "channels": [
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "ZDF",
-        "ORF 1",
-        "M6"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-18T18:00:00+02:00"
-    },
-    {
-      "time": "21:00",
+      "time": "00:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Gruppenphase Gruppe B",
         "tr": "Grupnphase Grup B",
         "en": "Groupnphase Group B"
       },
-      "homeTeam": "SchweizAlle WM-Spiele der Schweizer Nationalmannschaft",
-      "awayTeam": "Bosnien-Herzegowina",
+      "homeTeam": "Kanada",
+      "awayTeam": "Katar",
+      "channels": [
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ZDF",
+        "ORF 1",
+        "RSI LA 2"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-19T00:00:00+02:00"
+    },
+    {
+      "time": "03:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe A",
+        "tr": "Grupnphase Grup A",
+        "en": "Groupnphase Group A"
+      },
+      "homeTeam": "Mexiko",
+      "awayTeam": "Südkorea",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
         "ORF 1",
-        "Rai 1",
-        "M6"
+        "RSI LA 2",
+        "RTS 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-18T21:00:00+02:00"
+      "kickoff": "2026-06-19T03:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe D",
+        "tr": "Grupnphase Grup D",
+        "en": "Groupnphase Group D"
+      },
+      "homeTeam": "USA",
+      "awayTeam": "Australien",
+      "channels": [
+        "Das Erste",
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "Rai 1",
+        "ServusTV (AT)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-19T21:00:00+02:00"
     }
   ]
 }
