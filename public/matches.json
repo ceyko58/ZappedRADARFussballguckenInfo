@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-19",
-  "generatedAt": "2026-06-19T09:24:11.656Z",
+  "date": "2026-06-20",
+  "generatedAt": "2026-06-20T08:16:47.894Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,70 +8,150 @@
     "en"
   ],
   "summary": {
-    "de": "3 Übertragungen heute, u.a. Kanada - Katar (00:00 Uhr).",
-    "tr": "Bugün 3 yayın, Kanada - Katar dahil (00:00).",
-    "en": "3 broadcasts today, including Kanada - Katar (00:00)."
+    "de": "7 Übertragungen heute, u.a. UD Almeria - FC Malaga (21:00 Uhr).",
+    "tr": "Bugün 7 yayın, UD Almeria - FC Malaga dahil (21:00).",
+    "en": "7 broadcasts today, including UD Almeria - FC Malaga (21:00)."
   },
   "matches": [
     {
       "time": "00:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe B",
-        "tr": "Grupnphase Grup B",
-        "en": "Groupnphase Group B"
+        "de": "Gruppenphase Gruppe C",
+        "tr": "Grupnphase Grup C",
+        "en": "Groupnphase Group C"
       },
-      "homeTeam": "Kanada",
-      "awayTeam": "Katar",
+      "homeTeam": "Schottland",
+      "awayTeam": "Marokko",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
-        "ORF 1",
+        "ServusTV (AT)",
+        "M6",
         "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-19T00:00:00+02:00"
+      "kickoff": "2026-06-20T00:00:00+02:00"
     },
     {
-      "time": "03:00",
+      "time": "02:30",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe A",
-        "tr": "Grupnphase Grup A",
-        "en": "Groupnphase Group A"
+        "de": "Gruppenphase Gruppe C",
+        "tr": "Grupnphase Grup C",
+        "en": "Groupnphase Group C"
       },
-      "homeTeam": "Mexiko",
-      "awayTeam": "Südkorea",
+      "homeTeam": "Brasilien",
+      "awayTeam": "Haiti",
       "channels": [
+        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ORF 1",
-        "RSI LA 2",
-        "RTS 2"
+        "ServusTV (AT)",
+        "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-19T03:00:00+02:00"
+      "kickoff": "2026-06-20T02:30:00+02:00"
     },
     {
-      "time": "21:00",
+      "time": "05:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Gruppenphase Gruppe D",
         "tr": "Grupnphase Grup D",
         "en": "Groupnphase Group D"
       },
-      "homeTeam": "USA",
-      "awayTeam": "Australien",
+      "homeTeam": "Türkei",
+      "awayTeam": "Paraguay",
       "channels": [
-        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "Rai 1",
-        "ServusTV (AT)"
+        "ServusTV (AT)",
+        "RSI LA 2",
+        "RTS 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-19T21:00:00+02:00"
+      "kickoff": "2026-06-20T05:00:00+02:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "19. Spieltag",
+        "tr": "19. Hafta",
+        "en": "Matchday 19"
+      },
+      "homeTeam": "BFC Daugavpils",
+      "awayTeam": "Grobinas Sporta Centrs",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-20T15:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe F",
+        "tr": "Grupnphase Grup F",
+        "en": "Groupnphase Group F"
+      },
+      "homeTeam": "Niederlande",
+      "awayTeam": "Schweden",
+      "channels": [
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ZDF",
+        "ORF 1",
+        "M6"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-20T19:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "La Liga 2 (Spanien)",
+      "stage": {
+        "de": "Aufstiegsrunde Finale (Rückspiel)",
+        "tr": "Yükselmesrunde Final (Rövanş)",
+        "en": "Promotionsrunde Final (Second leg)"
+      },
+      "homeTeam": "UD Almeria",
+      "awayTeam": "FC Malaga",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "DAZN",
+        "blue Sport (Livestream)",
+        "DAZN (App)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-06-20T21:00:00+02:00"
+    },
+    {
+      "time": "22:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe E",
+        "tr": "Grupnphase Grup E",
+        "en": "Groupnphase Group E"
+      },
+      "homeTeam": "DeutschlandAlle WM-Spiele der deutschen Nationalmannschaft",
+      "awayTeam": "Elfenbeinküste",
+      "channels": [
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ZDF",
+        "ORF 1",
+        "Rai 1"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-20T22:00:00+02:00"
     }
   ]
 }
