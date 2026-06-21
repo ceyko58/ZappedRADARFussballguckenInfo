@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-20",
-  "generatedAt": "2026-06-20T08:16:47.894Z",
+  "date": "2026-06-21",
+  "generatedAt": "2026-06-21T08:53:18.354Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,70 +8,67 @@
     "en"
   ],
   "summary": {
-    "de": "7 Übertragungen heute, u.a. UD Almeria - FC Malaga (21:00 Uhr).",
-    "tr": "Bugün 7 yayın, UD Almeria - FC Malaga dahil (21:00).",
-    "en": "7 broadcasts today, including UD Almeria - FC Malaga (21:00)."
+    "de": "13 Übertragungen heute, u.a. Hertha BSC ♀ - 1. FC Saarbrücken ♀ (14:00 Uhr).",
+    "tr": "Bugün 13 yayın, Hertha BSC ♀ - 1. FC Saarbrücken ♀ dahil (14:00).",
+    "en": "13 broadcasts today, including Hertha BSC ♀ - 1. FC Saarbrücken ♀ (14:00)."
   },
   "matches": [
     {
-      "time": "00:00",
+      "time": "02:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe C",
-        "tr": "Grupnphase Grup C",
-        "en": "Groupnphase Group C"
+        "de": "Gruppenphase Gruppe E",
+        "tr": "Grupnphase Grup E",
+        "en": "Groupnphase Group E"
       },
-      "homeTeam": "Schottland",
-      "awayTeam": "Marokko",
+      "homeTeam": "Ecuador",
+      "awayTeam": "Curaçao",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ServusTV (AT)",
-        "M6",
+        "ZDF",
+        "ORF 1",
         "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-20T00:00:00+02:00"
+      "kickoff": "2026-06-21T02:00:00+02:00"
     },
     {
-      "time": "02:30",
+      "time": "06:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe C",
-        "tr": "Grupnphase Grup C",
-        "en": "Groupnphase Group C"
+        "de": "Gruppenphase Gruppe F",
+        "tr": "Grupnphase Grup F",
+        "en": "Groupnphase Group F"
       },
-      "homeTeam": "Brasilien",
-      "awayTeam": "Haiti",
-      "channels": [
-        "Das Erste",
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "ServusTV (AT)",
-        "RSI LA 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-20T02:30:00+02:00"
-    },
-    {
-      "time": "05:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Gruppenphase Gruppe D",
-        "tr": "Grupnphase Grup D",
-        "en": "Groupnphase Group D"
-      },
-      "homeTeam": "Türkei",
-      "awayTeam": "Paraguay",
+      "homeTeam": "Tunesien",
+      "awayTeam": "Japan",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ServusTV (AT)",
+        "ORF 1",
         "RSI LA 2",
         "RTS 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-20T05:00:00+02:00"
+      "kickoff": "2026-06-21T06:00:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "2. Frauen-Bundesliga",
+      "stage": {
+        "de": "Playoff Aufstiegsspiel, Rückspiel",
+        "tr": "Play-off Yükselmesspiel, Rövanş",
+        "en": "Play-off Promotionsspiel, Second leg"
+      },
+      "homeTeam": "Hertha BSC ♀",
+      "awayTeam": "1. FC Saarbrücken ♀",
+      "channels": [
+        "rbb Mediathek",
+        "rbb24"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-06-21T14:00:00+02:00"
     },
     {
       "time": "15:00",
@@ -81,8 +78,8 @@
         "tr": "19. Hafta",
         "en": "Matchday 19"
       },
-      "homeTeam": "BFC Daugavpils",
-      "awayTeam": "Grobinas Sporta Centrs",
+      "homeTeam": "FK Jelgava",
+      "awayTeam": "FK Tukums 2000",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -91,67 +88,187 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-20T15:00:00+02:00"
+      "kickoff": "2026-06-21T15:00:00+02:00"
     },
     {
-      "time": "19:00",
+      "time": "15:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "19. Spieltag",
+        "tr": "19. Hafta",
+        "en": "Matchday 19"
+      },
+      "homeTeam": "SK Super Nova",
+      "awayTeam": "Auda Riga",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-21T15:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "19. Spieltag",
+        "tr": "19. Hafta",
+        "en": "Matchday 19"
+      },
+      "homeTeam": "Riga FC",
+      "awayTeam": "FK Liepaja",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-21T17:00:00+02:00"
+    },
+    {
+      "time": "18:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe F",
-        "tr": "Grupnphase Grup F",
-        "en": "Groupnphase Group F"
+        "de": "Gruppenphase Gruppe H",
+        "tr": "Grupnphase Grup H",
+        "en": "Groupnphase Group H"
       },
-      "homeTeam": "Niederlande",
-      "awayTeam": "Schweden",
+      "homeTeam": "Spanien",
+      "awayTeam": "Saudi Arabien",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
-        "ORF 1",
-        "M6"
+        "ServusTV (AT)",
+        "M6",
+        "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-20T19:00:00+02:00"
+      "kickoff": "2026-06-21T18:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "Valur Reykjavik",
+      "awayTeam": "IF Keflavik",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-21T20:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "Breidablik Kópavogur",
+      "awayTeam": "KA Akureyri",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-21T20:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "FH Hafnarfjördur",
+      "awayTeam": "Thor Akureyri",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-21T20:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "IB Vestmannaeyjar",
+      "awayTeam": "UMF Stjarnan",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-21T20:00:00+02:00"
     },
     {
       "time": "21:00",
-      "competition": "La Liga 2 (Spanien)",
-      "stage": {
-        "de": "Aufstiegsrunde Finale (Rückspiel)",
-        "tr": "Yükselmesrunde Final (Rövanş)",
-        "en": "Promotionsrunde Final (Second leg)"
-      },
-      "homeTeam": "UD Almeria",
-      "awayTeam": "FC Malaga",
-      "channels": [
-        "blue Sport",
-        "blue Sport HD",
-        "DAZN",
-        "blue Sport (Livestream)",
-        "DAZN (App)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-06-20T21:00:00+02:00"
-    },
-    {
-      "time": "22:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe E",
-        "tr": "Grupnphase Grup E",
-        "en": "Groupnphase Group E"
+        "de": "Gruppenphase Gruppe G",
+        "tr": "Grupnphase Grup G",
+        "en": "Groupnphase Group G"
       },
-      "homeTeam": "DeutschlandAlle WM-Spiele der deutschen Nationalmannschaft",
-      "awayTeam": "Elfenbeinküste",
+      "homeTeam": "Belgien",
+      "awayTeam": "Iran",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
         "ZDF",
-        "ORF 1",
-        "Rai 1"
+        "Rai 1",
+        "ServusTV (AT)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-20T22:00:00+02:00"
+      "kickoff": "2026-06-21T21:00:00+02:00"
+    },
+    {
+      "time": "22:15",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "Fram Reykjavik",
+      "awayTeam": "Vikingur Reykjavik",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-21T22:15:00+02:00"
     }
   ]
 }
