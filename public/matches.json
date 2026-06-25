@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-24",
-  "generatedAt": "2026-06-24T08:17:43.101Z",
+  "date": "2026-06-25",
+  "generatedAt": "2026-06-25T08:16:22.891Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,90 +8,190 @@
     "en"
   ],
   "summary": {
-    "de": "4 Übertragungen heute, u.a. Panama - Kroatien (01:00 Uhr).",
-    "tr": "Bugün 4 yayın, Panama - Kroatien dahil (01:00).",
-    "en": "4 broadcasts today, including Panama - Kroatien (01:00)."
+    "de": "9 Übertragungen heute, u.a. Marokko - Haiti (00:00 Uhr).",
+    "tr": "Bugün 9 yayın, Marokko - Haiti dahil (00:00).",
+    "en": "9 broadcasts today, including Marokko - Haiti (00:00)."
   },
   "matches": [
     {
-      "time": "01:00",
+      "time": "00:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe L",
-        "tr": "Grupnphase Grup L",
-        "en": "Groupnphase Group L"
+        "de": "Gruppenphase Gruppe C",
+        "tr": "Grupnphase Grup C",
+        "en": "Groupnphase Group C"
       },
-      "homeTeam": "Panama",
-      "awayTeam": "Kroatien",
+      "homeTeam": "Marokko",
+      "awayTeam": "Haiti",
       "channels": [
+        "FUSSBALL.TV 2 (MagentaTV)",
+        "FUSSBALL.TV 3 (MagentaTV)",
         "MagentaTV",
-        "ServusTV (AT)",
-        "RSI LA 2",
-        "RTS 2",
-        "SRF zwei"
+        "ZDF",
+        "ServusTV (AT)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-24T01:00:00+02:00"
+      "kickoff": "2026-06-25T00:00:00+02:00"
     },
     {
-      "time": "04:00",
+      "time": "00:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "Gruppenphase Gruppe K",
-        "tr": "Grupnphase Grup K",
-        "en": "Groupnphase Group K"
+        "de": "Gruppenphase Gruppe C",
+        "tr": "Grupnphase Grup C",
+        "en": "Groupnphase Group C"
       },
-      "homeTeam": "Kolumbien",
-      "awayTeam": "DR Kongo",
+      "homeTeam": "Schottland",
+      "awayTeam": "Brasilien",
       "channels": [
-        "Das Erste",
-        "MagentaTV",
-        "ServusTV (AT)",
-        "RSI LA 2",
-        "RTS 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-24T04:00:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Gruppenphase Gruppe B",
-        "tr": "Grupnphase Grup B",
-        "en": "Groupnphase Group B"
-      },
-      "homeTeam": "Bosnien-Herzegowina",
-      "awayTeam": "Katar",
-      "channels": [
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "FUSSBALL.TV 3 (MagentaTV)",
         "MagentaTV",
         "ORF 1",
-        "SRF info",
-        "MagentaTV UHD",
-        "ORF 1 HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-24T21:00:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Gruppenphase Gruppe B",
-        "tr": "Grupnphase Grup B",
-        "en": "Groupnphase Group B"
-      },
-      "homeTeam": "SchweizAlle WM-Spiele der Schweizer Nationalmannschaft",
-      "awayTeam": "Kanada",
-      "channels": [
-        "Das Erste",
-        "MagentaTV",
-        "Rai 1",
-        "ServusTV (AT)",
         "M6"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-24T21:00:00+02:00"
+      "kickoff": "2026-06-25T00:00:00+02:00"
+    },
+    {
+      "time": "03:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe A",
+        "tr": "Grupnphase Grup A",
+        "en": "Groupnphase Group A"
+      },
+      "homeTeam": "Tschechien",
+      "awayTeam": "Mexiko",
+      "channels": [
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "FUSSBALL.TV 3 (MagentaTV)",
+        "MagentaTV",
+        "ORF 1",
+        "RSI LA 2"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-25T03:00:00+02:00"
+    },
+    {
+      "time": "03:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe A",
+        "tr": "Grupnphase Grup A",
+        "en": "Groupnphase Group A"
+      },
+      "homeTeam": "Südafrika",
+      "awayTeam": "Südkorea",
+      "channels": [
+        "FUSSBALL.TV 2 (MagentaTV)",
+        "FUSSBALL.TV 3 (MagentaTV)",
+        "MagentaTV",
+        "ServusTV (AT)",
+        "FUSSBALL.TV 2 UHD (MagentaTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-25T03:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "20. Spieltag",
+        "tr": "20. Hafta",
+        "en": "Matchday 20"
+      },
+      "homeTeam": "BFC Daugavpils",
+      "awayTeam": "Riga FC",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-25T17:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "20. Spieltag",
+        "tr": "20. Hafta",
+        "en": "Matchday 20"
+      },
+      "homeTeam": "Grobinas Sporta Centrs",
+      "awayTeam": "Auda Riga",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-25T17:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "20. Spieltag",
+        "tr": "20. Hafta",
+        "en": "Matchday 20"
+      },
+      "homeTeam": "SK Super Nova",
+      "awayTeam": "FK Jelgava",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-25T19:00:00+02:00"
+    },
+    {
+      "time": "22:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe E",
+        "tr": "Grupnphase Grup E",
+        "en": "Groupnphase Group E"
+      },
+      "homeTeam": "Curaçao",
+      "awayTeam": "Elfenbeinküste",
+      "channels": [
+        "FUSSBALL.TV 2 (MagentaTV)",
+        "FUSSBALL.TV 3 (MagentaTV)",
+        "MagentaTV",
+        "ServusTV (AT)",
+        "SRF info"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-25T22:00:00+02:00"
+    },
+    {
+      "time": "22:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Gruppenphase Gruppe E",
+        "tr": "Grupnphase Grup E",
+        "en": "Groupnphase Group E"
+      },
+      "homeTeam": "Ecuador",
+      "awayTeam": "DeutschlandAlle WM-Spiele der deutschen Nationalmannschaft",
+      "channels": [
+        "Das Erste",
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "FUSSBALL.TV 3 (MagentaTV)",
+        "MagentaTV",
+        "ORF 1"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-25T22:00:00+02:00"
     }
   ]
 }
