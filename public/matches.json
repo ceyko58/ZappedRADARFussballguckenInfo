@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-29",
-  "generatedAt": "2026-06-29T09:20:48.911Z",
+  "date": "2026-06-30",
+  "generatedAt": "2026-06-30T08:23:34.226Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,30 +8,30 @@
     "en"
   ],
   "summary": {
-    "de": "7 Übertragungen heute, u.a. Auda Riga - Riga FC (17:00 Uhr).",
-    "tr": "Bugün 7 yayın, Auda Riga - Riga FC dahil (17:00).",
-    "en": "7 broadcasts today, including Auda Riga - Riga FC (17:00)."
+    "de": "8 Übertragungen heute, u.a. Niederlande - Marokko (03:00 Uhr).",
+    "tr": "Bugün 8 yayın, Niederlande - Marokko dahil (03:00).",
+    "en": "8 broadcasts today, including Niederlande - Marokko (03:00)."
   },
   "matches": [
     {
-      "time": "17:00",
-      "competition": "Virsliga (Lettland)",
+      "time": "03:00",
+      "competition": "WM 2026",
       "stage": {
-        "de": "21. Spieltag",
-        "tr": "21. Hafta",
-        "en": "Matchday 21"
+        "de": "Sechzehntelfinale",
+        "tr": "SechzehntelFinal",
+        "en": "SechzehntelFinal"
       },
-      "homeTeam": "Auda Riga",
-      "awayTeam": "Riga FC",
+      "homeTeam": "Niederlande",
+      "awayTeam": "Marokko",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ORF 1",
+        "RSI LA 2",
+        "RTS 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-29T17:00:00+02:00"
+      "kickoff": "2026-06-30T03:00:00+02:00"
     },
     {
       "time": "17:00",
@@ -41,8 +41,8 @@
         "tr": "21. Hafta",
         "en": "Matchday 21"
       },
-      "homeTeam": "FK Jelgava",
-      "awayTeam": "Grobinas Sporta Centrs",
+      "homeTeam": "Rigas FS",
+      "awayTeam": "BFC Daugavpils",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -51,18 +51,18 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-29T17:00:00+02:00"
+      "kickoff": "2026-06-30T17:00:00+02:00"
     },
     {
       "time": "17:00",
-      "competition": "U19-EM",
+      "competition": "U19-EM (Frauen)",
       "stage": {
-        "de": "Gruppenphase 1. Spieltag, Gruppe B",
-        "tr": "Grupnphase 1. Hafta, Grup B",
-        "en": "Groupnphase Matchday 1, Group B"
+        "de": "Gruppenphase 2. Spieltag, Gruppe A",
+        "tr": "Grupnphase 2. Hafta, Grup A",
+        "en": "Groupnphase Matchday 2, Group A"
       },
-      "homeTeam": "Italien (U19)",
-      "awayTeam": "Serbien (U19)",
+      "homeTeam": "Bosnien-Herzegowina ♀ (U19)",
+      "awayTeam": "Schweden ♀ (U19)",
       "channels": [
         "Sportdigital Fussball",
         "Sportdigital Fussball HD",
@@ -71,7 +71,41 @@
         "OneFootball (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-29T17:00:00+02:00"
+      "kickoff": "2026-06-30T17:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "21. Spieltag",
+        "tr": "21. Hafta",
+        "en": "Matchday 21"
+      },
+      "homeTeam": "FK Liepaja",
+      "awayTeam": "FK Ogre United",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-06-30T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Altona 93",
+      "awayTeam": "FC St. Pauli",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-06-30T18:00:00+02:00"
     },
     {
       "time": "19:00",
@@ -81,77 +115,57 @@
         "tr": "SechzehntelFinal",
         "en": "SechzehntelFinal"
       },
-      "homeTeam": "Brasilien",
-      "awayTeam": "Japan",
+      "homeTeam": "Elfenbeinküste",
+      "awayTeam": "Norwegen",
       "channels": [
+        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
-        "ORF 1",
+        "ServusTV (AT)",
         "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-29T19:00:00+02:00"
+      "kickoff": "2026-06-30T19:00:00+02:00"
     },
     {
-      "time": "21:00",
-      "competition": "U19-EM",
+      "time": "20:00",
+      "competition": "U19-EM (Frauen)",
       "stage": {
-        "de": "Gruppenphase 1. Spieltag, Gruppe B",
-        "tr": "Grupnphase 1. Hafta, Grup B",
-        "en": "Groupnphase Matchday 1, Group B"
+        "de": "Gruppenphase 2. Spieltag, Gruppe A",
+        "tr": "Grupnphase 2. Hafta, Grup A",
+        "en": "Groupnphase Matchday 2, Group A"
       },
-      "homeTeam": "Kroatien (U19)",
-      "awayTeam": "Ukraine (U19)",
+      "homeTeam": "Polen ♀ (U19)",
+      "awayTeam": "Deutschland ♀ (U19)",
       "channels": [
         "Sportdigital Fussball",
         "Sportdigital Fussball HD",
+        "DAZN",
         "OneFootball",
-        "Sportdigital.de (Livestream)",
-        "OneFootball (App)"
+        "RTL Sport (YouTube)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-29T21:00:00+02:00"
+      "kickoff": "2026-06-30T20:00:00+02:00"
     },
     {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
-      "stage": {
-        "de": "12. Spieltag",
-        "tr": "12. Hafta",
-        "en": "Matchday 12"
-      },
-      "homeTeam": "IA Akranes",
-      "awayTeam": "Fram Reykjavik",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-29T21:15:00+02:00"
-    },
-    {
-      "time": "22:30",
+      "time": "23:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Sechzehntelfinale",
         "tr": "SechzehntelFinal",
         "en": "SechzehntelFinal"
       },
-      "homeTeam": "Deutschland",
-      "awayTeam": "Paraguay",
+      "homeTeam": "Frankreich",
+      "awayTeam": "Schweden",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
-        "ORF 1",
-        "Rai 1"
+        "Rai 1",
+        "ServusTV (AT)",
+        "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-29T22:30:00+02:00"
+      "kickoff": "2026-06-30T23:00:00+02:00"
     }
   ]
 }
