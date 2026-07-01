@@ -1,6 +1,6 @@
 {
-  "date": "2026-06-30",
-  "generatedAt": "2026-06-30T08:23:34.226Z",
+  "date": "2026-07-01",
+  "generatedAt": "2026-07-01T08:43:17.431Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,9 +8,9 @@
     "en"
   ],
   "summary": {
-    "de": "8 Übertragungen heute, u.a. Niederlande - Marokko (03:00 Uhr).",
-    "tr": "Bugün 8 yayın, Niederlande - Marokko dahil (03:00).",
-    "en": "8 broadcasts today, including Niederlande - Marokko (03:00)."
+    "de": "9 Übertragungen heute, u.a. Mexiko - Ecuador (03:00 Uhr).",
+    "tr": "Bugün 9 yayın, Mexiko - Ecuador dahil (03:00).",
+    "en": "9 broadcasts today, including Mexiko - Ecuador (03:00)."
   },
   "matches": [
     {
@@ -21,17 +21,37 @@
         "tr": "SechzehntelFinal",
         "en": "SechzehntelFinal"
       },
-      "homeTeam": "Niederlande",
-      "awayTeam": "Marokko",
+      "homeTeam": "Mexiko",
+      "awayTeam": "Ecuador",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ORF 1",
+        "ServusTV (AT)",
         "RSI LA 2",
         "RTS 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-30T03:00:00+02:00"
+      "kickoff": "2026-07-01T03:00:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "U19-EM (Frauen)",
+      "stage": {
+        "de": "Gruppenphase 2. Spieltag, Gruppe B",
+        "tr": "Grupnphase 2. Hafta, Grup B",
+        "en": "Groupnphase Matchday 2, Group B"
+      },
+      "homeTeam": "Österreich ♀ (U19)",
+      "awayTeam": "Schweiz ♀ (U19)",
+      "channels": [
+        "Sportdigital Fussball",
+        "ORF Sport+",
+        "Sportdigital Fussball HD",
+        "ORF Sport+ HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-01T14:00:00+02:00"
     },
     {
       "time": "17:00",
@@ -41,8 +61,8 @@
         "tr": "21. Hafta",
         "en": "Matchday 21"
       },
-      "homeTeam": "Rigas FS",
-      "awayTeam": "BFC Daugavpils",
+      "homeTeam": "FK Tukums 2000",
+      "awayTeam": "SK Super Nova",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -51,18 +71,18 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-30T17:00:00+02:00"
+      "kickoff": "2026-07-01T17:00:00+02:00"
     },
     {
       "time": "17:00",
       "competition": "U19-EM (Frauen)",
       "stage": {
-        "de": "Gruppenphase 2. Spieltag, Gruppe A",
-        "tr": "Grupnphase 2. Hafta, Grup A",
-        "en": "Groupnphase Matchday 2, Group A"
+        "de": "Gruppenphase 2. Spieltag, Gruppe B",
+        "tr": "Grupnphase 2. Hafta, Grup B",
+        "en": "Groupnphase Matchday 2, Group B"
       },
-      "homeTeam": "Bosnien-Herzegowina ♀ (U19)",
-      "awayTeam": "Schweden ♀ (U19)",
+      "homeTeam": "Spanien ♀ (U19)",
+      "awayTeam": "Island ♀ (U19)",
       "channels": [
         "Sportdigital Fussball",
         "Sportdigital Fussball HD",
@@ -71,18 +91,38 @@
         "OneFootball (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-30T17:00:00+02:00"
+      "kickoff": "2026-07-01T17:00:00+02:00"
     },
     {
       "time": "18:00",
-      "competition": "Virsliga (Lettland)",
+      "competition": "WM 2026",
       "stage": {
-        "de": "21. Spieltag",
-        "tr": "21. Hafta",
-        "en": "Matchday 21"
+        "de": "Sechzehntelfinale",
+        "tr": "SechzehntelFinal",
+        "en": "SechzehntelFinal"
       },
-      "homeTeam": "FK Liepaja",
-      "awayTeam": "FK Ogre United",
+      "homeTeam": "England",
+      "awayTeam": "DR Kongo",
+      "channels": [
+        "Das Erste",
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ORF 1",
+        "RSI LA 2"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-01T18:00:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "VfB Eichstätt",
+      "awayTeam": "BSG Chemie Leipzig",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -91,81 +131,67 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-30T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Altona 93",
-      "awayTeam": "FC St. Pauli",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-06-30T18:00:00+02:00"
+      "kickoff": "2026-07-01T18:30:00+02:00"
     },
     {
       "time": "19:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Sechzehntelfinale",
-        "tr": "SechzehntelFinal",
-        "en": "SechzehntelFinal"
-      },
-      "homeTeam": "Elfenbeinküste",
-      "awayTeam": "Norwegen",
-      "channels": [
-        "Das Erste",
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "ServusTV (AT)",
-        "RSI LA 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-06-30T19:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "U19-EM (Frauen)",
+      "competition": "U19-EM",
       "stage": {
         "de": "Gruppenphase 2. Spieltag, Gruppe A",
         "tr": "Grupnphase 2. Hafta, Grup A",
         "en": "Groupnphase Matchday 2, Group A"
       },
-      "homeTeam": "Polen ♀ (U19)",
-      "awayTeam": "Deutschland ♀ (U19)",
+      "homeTeam": "Dänemark (U19)",
+      "awayTeam": "Spanien (U19)",
       "channels": [
         "Sportdigital Fussball",
         "Sportdigital Fussball HD",
-        "DAZN",
         "OneFootball",
-        "RTL Sport (YouTube)"
+        "Sportdigital.de (Livestream)",
+        "OneFootball (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-30T20:00:00+02:00"
+      "kickoff": "2026-07-01T19:00:00+02:00"
     },
     {
-      "time": "23:00",
+      "time": "21:00",
+      "competition": "U19-EM",
+      "stage": {
+        "de": "Gruppenphase 2. Spieltag, Gruppe A",
+        "tr": "Grupnphase 2. Hafta, Grup A",
+        "en": "Groupnphase Matchday 2, Group A"
+      },
+      "homeTeam": "Wales (U19)",
+      "awayTeam": "Deutschland (U19)",
+      "channels": [
+        "Sportdigital Fussball",
+        "Sportdigital Fussball HD",
+        "OneFootball",
+        "RTL Sport (YouTube)",
+        "RTL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-01T21:00:00+02:00"
+    },
+    {
+      "time": "22:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Sechzehntelfinale",
         "tr": "SechzehntelFinal",
         "en": "SechzehntelFinal"
       },
-      "homeTeam": "Frankreich",
-      "awayTeam": "Schweden",
+      "homeTeam": "Belgien",
+      "awayTeam": "Senegal",
       "channels": [
+        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "Rai 1",
-        "ServusTV (AT)",
-        "RSI LA 2"
+        "ORF 1",
+        "Rai 1"
       ],
       "isHighlight": false,
-      "kickoff": "2026-06-30T23:00:00+02:00"
+      "kickoff": "2026-07-01T22:00:00+02:00"
     }
   ]
 }
