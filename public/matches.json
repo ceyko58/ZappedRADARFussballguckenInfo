@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-01",
-  "generatedAt": "2026-07-01T08:43:17.431Z",
+  "date": "2026-07-02",
+  "generatedAt": "2026-07-02T07:59:33.401Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,81 +8,41 @@
     "en"
   ],
   "summary": {
-    "de": "9 Übertragungen heute, u.a. Mexiko - Ecuador (03:00 Uhr).",
-    "tr": "Bugün 9 yayın, Mexiko - Ecuador dahil (03:00).",
-    "en": "9 broadcasts today, including Mexiko - Ecuador (03:00)."
+    "de": "4 Übertragungen heute, u.a. USA - Bosnien-Herzegowina (02:00 Uhr).",
+    "tr": "Bugün 4 yayın, USA - Bosnien-Herzegowina dahil (02:00).",
+    "en": "4 broadcasts today, including USA - Bosnien-Herzegowina (02:00)."
   },
   "matches": [
     {
-      "time": "03:00",
+      "time": "02:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Sechzehntelfinale",
         "tr": "SechzehntelFinal",
         "en": "SechzehntelFinal"
       },
-      "homeTeam": "Mexiko",
-      "awayTeam": "Ecuador",
+      "homeTeam": "USA",
+      "awayTeam": "Bosnien-Herzegowina",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ServusTV (AT)",
+        "ORF 1",
         "RSI LA 2",
         "RTS 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-01T03:00:00+02:00"
+      "kickoff": "2026-07-02T02:00:00+02:00"
     },
     {
-      "time": "14:00",
-      "competition": "U19-EM (Frauen)",
+      "time": "15:00",
+      "competition": "U19-EM",
       "stage": {
         "de": "Gruppenphase 2. Spieltag, Gruppe B",
         "tr": "Grupnphase 2. Hafta, Grup B",
         "en": "Groupnphase Matchday 2, Group B"
       },
-      "homeTeam": "Österreich ♀ (U19)",
-      "awayTeam": "Schweiz ♀ (U19)",
-      "channels": [
-        "Sportdigital Fussball",
-        "ORF Sport+",
-        "Sportdigital Fussball HD",
-        "ORF Sport+ HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-01T14:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "21. Spieltag",
-        "tr": "21. Hafta",
-        "en": "Matchday 21"
-      },
-      "homeTeam": "FK Tukums 2000",
-      "awayTeam": "SK Super Nova",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-01T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "U19-EM (Frauen)",
-      "stage": {
-        "de": "Gruppenphase 2. Spieltag, Gruppe B",
-        "tr": "Grupnphase 2. Hafta, Grup B",
-        "en": "Groupnphase Matchday 2, Group B"
-      },
-      "homeTeam": "Spanien ♀ (U19)",
-      "awayTeam": "Island ♀ (U19)",
+      "homeTeam": "Kroatien (U19)",
+      "awayTeam": "Italien (U19)",
       "channels": [
         "Sportdigital Fussball",
         "Sportdigital Fussball HD",
@@ -91,58 +51,18 @@
         "OneFootball (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-01T17:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Sechzehntelfinale",
-        "tr": "SechzehntelFinal",
-        "en": "SechzehntelFinal"
-      },
-      "homeTeam": "England",
-      "awayTeam": "DR Kongo",
-      "channels": [
-        "Das Erste",
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "ORF 1",
-        "RSI LA 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-01T18:00:00+02:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "VfB Eichstätt",
-      "awayTeam": "BSG Chemie Leipzig",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-01T18:30:00+02:00"
+      "kickoff": "2026-07-02T15:00:00+02:00"
     },
     {
       "time": "19:00",
       "competition": "U19-EM",
       "stage": {
-        "de": "Gruppenphase 2. Spieltag, Gruppe A",
-        "tr": "Grupnphase 2. Hafta, Grup A",
-        "en": "Groupnphase Matchday 2, Group A"
+        "de": "Gruppenphase 2. Spieltag, Gruppe B",
+        "tr": "Grupnphase 2. Hafta, Grup B",
+        "en": "Groupnphase Matchday 2, Group B"
       },
-      "homeTeam": "Dänemark (U19)",
-      "awayTeam": "Spanien (U19)",
+      "homeTeam": "Serbien (U19)",
+      "awayTeam": "Ukraine (U19)",
       "channels": [
         "Sportdigital Fussball",
         "Sportdigital Fussball HD",
@@ -151,47 +71,27 @@
         "OneFootball (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-01T19:00:00+02:00"
+      "kickoff": "2026-07-02T19:00:00+02:00"
     },
     {
       "time": "21:00",
-      "competition": "U19-EM",
-      "stage": {
-        "de": "Gruppenphase 2. Spieltag, Gruppe A",
-        "tr": "Grupnphase 2. Hafta, Grup A",
-        "en": "Groupnphase Matchday 2, Group A"
-      },
-      "homeTeam": "Wales (U19)",
-      "awayTeam": "Deutschland (U19)",
-      "channels": [
-        "Sportdigital Fussball",
-        "Sportdigital Fussball HD",
-        "OneFootball",
-        "RTL Sport (YouTube)",
-        "RTL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-01T21:00:00+02:00"
-    },
-    {
-      "time": "22:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Sechzehntelfinale",
         "tr": "SechzehntelFinal",
         "en": "SechzehntelFinal"
       },
-      "homeTeam": "Belgien",
-      "awayTeam": "Senegal",
+      "homeTeam": "Spanien",
+      "awayTeam": "Österreich",
       "channels": [
         "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ORF 1",
-        "Rai 1"
+        "Rai 1",
+        "ServusTV (AT)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-01T22:00:00+02:00"
+      "kickoff": "2026-07-02T21:00:00+02:00"
     }
   ]
 }
