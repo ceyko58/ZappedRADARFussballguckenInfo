@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-02",
-  "generatedAt": "2026-07-02T07:59:33.401Z",
+  "date": "2026-07-03",
+  "generatedAt": "2026-07-03T07:54:16.206Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,90 +8,166 @@
     "en"
   ],
   "summary": {
-    "de": "4 Übertragungen heute, u.a. USA - Bosnien-Herzegowina (02:00 Uhr).",
-    "tr": "Bugün 4 yayın, USA - Bosnien-Herzegowina dahil (02:00).",
-    "en": "4 broadcasts today, including USA - Bosnien-Herzegowina (02:00)."
+    "de": "8 Übertragungen heute, u.a. Portugal - Kroatien (01:00 Uhr).",
+    "tr": "Bugün 8 yayın, Portugal - Kroatien dahil (01:00).",
+    "en": "8 broadcasts today, including Portugal - Kroatien (01:00)."
   },
   "matches": [
     {
-      "time": "02:00",
+      "time": "01:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Sechzehntelfinale",
         "tr": "SechzehntelFinal",
         "en": "SechzehntelFinal"
       },
-      "homeTeam": "USA",
-      "awayTeam": "Bosnien-Herzegowina",
+      "homeTeam": "Portugal",
+      "awayTeam": "Kroatien",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ORF 1",
+        "ServusTV (AT)",
         "RSI LA 2",
         "RTS 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-02T02:00:00+02:00"
+      "kickoff": "2026-07-03T01:00:00+02:00"
     },
     {
-      "time": "15:00",
-      "competition": "U19-EM",
-      "stage": {
-        "de": "Gruppenphase 2. Spieltag, Gruppe B",
-        "tr": "Grupnphase 2. Hafta, Grup B",
-        "en": "Groupnphase Matchday 2, Group B"
-      },
-      "homeTeam": "Kroatien (U19)",
-      "awayTeam": "Italien (U19)",
-      "channels": [
-        "Sportdigital Fussball",
-        "Sportdigital Fussball HD",
-        "OneFootball",
-        "Sportdigital.de (Livestream)",
-        "OneFootball (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-02T15:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "U19-EM",
-      "stage": {
-        "de": "Gruppenphase 2. Spieltag, Gruppe B",
-        "tr": "Grupnphase 2. Hafta, Grup B",
-        "en": "Groupnphase Matchday 2, Group B"
-      },
-      "homeTeam": "Serbien (U19)",
-      "awayTeam": "Ukraine (U19)",
-      "channels": [
-        "Sportdigital Fussball",
-        "Sportdigital Fussball HD",
-        "OneFootball",
-        "Sportdigital.de (Livestream)",
-        "OneFootball (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-02T19:00:00+02:00"
-    },
-    {
-      "time": "21:00",
+      "time": "05:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Sechzehntelfinale",
         "tr": "SechzehntelFinal",
         "en": "SechzehntelFinal"
       },
-      "homeTeam": "Spanien",
-      "awayTeam": "Österreich",
+      "homeTeam": "Schweiz",
+      "awayTeam": "Algerien",
       "channels": [
-        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "Rai 1",
-        "ServusTV (AT)"
+        "ZDF",
+        "ServusTV (AT)",
+        "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-02T21:00:00+02:00"
+      "kickoff": "2026-07-03T05:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "U19-EM (Frauen)",
+      "stage": {
+        "de": "Gruppenphase 3. Spieltag, Gruppe A",
+        "tr": "Grupnphase 3. Hafta, Grup A",
+        "en": "Groupnphase Matchday 3, Group A"
+      },
+      "homeTeam": "Deutschland ♀ (U19)",
+      "awayTeam": "Schweden ♀ (U19)",
+      "channels": [
+        "DFB.TV (via Sky)",
+        "Sportdigital Fussball",
+        "Sportdigital Fussball HD",
+        "DFB.TV",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-03T17:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "U19-EM (Frauen)",
+      "stage": {
+        "de": "Gruppenphase 3. Spieltag, Gruppe A",
+        "tr": "Grupnphase 3. Hafta, Grup A",
+        "en": "Groupnphase Matchday 3, Group A"
+      },
+      "homeTeam": "Polen ♀ (U19)",
+      "awayTeam": "Bosnien-Herzegowina ♀ (U19)",
+      "channels": [
+        "OneFootball",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)",
+        "OneFootball (App)",
+        "Sportdigital+ (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-03T17:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "22. Spieltag",
+        "tr": "22. Hafta",
+        "en": "Matchday 22"
+      },
+      "homeTeam": "Riga FC",
+      "awayTeam": "FK Jelgava",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-03T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Energie Cottbus",
+      "awayTeam": "VSG Altglienicke",
+      "channels": [
+        "EnergieFM"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-03T18:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Sechzehntelfinale",
+        "tr": "SechzehntelFinal",
+        "en": "SechzehntelFinal"
+      },
+      "homeTeam": "Australien",
+      "awayTeam": "Ägypten",
+      "channels": [
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ZDF",
+        "ORF 1",
+        "Rai 1"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-03T20:00:00+02:00"
+    },
+    {
+      "time": "21:15",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
+      },
+      "homeTeam": "FH Hafnarfjördur",
+      "awayTeam": "UMF Stjarnan",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-03T21:15:00+02:00"
     }
   ]
 }
