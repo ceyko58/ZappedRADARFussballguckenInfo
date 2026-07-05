@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-04",
-  "generatedAt": "2026-07-04T07:35:39.090Z",
+  "date": "2026-07-05",
+  "generatedAt": "2026-07-05T07:51:26.331Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,134 +8,42 @@
     "en"
   ],
   "summary": {
-    "de": "22 Übertragungen heute, u.a. Argentinien - Kap Verde (00:00 Uhr).",
-    "tr": "Bugün 22 yayın, Argentinien - Kap Verde dahil (00:00).",
-    "en": "22 broadcasts today, including Argentinien - Kap Verde (00:00)."
+    "de": "8 Übertragungen heute, u.a. North Carolina Courage ♀ - OL Reign ♀ (00:30 Uhr).",
+    "tr": "Bugün 8 yayın, North Carolina Courage ♀ - OL Reign ♀ dahil (00:30).",
+    "en": "8 broadcasts today, including North Carolina Courage ♀ - OL Reign ♀ (00:30)."
   },
   "matches": [
     {
-      "time": "00:00",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Sechzehntelfinale",
-        "tr": "SechzehntelFinal",
-        "en": "SechzehntelFinal"
-      },
-      "homeTeam": "Argentinien",
-      "awayTeam": "Kap Verde",
-      "channels": [
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "ORF 1",
-        "RSI LA 2",
-        "RTS 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T00:00:00+02:00"
-    },
-    {
-      "time": "02:00",
+      "time": "00:30",
       "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
         "de": "11. Spieltag",
         "tr": "11. Hafta",
         "en": "Matchday 11"
       },
-      "homeTeam": "Washington Spirit ♀",
-      "awayTeam": "Houston Dash ♀",
+      "homeTeam": "North Carolina Courage ♀",
+      "awayTeam": "OL Reign ♀",
       "channels": [
         "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-04T02:00:00+02:00"
+      "kickoff": "2026-07-05T00:30:00+02:00"
     },
     {
-      "time": "03:30",
+      "time": "02:45",
       "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
         "de": "11. Spieltag",
         "tr": "11. Hafta",
         "en": "Matchday 11"
       },
-      "homeTeam": "Denver Summit ♀",
-      "awayTeam": "Kansas City Current ♀",
+      "homeTeam": "San Diego Wave FC ♀",
+      "awayTeam": "NJ/NY Gotham FC ♀",
       "channels": [
         "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-04T03:30:00+02:00"
-    },
-    {
-      "time": "03:30",
-      "competition": "WM 2026",
-      "stage": {
-        "de": "Sechzehntelfinale",
-        "tr": "SechzehntelFinal",
-        "en": "SechzehntelFinal"
-      },
-      "homeTeam": "Kolumbien",
-      "awayTeam": "Ghana",
-      "channels": [
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "ZDF",
-        "ORF 1",
-        "RSI LA 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T03:30:00+02:00"
-    },
-    {
-      "time": "04:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
-      },
-      "homeTeam": "Angel City FC ♀",
-      "awayTeam": "Orlando Pride ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T04:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "FC Lahti",
-      "awayTeam": "IF Gnistan",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T14:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "FSV Havelberg",
-      "awayTeam": "1. FC Magdeburg",
-      "channels": [
-        "Volksstimme Livestream"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T14:00:00+02:00"
+      "kickoff": "2026-07-05T02:45:00+02:00"
     },
     {
       "time": "15:00",
@@ -145,8 +53,8 @@
         "tr": "22. Hafta",
         "en": "Matchday 22"
       },
-      "homeTeam": "BFC Daugavpils",
-      "awayTeam": "FK Liepaja",
+      "homeTeam": "Grobinas Sporta Centrs",
+      "awayTeam": "FK Tukums 2000",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -155,38 +63,38 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-04T15:00:00+02:00"
+      "kickoff": "2026-07-05T15:00:00+02:00"
     },
     {
-      "time": "15:00",
+      "time": "17:00",
       "competition": "U19-EM",
       "stage": {
-        "de": "Gruppenphase 3. Spieltag, Gruppe A",
-        "tr": "Grupnphase 3. Hafta, Grup A",
-        "en": "Groupnphase Matchday 3, Group A"
+        "de": "Gruppenphase 3. Spieltag, Gruppe B",
+        "tr": "Grupnphase 3. Hafta, Grup B",
+        "en": "Groupnphase Matchday 3, Group B"
       },
-      "homeTeam": "Spanien (U19)",
-      "awayTeam": "Deutschland (U19)",
+      "homeTeam": "Ukraine (U19)",
+      "awayTeam": "Italien (U19)",
       "channels": [
-        "DFB.TV (via Sky)",
         "Sportdigital Fussball",
         "Sportdigital Fussball HD",
-        "DFB.TV",
-        "OneFootball"
+        "OneFootball",
+        "Sportdigital.de (Livestream)",
+        "OneFootball (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-04T15:00:00+02:00"
+      "kickoff": "2026-07-05T17:00:00+02:00"
     },
     {
-      "time": "15:00",
+      "time": "17:00",
       "competition": "U19-EM",
       "stage": {
-        "de": "Gruppenphase 3. Spieltag, Gruppe A",
-        "tr": "Grupnphase 3. Hafta, Grup A",
-        "en": "Groupnphase Matchday 3, Group A"
+        "de": "Gruppenphase 3. Spieltag, Gruppe B",
+        "tr": "Grupnphase 3. Hafta, Grup B",
+        "en": "Groupnphase Matchday 3, Group B"
       },
-      "homeTeam": "Dänemark (U19)",
-      "awayTeam": "Wales (U19)",
+      "homeTeam": "Serbien (U19)",
+      "awayTeam": "Kroatien (U19)",
       "channels": [
         "OneFootball",
         "Sportdigital Fussball 2",
@@ -195,237 +103,59 @@
         "Sportdigital+ (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-04T15:00:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "1. FC Bocholt 1900",
-      "awayTeam": "FC Twente Enschede II",
-      "channels": [
-        "Ruhr Nachrichten (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T15:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "SJK Seinäjoki",
-      "awayTeam": "Turun PS",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T16:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "FF Jaro",
-      "awayTeam": "Ilves Tampere",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T16:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Besta deild karla (Island)",
-      "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
-      },
-      "homeTeam": "IA Akranes",
-      "awayTeam": "Breidablik Kópavogur",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T16:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "Vaasan PS",
-      "awayTeam": "IFK Mariehamn",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "22. Spieltag",
-        "tr": "22. Hafta",
-        "en": "Matchday 22"
-      },
-      "homeTeam": "Rigas FS",
-      "awayTeam": "Auda Riga",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "U19-EM (Frauen)",
-      "stage": {
-        "de": "Gruppenphase 3. Spieltag, Gruppe B",
-        "tr": "Grupnphase 3. Hafta, Grup B",
-        "en": "Groupnphase Matchday 3, Group B"
-      },
-      "homeTeam": "Island ♀ (U19)",
-      "awayTeam": "Schweiz ♀ (U19)",
-      "channels": [
-        "OneFootball",
-        "Sportdigital Fussball 2",
-        "Sportdigital.de (Livestream)",
-        "OneFootball (App)",
-        "Sportdigital+ (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "U19-EM (Frauen)",
-      "stage": {
-        "de": "Gruppenphase 3. Spieltag, Gruppe B",
-        "tr": "Grupnphase 3. Hafta, Grup B",
-        "en": "Groupnphase Matchday 3, Group B"
-      },
-      "homeTeam": "Spanien ♀ (U19)",
-      "awayTeam": "Österreich ♀ (U19)",
-      "channels": [
-        "Sportdigital Fussball",
-        "ORF Sport+",
-        "Sportdigital Fussball HD",
-        "ORF Sport+ HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T17:00:00+02:00"
+      "kickoff": "2026-07-05T17:00:00+02:00"
     },
     {
       "time": "18:00",
-      "competition": "Besta deild karla (Island)",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
       },
-      "homeTeam": "IB Vestmannaeyjar",
-      "awayTeam": "Valur Reykjavik",
+      "homeTeam": "Boston Legacy FC ♀",
+      "awayTeam": "Bay FC ♀",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-04T18:00:00+02:00"
+      "kickoff": "2026-07-05T18:00:00+02:00"
     },
     {
-      "time": "18:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Kickers Emden",
-      "awayTeam": "FC St. Pauli",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-07-04T18:00:00+02:00"
-    },
-    {
-      "time": "19:00",
+      "time": "22:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Achtelfinale",
         "tr": "Son 16 Turu",
         "en": "Round of 16"
       },
-      "homeTeam": "Kanada",
-      "awayTeam": "Marokko",
+      "homeTeam": "Brasilien",
+      "awayTeam": "Norwegen",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
-        "ServusTV (AT)",
+        "ORF 1",
+        "Rai 1",
         "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-04T19:00:00+02:00"
+      "kickoff": "2026-07-05T22:00:00+02:00"
     },
     {
       "time": "23:00",
-      "competition": "WM 2026",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "Achtelfinale",
-        "tr": "Son 16 Turu",
-        "en": "Round of 16"
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
       },
-      "homeTeam": "Paraguay",
-      "awayTeam": "Frankreich",
+      "homeTeam": "Chicago Red Stars ♀",
+      "awayTeam": "Utah Royals FC ♀",
       "channels": [
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "Rai 1",
-        "ServusTV (AT)",
-        "RSI LA 2"
+        "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-04T23:00:00+02:00"
+      "kickoff": "2026-07-05T23:00:00+02:00"
     }
   ]
 }
