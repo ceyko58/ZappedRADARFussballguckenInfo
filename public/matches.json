@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-06",
-  "generatedAt": "2026-07-06T08:53:59.228Z",
+  "date": "2026-07-07",
+  "generatedAt": "2026-07-07T08:13:31.339Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,27 +8,11 @@
     "en"
   ],
   "summary": {
-    "de": "5 Übertragungen heute, u.a. Portland Thorns ♀ - Racing Louisville FC ♀ (01:00 Uhr).",
-    "tr": "Bugün 5 yayın, Portland Thorns ♀ - Racing Louisville FC ♀ dahil (01:00).",
-    "en": "5 broadcasts today, including Portland Thorns ♀ - Racing Louisville FC ♀ (01:00)."
+    "de": "9 Übertragungen heute, u.a. Floriana FC - Shamrock Rovers (19:30 Uhr).",
+    "tr": "Bugün 9 yayın, Floriana FC - Shamrock Rovers dahil (19:30).",
+    "en": "9 broadcasts today, including Floriana FC - Shamrock Rovers (19:30)."
   },
   "matches": [
-    {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
-      },
-      "homeTeam": "Portland Thorns ♀",
-      "awayTeam": "Racing Louisville FC ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-06T01:00:00+02:00"
-    },
     {
       "time": "02:00",
       "competition": "WM 2026",
@@ -37,68 +21,84 @@
         "tr": "Son 16 Turu",
         "en": "Round of 16"
       },
-      "homeTeam": "Mexiko",
-      "awayTeam": "England",
+      "homeTeam": "USA",
+      "awayTeam": "Belgien",
       "channels": [
+        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ORF 1",
-        "RSI LA 2",
-        "RTS 2"
+        "ServusTV (AT)",
+        "SRF zwei"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-06T02:00:00+02:00"
+      "kickoff": "2026-07-07T02:00:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Hannover 96",
+      "awayTeam": "1. FC Phönix Lübeck",
+      "channels": [
+        "96TV | Hannover 96 (YouTube)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-07T14:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "U19-EM (Frauen)",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Spanien ♀ (U19)",
+      "awayTeam": "Schweden ♀ (U19)",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-07T16:00:00+02:00"
     },
     {
       "time": "18:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "22. Spieltag",
-        "tr": "22. Hafta",
-        "en": "Matchday 22"
-      },
-      "homeTeam": "SK Super Nova",
-      "awayTeam": "FK Ogre United",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-06T18:00:00+02:00"
-    },
-    {
-      "time": "21:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Achtelfinale",
         "tr": "Son 16 Turu",
         "en": "Round of 16"
       },
-      "homeTeam": "Portugal",
-      "awayTeam": "Spanien",
+      "homeTeam": "Argentinien",
+      "awayTeam": "Ägypten",
       "channels": [
+        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
-        "Rai 1",
-        "ServusTV (AT)"
+        "ORF 1",
+        "SRF zwei"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-06T21:00:00+02:00"
+      "kickoff": "2026-07-07T18:00:00+02:00"
     },
     {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
+      "time": "19:30",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
+        "de": "Qualifikation 1. Runde, Hinspiel",
+        "tr": "Eleme 1. Runde, İlk maç",
+        "en": "Qualification 1. Runde, First leg"
       },
-      "homeTeam": "IF Keflavik",
-      "awayTeam": "Fram Reykjavik",
+      "homeTeam": "Floriana FC",
+      "awayTeam": "Shamrock Rovers",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -106,8 +106,88 @@
         "OneFootball TV (Android/Google TV)",
         "OneFootball TV (Apple TV)"
       ],
+      "isHighlight": true,
+      "kickoff": "2026-07-07T19:30:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "U19-EM (Frauen)",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Deutschland ♀ (U19)",
+      "awayTeam": "Österreich ♀ (U19)",
+      "channels": [
+        "DFB.TV (via Sky)",
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD"
+      ],
       "isHighlight": false,
-      "kickoff": "2026-07-06T21:15:00+02:00"
+      "kickoff": "2026-07-07T20:00:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Qualifikation 1. Runde, Hinspiel",
+        "tr": "Eleme 1. Runde, İlk maç",
+        "en": "Qualification 1. Runde, First leg"
+      },
+      "homeTeam": "FK Borac Banja Luka",
+      "awayTeam": "Levski Sofia",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-07T20:30:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Qualifikation 1. Runde, Hinspiel",
+        "tr": "Eleme 1. Runde, İlk maç",
+        "en": "Qualification 1. Runde, First leg"
+      },
+      "homeTeam": "KI Klaksvik",
+      "awayTeam": "FC Atert Bissen",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-07T20:45:00+02:00"
+    },
+    {
+      "time": "22:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Achtelfinale",
+        "tr": "Son 16 Turu",
+        "en": "Round of 16"
+      },
+      "homeTeam": "Schweiz",
+      "awayTeam": "Kolumbien",
+      "channels": [
+        "Das Erste",
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ORF 1",
+        "Rai 1"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-07T22:00:00+02:00"
     }
   ]
 }
