@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-08",
-  "generatedAt": "2026-07-08T07:21:52.149Z",
+  "date": "2026-07-09",
+  "generatedAt": "2026-07-09T08:17:56.404Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,21 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "3 Übertragungen heute, u.a. FK Qairat Almaty - FK Sutjeska Niksic (17:00 Uhr).",
-    "tr": "Bugün 3 yayın, FK Qairat Almaty - FK Sutjeska Niksic dahil (17:00).",
-    "en": "3 broadcasts today, including FK Qairat Almaty - FK Sutjeska Niksic (17:00)."
+    "de": "3 Übertragungen heute, u.a. Atletic Escaldes - FK Mornar Bar (16:00 Uhr).",
+    "tr": "Bugün 3 yayın, Atletic Escaldes - FK Mornar Bar dahil (16:00).",
+    "en": "3 broadcasts today, including Atletic Escaldes - FK Mornar Bar (16:00)."
   },
   "matches": [
     {
-      "time": "17:00",
-      "competition": "UEFA Champions League",
+      "time": "16:00",
+      "competition": "UEFA Conference League",
       "stage": {
         "de": "Qualifikation 1. Runde, Hinspiel",
         "tr": "Eleme 1. Runde, İlk maç",
         "en": "Qualification 1. Runde, First leg"
       },
-      "homeTeam": "FK Qairat Almaty",
-      "awayTeam": "FK Sutjeska Niksic",
+      "homeTeam": "Atletic Escaldes",
+      "awayTeam": "FK Mornar Bar",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -31,47 +31,47 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-07-08T17:00:00+02:00"
+      "kickoff": "2026-07-09T16:00:00+02:00"
     },
     {
-      "time": "17:30",
-      "competition": "U19-EM",
+      "time": "20:00",
+      "competition": "UEFA Europa League",
       "stage": {
-        "de": "Halbfinale",
-        "tr": "Yarı Final",
-        "en": "Semi-final"
+        "de": "Qualifikation 1. Runde, Hinspiel",
+        "tr": "Eleme 1. Runde, İlk maç",
+        "en": "Qualification 1. Runde, First leg"
       },
-      "homeTeam": "Spanien (U19)",
-      "awayTeam": "Kroatien (U19)",
+      "homeTeam": "Hajduk Split",
+      "awayTeam": "MSK Zilina",
       "channels": [
-        "Sportdigital Fussball",
-        "Sportdigital Fussball HD",
-        "DAZN",
-        "Sportdigital.de (Livestream)",
-        "DAZN (App)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-07-08T17:30:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-07-09T20:00:00+02:00"
     },
     {
-      "time": "19:30",
-      "competition": "U19-EM",
+      "time": "22:00",
+      "competition": "WM 2026",
       "stage": {
-        "de": "Halbfinale",
-        "tr": "Yarı Final",
-        "en": "Semi-final"
+        "de": "Viertelfinale",
+        "tr": "Çeyrek Final",
+        "en": "Quarter-final"
       },
-      "homeTeam": "Ukraine (U19)",
-      "awayTeam": "Deutschland (U19)",
+      "homeTeam": "Frankreich",
+      "awayTeam": "Marokko",
       "channels": [
-        "DFB.TV (via Sky)",
-        "Sportdigital Fussball",
-        "Sportdigital Fussball HD",
-        "DAZN",
-        "DFB.TV"
+        "Das Erste",
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ORF 1",
+        "Rai 1"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-08T19:30:00+02:00"
+      "kickoff": "2026-07-09T22:00:00+02:00"
     }
   ]
 }
