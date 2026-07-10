@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-09",
-  "generatedAt": "2026-07-09T08:17:56.404Z",
+  "date": "2026-07-10",
+  "generatedAt": "2026-07-10T08:14:51.380Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,21 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "3 Übertragungen heute, u.a. Atletic Escaldes - FK Mornar Bar (16:00 Uhr).",
-    "tr": "Bugün 3 yayın, Atletic Escaldes - FK Mornar Bar dahil (16:00).",
-    "en": "3 broadcasts today, including Atletic Escaldes - FK Mornar Bar (16:00)."
+    "de": "3 Übertragungen heute, u.a. Vaasan PS - SJK Seinäjoki (18:00 Uhr).",
+    "tr": "Bugün 3 yayın, Vaasan PS - SJK Seinäjoki dahil (18:00).",
+    "en": "3 broadcasts today, including Vaasan PS - SJK Seinäjoki (18:00)."
   },
   "matches": [
     {
-      "time": "16:00",
-      "competition": "UEFA Conference League",
+      "time": "18:00",
+      "competition": "Veikkausliiga (Finnland)",
       "stage": {
-        "de": "Qualifikation 1. Runde, Hinspiel",
-        "tr": "Eleme 1. Runde, İlk maç",
-        "en": "Qualification 1. Runde, First leg"
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
       },
-      "homeTeam": "Atletic Escaldes",
-      "awayTeam": "FK Mornar Bar",
+      "homeTeam": "Vaasan PS",
+      "awayTeam": "SJK Seinäjoki",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -30,48 +30,48 @@
         "OneFootball TV (Android/Google TV)",
         "OneFootball TV (Apple TV)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-07-09T16:00:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-07-10T18:00:00+02:00"
     },
     {
-      "time": "20:00",
-      "competition": "UEFA Europa League",
+      "time": "18:00",
+      "competition": "U19-EM (Frauen)",
       "stage": {
-        "de": "Qualifikation 1. Runde, Hinspiel",
-        "tr": "Eleme 1. Runde, İlk maç",
-        "en": "Qualification 1. Runde, First leg"
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
       },
-      "homeTeam": "Hajduk Split",
-      "awayTeam": "MSK Zilina",
+      "homeTeam": "Deutschland ♀ (U19)",
+      "awayTeam": "Spanien ♀ (U19)",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "DFB.TV (via Sky)",
+        "NITRO",
+        "Sportdigital Fussball",
+        "blue Sport",
+        "NITRO HD"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-07-09T20:00:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-07-10T18:00:00+02:00"
     },
     {
-      "time": "22:00",
+      "time": "21:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Viertelfinale",
         "tr": "Çeyrek Final",
         "en": "Quarter-final"
       },
-      "homeTeam": "Frankreich",
-      "awayTeam": "Marokko",
+      "homeTeam": "Spanien",
+      "awayTeam": "Belgien",
       "channels": [
-        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
+        "ZDF",
         "ORF 1",
         "Rai 1"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-09T22:00:00+02:00"
+      "kickoff": "2026-07-10T21:00:00+02:00"
     }
   ]
 }
