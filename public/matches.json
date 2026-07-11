@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-10",
-  "generatedAt": "2026-07-10T08:14:51.380Z",
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T07:04:34.355Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,21 +8,101 @@
     "en"
   ],
   "summary": {
-    "de": "3 Übertragungen heute, u.a. Vaasan PS - SJK Seinäjoki (18:00 Uhr).",
-    "tr": "Bugün 3 yayın, Vaasan PS - SJK Seinäjoki dahil (18:00).",
-    "en": "3 broadcasts today, including Vaasan PS - SJK Seinäjoki (18:00)."
+    "de": "13 Übertragungen heute, u.a. Orlando Pride ♀ - Kansas City Current ♀ (02:00 Uhr).",
+    "tr": "Bugün 13 yayın, Orlando Pride ♀ - Kansas City Current ♀ dahil (02:00).",
+    "en": "13 broadcasts today, including Orlando Pride ♀ - Kansas City Current ♀ (02:00)."
   },
   "matches": [
     {
-      "time": "18:00",
+      "time": "02:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Orlando Pride ♀",
+      "awayTeam": "Kansas City Current ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T02:00:00+02:00"
+    },
+    {
+      "time": "02:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Racing Louisville FC ♀",
+      "awayTeam": "Bay FC ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T02:00:00+02:00"
+    },
+    {
+      "time": "02:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Boston Legacy FC ♀",
+      "awayTeam": "Chicago Red Stars ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T02:00:00+02:00"
+    },
+    {
+      "time": "04:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Utah Royals FC ♀",
+      "awayTeam": "NJ/NY Gotham FC ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T04:00:00+02:00"
+    },
+    {
+      "time": "13:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FC Basel",
+      "awayTeam": "FC Winterthur",
+      "channels": [
+        "FC Basel (YouTube)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T13:00:00+02:00"
+    },
+    {
+      "time": "14:00",
       "competition": "Veikkausliiga (Finnland)",
       "stage": {
         "de": "15. Spieltag",
         "tr": "15. Hafta",
         "en": "Matchday 15"
       },
-      "homeTeam": "Vaasan PS",
-      "awayTeam": "SJK Seinäjoki",
+      "homeTeam": "FC Lahti",
+      "awayTeam": "HJK Helsinki",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -31,47 +111,141 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-10T18:00:00+02:00"
+      "kickoff": "2026-07-11T14:00:00+02:00"
     },
     {
-      "time": "18:00",
-      "competition": "U19-EM (Frauen)",
+      "time": "14:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FC Gütersloh",
+      "awayTeam": "FC Schalke 04",
+      "channels": [
+        "Sky Sport Bundesliga",
+        "Sky Sport News",
+        "Sky Sport Bundesliga HD",
+        "Sky Sport News HD",
+        "Sky Go"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T14:00:00+02:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "SV Babelsberg 03",
+      "awayTeam": "FC St. Pauli",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T15:30:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Turun PS",
+      "awayTeam": "AC Oulu",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "IF Gnistan",
+      "awayTeam": "IFK Mariehamn",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T16:00:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Scottish League Cup",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
+      },
+      "homeTeam": "Stirling Albion",
+      "awayTeam": "Dundee United FC",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "OneFootball",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-11T18:30:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "U19-EM",
       "stage": {
         "de": "Finale",
         "tr": "Final",
         "en": "Final"
       },
-      "homeTeam": "Deutschland ♀ (U19)",
-      "awayTeam": "Spanien ♀ (U19)",
+      "homeTeam": "Spanien (U19)",
+      "awayTeam": "Deutschland (U19)",
       "channels": [
         "DFB.TV (via Sky)",
-        "NITRO",
+        "RTL",
         "Sportdigital Fussball",
-        "blue Sport",
-        "NITRO HD"
+        "RTL HD",
+        "Sportdigital Fussball HD"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-10T18:00:00+02:00"
+      "kickoff": "2026-07-11T20:00:00+02:00"
     },
     {
-      "time": "21:00",
+      "time": "23:00",
       "competition": "WM 2026",
       "stage": {
         "de": "Viertelfinale",
         "tr": "Çeyrek Final",
         "en": "Quarter-final"
       },
-      "homeTeam": "Spanien",
-      "awayTeam": "Belgien",
+      "homeTeam": "Norwegen",
+      "awayTeam": "England",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
-        "ORF 1",
-        "Rai 1"
+        "Rai 1",
+        "ServusTV (AT)",
+        "RSI LA 2"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-10T21:00:00+02:00"
+      "kickoff": "2026-07-11T23:00:00+02:00"
     }
   ]
 }
