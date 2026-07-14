@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-13",
-  "generatedAt": "2026-07-13T08:08:41.007Z",
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-14T07:02:22.020Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,37 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "2 Übertragungen heute, u.a. Denver Summit ♀ - Houston Dash ♀ (01:00 Uhr).",
-    "tr": "Bugün 2 yayın, Denver Summit ♀ - Houston Dash ♀ dahil (01:00).",
-    "en": "2 broadcasts today, including Denver Summit ♀ - Houston Dash ♀ (01:00)."
+    "de": "5 Übertragungen heute, u.a. Atletic Escaldes - Lincoln Red Imps FC (18:00 Uhr).",
+    "tr": "Bugün 5 yayın, Atletic Escaldes - Lincoln Red Imps FC dahil (18:00).",
+    "en": "5 broadcasts today, including Atletic Escaldes - Lincoln Red Imps FC (18:00)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
+      "time": "18:00",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "12. Spieltag",
-        "tr": "12. Hafta",
-        "en": "Matchday 12"
+        "de": "Qualifikation 1. Runde, Rückspiel",
+        "tr": "Eleme 1. Runde, Rövanş",
+        "en": "Qualification 1. Runde, Second leg"
       },
-      "homeTeam": "Denver Summit ♀",
-      "awayTeam": "Houston Dash ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-13T01:00:00+02:00"
-    },
-    {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "Breidablik Kópavogur",
-      "awayTeam": "IF Keflavik",
+      "homeTeam": "Atletic Escaldes",
+      "awayTeam": "Lincoln Red Imps FC",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -46,8 +30,84 @@
         "OneFootball TV (Android/Google TV)",
         "OneFootball TV (Apple TV)"
       ],
+      "isHighlight": true,
+      "kickoff": "2026-07-14T18:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Qualifikation 1. Runde, Rückspiel",
+        "tr": "Eleme 1. Runde, Rövanş",
+        "en": "Qualification 1. Runde, Second leg"
+      },
+      "homeTeam": "Riga FC",
+      "awayTeam": "FC Ararat-Armenia Erewan",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-14T19:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Linzer ASK",
+      "awayTeam": "Fenerbahçe Istanbul",
+      "channels": [
+        "LAOLA1 (Livestream)"
+      ],
       "isHighlight": false,
-      "kickoff": "2026-07-13T21:15:00+02:00"
+      "kickoff": "2026-07-14T19:30:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "WM 2026",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Frankreich",
+      "awayTeam": "Spanien",
+      "channels": [
+        "FUSSBALL.TV 1 (MagentaTV)",
+        "MagentaTV",
+        "ZDF",
+        "ORF 1",
+        "Rai 1"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-14T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Qualifikation 1. Runde, Rückspiel",
+        "tr": "Eleme 1. Runde, Rövanş",
+        "en": "Qualification 1. Runde, Second leg"
+      },
+      "homeTeam": "Shamrock Rovers",
+      "awayTeam": "Floriana FC",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-14T21:00:00+02:00"
     }
   ]
 }
