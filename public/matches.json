@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-14",
-  "generatedAt": "2026-07-14T07:02:22.020Z",
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-15T07:05:21.526Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,66 +8,40 @@
     "en"
   ],
   "summary": {
-    "de": "5 Übertragungen heute, u.a. Atletic Escaldes - Lincoln Red Imps FC (18:00 Uhr).",
-    "tr": "Bugün 5 yayın, Atletic Escaldes - Lincoln Red Imps FC dahil (18:00).",
-    "en": "5 broadcasts today, including Atletic Escaldes - Lincoln Red Imps FC (18:00)."
+    "de": "3 Übertragungen heute, u.a. Hansa Rostock - Greifswalder FC (16:30 Uhr).",
+    "tr": "Bugün 3 yayın, Hansa Rostock - Greifswalder FC dahil (16:30).",
+    "en": "3 broadcasts today, including Hansa Rostock - Greifswalder FC (16:30)."
   },
   "matches": [
     {
-      "time": "18:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Qualifikation 1. Runde, Rückspiel",
-        "tr": "Eleme 1. Runde, Rövanş",
-        "en": "Qualification 1. Runde, Second leg"
-      },
-      "homeTeam": "Atletic Escaldes",
-      "awayTeam": "Lincoln Red Imps FC",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-07-14T18:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Qualifikation 1. Runde, Rückspiel",
-        "tr": "Eleme 1. Runde, Rövanş",
-        "en": "Qualification 1. Runde, Second leg"
-      },
-      "homeTeam": "Riga FC",
-      "awayTeam": "FC Ararat-Armenia Erewan",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-07-14T19:00:00+02:00"
-    },
-    {
-      "time": "19:30",
+      "time": "16:30",
       "competition": "Freundschaftsspiel",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Linzer ASK",
-      "awayTeam": "Fenerbahçe Istanbul",
+      "homeTeam": "Hansa Rostock",
+      "awayTeam": "Greifswalder FC",
       "channels": [
-        "LAOLA1 (Livestream)"
+        "Hansa-TV (Rostock)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-14T19:30:00+02:00"
+      "kickoff": "2026-07-15T16:30:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Germania Ober-Roden",
+      "awayTeam": "Kickers Offenbach",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-07-15T18:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -77,37 +51,17 @@
         "tr": "Yarı Final",
         "en": "Semi-final"
       },
-      "homeTeam": "Frankreich",
-      "awayTeam": "Spanien",
+      "homeTeam": "England",
+      "awayTeam": "Argentinien",
       "channels": [
+        "Das Erste",
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "ZDF",
-        "ORF 1",
-        "Rai 1"
+        "Rai 1",
+        "ServusTV (AT)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-14T21:00:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Qualifikation 1. Runde, Rückspiel",
-        "tr": "Eleme 1. Runde, Rövanş",
-        "en": "Qualification 1. Runde, Second leg"
-      },
-      "homeTeam": "Shamrock Rovers",
-      "awayTeam": "Floriana FC",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-07-14T21:00:00+02:00"
+      "kickoff": "2026-07-15T21:00:00+02:00"
     }
   ]
 }
