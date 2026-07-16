@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-15",
-  "generatedAt": "2026-07-15T07:05:21.526Z",
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-16T07:13:54.936Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,60 +8,142 @@
     "en"
   ],
   "summary": {
-    "de": "3 Übertragungen heute, u.a. Hansa Rostock - Greifswalder FC (16:30 Uhr).",
-    "tr": "Bugün 3 yayın, Hansa Rostock - Greifswalder FC dahil (16:30).",
-    "en": "3 broadcasts today, including Hansa Rostock - Greifswalder FC (16:30)."
+    "de": "7 Übertragungen heute, u.a. Paide Linnameeskond - FC Hegelmann Litauen Kaunas (18:00 Uhr).",
+    "tr": "Bugün 7 yayın, Paide Linnameeskond - FC Hegelmann Litauen Kaunas dahil (18:00).",
+    "en": "7 broadcasts today, including Paide Linnameeskond - FC Hegelmann Litauen Kaunas (18:00)."
   },
   "matches": [
     {
-      "time": "16:30",
-      "competition": "Freundschaftsspiel",
+      "time": "01:00",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
       },
-      "homeTeam": "Hansa Rostock",
-      "awayTeam": "Greifswalder FC",
+      "homeTeam": "Orlando Pride ♀",
+      "awayTeam": "Boston Legacy FC ♀",
       "channels": [
-        "Hansa-TV (Rostock)"
+        "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-15T16:30:00+02:00"
+      "kickoff": "2026-07-16T01:00:00+02:00"
+    },
+    {
+      "time": "02:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
+      },
+      "homeTeam": "NJ/NY Gotham FC ♀",
+      "awayTeam": "Washington Spirit ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-16T02:00:00+02:00"
     },
     {
       "time": "18:00",
-      "competition": "Freundschaftsspiel",
+      "competition": "UEFA Conference League",
       "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
+        "de": "Qualifikation 1. Runde, Rückspiel",
+        "tr": "Eleme 1. Runde, Rövanş",
+        "en": "Qualification 1. Runde, Second leg"
       },
-      "homeTeam": "Germania Ober-Roden",
-      "awayTeam": "Kickers Offenbach",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-07-15T18:00:00+02:00"
+      "homeTeam": "Paide Linnameeskond",
+      "awayTeam": "FC Hegelmann Litauen Kaunas",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-16T18:00:00+02:00"
     },
     {
-      "time": "21:00",
-      "competition": "WM 2026",
+      "time": "18:30",
+      "competition": "UEFA Conference League",
       "stage": {
-        "de": "Halbfinale",
-        "tr": "Yarı Final",
-        "en": "Semi-final"
+        "de": "Qualifikation 1. Runde, Rückspiel",
+        "tr": "Eleme 1. Runde, Rövanş",
+        "en": "Qualification 1. Runde, Second leg"
       },
-      "homeTeam": "England",
-      "awayTeam": "Argentinien",
+      "homeTeam": "Rigas FS",
+      "awayTeam": "Glentoran FC",
       "channels": [
-        "Das Erste",
-        "FUSSBALL.TV 1 (MagentaTV)",
-        "MagentaTV",
-        "Rai 1",
-        "ServusTV (AT)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-07-15T21:00:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-07-16T18:30:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 1. Runde, Rückspiel",
+        "tr": "Eleme 1. Runde, Rövanş",
+        "en": "Qualification 1. Runde, Second leg"
+      },
+      "homeTeam": "Zalgiris Vilnius",
+      "awayTeam": "OFK Petrovac",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-16T19:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 1. Runde, Rückspiel",
+        "tr": "Eleme 1. Runde, Rövanş",
+        "en": "Qualification 1. Runde, Second leg"
+      },
+      "homeTeam": "Hamrun Spartans",
+      "awayTeam": "NSÍ Runavík",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-16T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "UEFA Europa League",
+      "stage": {
+        "de": "Qualifikation 1. Runde, Rückspiel",
+        "tr": "Eleme 1. Runde, Rövanş",
+        "en": "Qualification 1. Runde, Second leg"
+      },
+      "homeTeam": "FC Universitatea Cluj",
+      "awayTeam": "Dynamo Kiew",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-16T19:30:00+02:00"
     }
   ]
 }
