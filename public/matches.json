@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-18",
-  "generatedAt": "2026-07-18T06:51:55.698Z",
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T07:21:21.399Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,30 +8,26 @@
     "en"
   ],
   "summary": {
-    "de": "24 Übertragungen heute, u.a. Fluminense Rio de Janeiro - Red Bull Bragantino (01:00 Uhr).",
-    "tr": "Bugün 24 yayın, Fluminense Rio de Janeiro - Red Bull Bragantino dahil (01:00).",
-    "en": "24 broadcasts today, including Fluminense Rio de Janeiro - Red Bull Bragantino (01:00)."
+    "de": "16 Übertragungen heute, u.a. Chicago Red Stars ♀ - Angel City FC ♀ (00:30 Uhr).",
+    "tr": "Bugün 16 yayın, Chicago Red Stars ♀ - Angel City FC ♀ dahil (00:30).",
+    "en": "16 broadcasts today, including Chicago Red Stars ♀ - Angel City FC ♀ (00:30)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "Campeonato Brasileiro Série A (Brasilien)",
+      "time": "00:30",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "19. Spieltag",
-        "tr": "19. Hafta",
-        "en": "Matchday 19"
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
       },
-      "homeTeam": "Fluminense Rio de Janeiro",
-      "awayTeam": "Red Bull Bragantino",
+      "homeTeam": "Chicago Red Stars ♀",
+      "awayTeam": "Angel City FC ♀",
       "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
+        "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-18T01:00:00+02:00"
+      "kickoff": "2026-07-19T00:30:00+02:00"
     },
     {
       "time": "02:00",
@@ -41,13 +37,29 @@
         "tr": "13. Hafta",
         "en": "Matchday 13"
       },
-      "homeTeam": "Kansas City Current ♀",
-      "awayTeam": "San Diego Wave FC ♀",
+      "homeTeam": "Racing Louisville FC ♀",
+      "awayTeam": "Houston Dash ♀",
       "channels": [
         "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-18T02:00:00+02:00"
+      "kickoff": "2026-07-19T02:00:00+02:00"
+    },
+    {
+      "time": "02:45",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
+      },
+      "homeTeam": "Utah Royals FC ♀",
+      "awayTeam": "Orlando Pride ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-19T02:45:00+02:00"
     },
     {
       "time": "12:30",
@@ -57,13 +69,13 @@
         "tr": "18. Hafta",
         "en": "Matchday 18"
       },
-      "homeTeam": "Daejeon Citizen",
-      "awayTeam": "Ulsan Hyundai",
+      "homeTeam": "Bucheon FC 1995",
+      "awayTeam": "FC Seoul",
       "channels": [
         "LAOLA1 (Livestream)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-18T12:30:00+02:00"
+      "kickoff": "2026-07-19T12:30:00+02:00"
     },
     {
       "time": "12:30",
@@ -73,24 +85,24 @@
         "tr": "18. Hafta",
         "en": "Matchday 18"
       },
-      "homeTeam": "Incheon United FC",
-      "awayTeam": "Jeonbuk Hyundai Motors",
+      "homeTeam": "FC Anyang",
+      "awayTeam": "Gwangju FC",
       "channels": [
         "LAOLA1 (Livestream)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-18T12:30:00+02:00"
+      "kickoff": "2026-07-19T12:30:00+02:00"
     },
     {
       "time": "14:00",
-      "competition": "Veikkausliiga (Finnland)",
+      "competition": "Virsliga (Lettland)",
       "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
+        "de": "23. Spieltag",
+        "tr": "23. Hafta",
+        "en": "Matchday 23"
       },
-      "homeTeam": "HJK Helsinki",
-      "awayTeam": "Vaasan PS",
+      "homeTeam": "FK Jelgava",
+      "awayTeam": "Rigas FS",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -99,165 +111,131 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-18T14:00:00+02:00"
+      "kickoff": "2026-07-19T14:00:00+02:00"
     },
     {
       "time": "14:00",
-      "competition": "Freundschaftsspiel",
+      "competition": "Freundschaftsspiel (Frauen)",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "FSV Schöningen",
-      "awayTeam": "1. FC Magdeburg",
-      "channels": [
-        "Volksstimme Livestream"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T14:00:00+02:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Bonner SC",
-      "awayTeam": "MSV Duisburg",
-      "channels": [
-        "ZebraFM (MSV Duisburg)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T14:00:00+02:00"
-    },
-    {
-      "time": "15:30",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Linzer ASK",
-      "awayTeam": "Fortuna Düsseldorf",
-      "channels": [
-        "LAOLA1 (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T15:30:00+02:00"
-    },
-    {
-      "time": "15:30",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "FC Basel",
-      "awayTeam": "Juventus Turin",
-      "channels": [
-        "blue Sport",
-        "blue Zoom",
-        "blue Sport HD",
-        "blue Sport UHD",
-        "blue Zoom HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T15:30:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
-      },
-      "homeTeam": "AC Oulu",
-      "awayTeam": "IF Gnistan",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T16:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
-      },
-      "homeTeam": "SJK Seinäjoki",
-      "awayTeam": "Kuopion PS",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T16:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "1. FC Nürnberg",
-      "awayTeam": "Waldhof Mannheim",
-      "channels": [
-        "1. FC Nürnberg (YouTube)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T16:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "RW Oberhausen",
-      "awayTeam": "Borussia Dortmund",
-      "channels": [
-        "Sky Sport Bundesliga",
-        "Sky Sport News",
-        "Sky Sport Top Event",
-        "Sky Sport Bundesliga HD",
-        "Sky Sport News HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T17:00:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "FC Gießen",
-      "awayTeam": "Eintracht Frankfurt",
+      "homeTeam": "SV Meppen ♀",
+      "awayTeam": "VfL Wolfsburg ♀",
       "channels": [],
       "isHighlight": false,
-      "kickoff": "2026-07-18T17:00:00+02:00"
+      "kickoff": "2026-07-19T14:00:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Erzgebirge Aue",
+      "awayTeam": "FC Schalke 04",
+      "channels": [
+        "DAZN",
+        "S04TV (Schalke)",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-19T14:00:00+02:00"
+    },
+    {
+      "time": "14:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "TSG Balingen",
+      "awayTeam": "VfB Stuttgart",
+      "channels": [
+        "VfB Stuttgart (YouTube)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-19T14:30:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Besta deild karla (Island)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "IB Vestmannaeyjar",
+      "awayTeam": "KA Akureyri",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-19T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Virsliga (Lettland)",
+      "stage": {
+        "de": "23. Spieltag",
+        "tr": "23. Hafta",
+        "en": "Matchday 23"
+      },
+      "homeTeam": "FK Ogre United",
+      "awayTeam": "BFC Daugavpils",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-19T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "HNK Gorica",
+      "awayTeam": "FC St. Pauli",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-07-19T16:00:00+02:00"
+    },
+    {
+      "time": "17:30",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "16. Spieltag",
+        "tr": "16. Hafta",
+        "en": "Matchday 16"
+      },
+      "homeTeam": "FF Jaro",
+      "awayTeam": "Inter Turku",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-19T17:30:00+02:00"
     },
     {
       "time": "18:00",
@@ -267,8 +245,8 @@
         "tr": "15. Hafta",
         "en": "Matchday 15"
       },
-      "homeTeam": "Thor Akureyri",
-      "awayTeam": "Vikingur Reykjavik",
+      "homeTeam": "KR Reykjavik",
+      "awayTeam": "UMF Stjarnan",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -277,7 +255,7 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-18T18:00:00+02:00"
+      "kickoff": "2026-07-19T18:00:00+02:00"
     },
     {
       "time": "18:00",
@@ -287,8 +265,8 @@
         "tr": "23. Hafta",
         "en": "Matchday 23"
       },
-      "homeTeam": "Riga FC",
-      "awayTeam": "FK Tukums 2000",
+      "homeTeam": "Auda Riga",
+      "awayTeam": "FK Liepaja",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -297,155 +275,27 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-18T18:00:00+02:00"
+      "kickoff": "2026-07-19T18:00:00+02:00"
     },
     {
-      "time": "18:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
-      },
-      "homeTeam": "NJ/NY Gotham FC ♀",
-      "awayTeam": "OL Reign ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Scottish League Cup",
-      "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
-      },
-      "homeTeam": "FC Aberdeen",
-      "awayTeam": "FC Queen’s Park",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T18:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "SK Rapid Wien",
-      "awayTeam": "Hamburger SV",
-      "channels": [
-        "ORF Sport+",
-        "ORF Sport+ HD",
-        "ORF ON",
-        "ORF ON (App)",
-        "ORF ON (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T19:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
-      },
-      "homeTeam": "Denver Summit ♀",
-      "awayTeam": "Portland Thorns ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T20:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Scottish League Cup",
-      "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
-      },
-      "homeTeam": "Dundee United FC",
-      "awayTeam": "FC Arbroath",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T20:00:00+02:00"
-    },
-    {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Valur Reykjavik",
-      "awayTeam": "Fram Reykjavik",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T21:15:00+02:00"
-    },
-    {
-      "time": "22:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
-      },
-      "homeTeam": "Bay FC ♀",
-      "awayTeam": "North Carolina Courage ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-18T22:00:00+02:00"
-    },
-    {
-      "time": "23:00",
+      "time": "21:00",
       "competition": "WM 2026",
       "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
       },
-      "homeTeam": "Frankreich",
-      "awayTeam": "England",
+      "homeTeam": "Spanien",
+      "awayTeam": "Argentinien",
       "channels": [
         "FUSSBALL.TV 1 (MagentaTV)",
         "MagentaTV",
-        "Rai 1",
-        "ServusTV (AT)",
-        "RSI LA 2"
+        "ZDF",
+        "ORF 1",
+        "Rai 1"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-18T23:00:00+02:00"
+      "kickoff": "2026-07-19T21:00:00+02:00"
     }
   ]
 }
