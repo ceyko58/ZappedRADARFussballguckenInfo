@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-20",
-  "generatedAt": "2026-07-20T07:50:17.697Z",
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-21T07:26:50.174Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,37 +8,72 @@
     "en"
   ],
   "summary": {
-    "de": "6 Übertragungen heute, u.a. Boston Legacy FC ♀ - Washington Spirit ♀ (01:00 Uhr).",
-    "tr": "Bugün 6 yayın, Boston Legacy FC ♀ - Washington Spirit ♀ dahil (01:00).",
-    "en": "6 broadcasts today, including Boston Legacy FC ♀ - Washington Spirit ♀ (01:00)."
+    "de": "7 Übertragungen heute, u.a. Mjällby AIF - Lincoln Red Imps FC (19:00 Uhr).",
+    "tr": "Bugün 7 yayın, Mjällby AIF - Lincoln Red Imps FC dahil (19:00).",
+    "en": "7 broadcasts today, including Mjällby AIF - Lincoln Red Imps FC (19:00)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
+      "time": "12:30",
+      "competition": "K League 1 (Südkorea)",
       "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
+        "de": "19. Spieltag",
+        "tr": "19. Hafta",
+        "en": "Matchday 19"
       },
-      "homeTeam": "Boston Legacy FC ♀",
-      "awayTeam": "Washington Spirit ♀",
+      "homeTeam": "Ulsan Hyundai",
+      "awayTeam": "Incheon United FC",
       "channels": [
-        "NWSL+"
+        "LAOLA1 (Livestream)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-20T01:00:00+02:00"
+      "kickoff": "2026-07-21T12:30:00+02:00"
     },
     {
-      "time": "17:00",
-      "competition": "Veikkausliiga (Finnland)",
+      "time": "12:30",
+      "competition": "K League 1 (Südkorea)",
       "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
+        "de": "19. Spieltag",
+        "tr": "19. Hafta",
+        "en": "Matchday 19"
       },
-      "homeTeam": "Turun PS",
-      "awayTeam": "Ilves Tampere",
+      "homeTeam": "Jeonbuk Hyundai Motors",
+      "awayTeam": "Daejeon Citizen",
+      "channels": [
+        "LAOLA1 (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-21T12:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Landespokal Bayern",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "SV Eintracht Berglern",
+      "awayTeam": "TSV 1860 München",
+      "channels": [
+        "DF1",
+        "DF1 HD",
+        "DF1 (Livestream)",
+        "Löwen-Radio (1860 München)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-21T18:30:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "Mjällby AIF",
+      "awayTeam": "Lincoln Red Imps FC",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -46,19 +81,19 @@
         "OneFootball TV (Android/Google TV)",
         "OneFootball TV (Apple TV)"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-07-20T17:00:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-07-21T19:00:00+02:00"
     },
     {
-      "time": "18:00",
-      "competition": "Veikkausliiga (Finnland)",
+      "time": "19:00",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
       },
-      "homeTeam": "IFK Mariehamn",
-      "awayTeam": "FC Lahti",
+      "homeTeam": "AGF Aarhus",
+      "awayTeam": "Lech Posen",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -66,68 +101,48 @@
         "OneFootball TV (Android/Google TV)",
         "OneFootball TV (Apple TV)"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-07-20T18:00:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-07-21T19:00:00+02:00"
     },
     {
-      "time": "18:00",
-      "competition": "Virsliga (Lettland)",
+      "time": "20:00",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "23. Spieltag",
-        "tr": "23. Hafta",
-        "en": "Matchday 23"
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
       },
-      "homeTeam": "SK Super Nova",
-      "awayTeam": "Grobinas Sporta Centrs",
+      "homeTeam": "FC Thun",
+      "awayTeam": "Dinamo Zagreb",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "RSI LA 2",
+        "RTS 2",
+        "SRF zwei",
+        "RSI LA 2 HD",
+        "RTS 2 HD"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-07-20T18:00:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-07-21T20:00:00+02:00"
     },
     {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
+      "time": "20:30",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
       },
-      "homeTeam": "FH Hafnarfjördur",
-      "awayTeam": "Breidablik Kópavogur",
+      "homeTeam": "SK Sturm Graz",
+      "awayTeam": "Heart of Midlothian FC",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "ORF 1",
+        "ORF 1 HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-07-20T21:15:00+02:00"
-    },
-    {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "IF Keflavik",
-      "awayTeam": "IA Akranes",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-20T21:15:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-07-21T20:30:00+02:00"
     }
   ]
 }
