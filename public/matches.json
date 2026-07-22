@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-21",
-  "generatedAt": "2026-07-21T07:26:50.174Z",
+  "date": "2026-07-22",
+  "generatedAt": "2026-07-22T07:28:40.146Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,26 +8,50 @@
     "en"
   ],
   "summary": {
-    "de": "7 Übertragungen heute, u.a. Mjällby AIF - Lincoln Red Imps FC (19:00 Uhr).",
-    "tr": "Bugün 7 yayın, Mjällby AIF - Lincoln Red Imps FC dahil (19:00).",
-    "en": "7 broadcasts today, including Mjällby AIF - Lincoln Red Imps FC (19:00)."
+    "de": "7 Übertragungen heute, u.a. FK Zeleznicar Pancevo - Sporting Braga (21:00 Uhr).",
+    "tr": "Bugün 7 yayın, FK Zeleznicar Pancevo - Sporting Braga dahil (21:00).",
+    "en": "7 broadcasts today, including FK Zeleznicar Pancevo - Sporting Braga (21:00)."
   },
   "matches": [
     {
-      "time": "12:30",
-      "competition": "K League 1 (Südkorea)",
+      "time": "00:00",
+      "competition": "Copa Sudamericana",
       "stage": {
-        "de": "19. Spieltag",
-        "tr": "19. Hafta",
-        "en": "Matchday 19"
+        "de": "Sechzehntelfinale Hinspiel",
+        "tr": "SechzehntelFinal İlk maç",
+        "en": "SechzehntelFinal First leg"
       },
-      "homeTeam": "Ulsan Hyundai",
-      "awayTeam": "Incheon United FC",
+      "homeTeam": "Club Nacional",
+      "awayTeam": "CA Tigre",
       "channels": [
-        "LAOLA1 (Livestream)"
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-21T12:30:00+02:00"
+      "kickoff": "2026-07-22T00:00:00+02:00"
+    },
+    {
+      "time": "02:30",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Sechzehntelfinale Hinspiel",
+        "tr": "SechzehntelFinal İlk maç",
+        "en": "SechzehntelFinal First leg"
+      },
+      "homeTeam": "Universidad Central",
+      "awayTeam": "FC Santos",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-22T02:30:00+02:00"
     },
     {
       "time": "12:30",
@@ -37,43 +61,77 @@
         "tr": "19. Hafta",
         "en": "Matchday 19"
       },
-      "homeTeam": "Jeonbuk Hyundai Motors",
-      "awayTeam": "Daejeon Citizen",
+      "homeTeam": "FC Seoul",
+      "awayTeam": "Pohang Steelers",
       "channels": [
         "LAOLA1 (Livestream)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-21T12:30:00+02:00"
+      "kickoff": "2026-07-22T12:30:00+02:00"
     },
     {
-      "time": "18:30",
-      "competition": "Landespokal Bayern",
+      "time": "12:30",
+      "competition": "K League 1 (Südkorea)",
+      "stage": {
+        "de": "19. Spieltag",
+        "tr": "19. Hafta",
+        "en": "Matchday 19"
+      },
+      "homeTeam": "Bucheon FC 1995",
+      "awayTeam": "FC Anyang",
+      "channels": [
+        "LAOLA1 (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-22T12:30:00+02:00"
+    },
+    {
+      "time": "17:30",
+      "competition": "Freundschaftsspiel",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "SV Eintracht Berglern",
-      "awayTeam": "TSV 1860 München",
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "Fagiano Okayama FC",
       "channels": [
-        "DF1",
-        "DF1 HD",
-        "DF1 (Livestream)",
-        "Löwen-Radio (1860 München)"
+        "WERDER.TV",
+        "WERDER.TV (YouTube)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-21T18:30:00+02:00"
+      "kickoff": "2026-07-22T17:30:00+02:00"
     },
     {
-      "time": "19:00",
-      "competition": "UEFA Champions League",
+      "time": "20:45",
+      "competition": "Scottish League Cup",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
+      },
+      "homeTeam": "Queen of the South",
+      "awayTeam": "FC Aberdeen",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-22T20:45:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Conference League",
       "stage": {
         "de": "Qualifikation 2. Runde, Hinspiel",
         "tr": "Eleme 2. Runde, İlk maç",
         "en": "Qualification 2. Runde, First leg"
       },
-      "homeTeam": "Mjällby AIF",
-      "awayTeam": "Lincoln Red Imps FC",
+      "homeTeam": "FK Zeleznicar Pancevo",
+      "awayTeam": "Sporting Braga",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -82,67 +140,7 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-07-21T19:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Qualifikation 2. Runde, Hinspiel",
-        "tr": "Eleme 2. Runde, İlk maç",
-        "en": "Qualification 2. Runde, First leg"
-      },
-      "homeTeam": "AGF Aarhus",
-      "awayTeam": "Lech Posen",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-07-21T19:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Qualifikation 2. Runde, Hinspiel",
-        "tr": "Eleme 2. Runde, İlk maç",
-        "en": "Qualification 2. Runde, First leg"
-      },
-      "homeTeam": "FC Thun",
-      "awayTeam": "Dinamo Zagreb",
-      "channels": [
-        "RSI LA 2",
-        "RTS 2",
-        "SRF zwei",
-        "RSI LA 2 HD",
-        "RTS 2 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-07-21T20:00:00+02:00"
-    },
-    {
-      "time": "20:30",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Qualifikation 2. Runde, Hinspiel",
-        "tr": "Eleme 2. Runde, İlk maç",
-        "en": "Qualification 2. Runde, First leg"
-      },
-      "homeTeam": "SK Sturm Graz",
-      "awayTeam": "Heart of Midlothian FC",
-      "channels": [
-        "ORF 1",
-        "ORF 1 HD",
-        "ORF ON",
-        "ORF ON (App)",
-        "ORF ON (Amazon)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-07-21T20:30:00+02:00"
+      "kickoff": "2026-07-22T21:00:00+02:00"
     }
   ]
 }
