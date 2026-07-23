@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-22",
-  "generatedAt": "2026-07-22T07:28:40.146Z",
+  "date": "2026-07-23",
+  "generatedAt": "2026-07-23T07:26:12.037Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,110 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "7 Übertragungen heute, u.a. FK Zeleznicar Pancevo - Sporting Braga (21:00 Uhr).",
-    "tr": "Bugün 7 yayın, FK Zeleznicar Pancevo - Sporting Braga dahil (21:00).",
-    "en": "7 broadcasts today, including FK Zeleznicar Pancevo - Sporting Braga (21:00)."
+    "de": "11 Übertragungen heute, u.a. GAIS Göteborg - FC Nordsjaelland (14:00 Uhr).",
+    "tr": "Bugün 11 yayın, GAIS Göteborg - FC Nordsjaelland dahil (14:00).",
+    "en": "11 broadcasts today, including GAIS Göteborg - FC Nordsjaelland (14:00)."
   },
   "matches": [
     {
-      "time": "00:00",
-      "competition": "Copa Sudamericana",
-      "stage": {
-        "de": "Sechzehntelfinale Hinspiel",
-        "tr": "SechzehntelFinal İlk maç",
-        "en": "SechzehntelFinal First leg"
-      },
-      "homeTeam": "Club Nacional",
-      "awayTeam": "CA Tigre",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-22T00:00:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Copa Sudamericana",
-      "stage": {
-        "de": "Sechzehntelfinale Hinspiel",
-        "tr": "SechzehntelFinal İlk maç",
-        "en": "SechzehntelFinal First leg"
-      },
-      "homeTeam": "Universidad Central",
-      "awayTeam": "FC Santos",
-      "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-22T02:30:00+02:00"
-    },
-    {
-      "time": "12:30",
-      "competition": "K League 1 (Südkorea)",
+      "time": "00:30",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
       "stage": {
         "de": "19. Spieltag",
         "tr": "19. Hafta",
         "en": "Matchday 19"
       },
-      "homeTeam": "FC Seoul",
-      "awayTeam": "Pohang Steelers",
-      "channels": [
-        "LAOLA1 (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-22T12:30:00+02:00"
-    },
-    {
-      "time": "12:30",
-      "competition": "K League 1 (Südkorea)",
-      "stage": {
-        "de": "19. Spieltag",
-        "tr": "19. Hafta",
-        "en": "Matchday 19"
-      },
-      "homeTeam": "Bucheon FC 1995",
-      "awayTeam": "FC Anyang",
-      "channels": [
-        "LAOLA1 (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-22T12:30:00+02:00"
-    },
-    {
-      "time": "17:30",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "SV Werder Bremen",
-      "awayTeam": "Fagiano Okayama FC",
-      "channels": [
-        "WERDER.TV",
-        "WERDER.TV (YouTube)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-22T17:30:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Scottish League Cup",
-      "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
-      },
-      "homeTeam": "Queen of the South",
-      "awayTeam": "FC Aberdeen",
+      "homeTeam": "Coritiba FC",
+      "awayTeam": "Palmeiras Sao Paulo",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
@@ -120,18 +31,18 @@
         "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-22T20:45:00+02:00"
+      "kickoff": "2026-07-23T00:30:00+02:00"
     },
     {
-      "time": "21:00",
+      "time": "14:00",
       "competition": "UEFA Conference League",
       "stage": {
         "de": "Qualifikation 2. Runde, Hinspiel",
         "tr": "Eleme 2. Runde, İlk maç",
         "en": "Qualification 2. Runde, First leg"
       },
-      "homeTeam": "FK Zeleznicar Pancevo",
-      "awayTeam": "Sporting Braga",
+      "homeTeam": "GAIS Göteborg",
+      "awayTeam": "FC Nordsjaelland",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -140,7 +51,173 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-07-22T21:00:00+02:00"
+      "kickoff": "2026-07-23T14:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "FK Liepaja",
+      "awayTeam": "FK Austria Wien",
+      "channels": [
+        "PULS 4",
+        "PULS 4 HD",
+        "Joyn.at",
+        "PULS 4 Livestream"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-23T17:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "Bergisch Gladbach 09",
+      "channels": [
+        "FC-TV (1. FC Köln)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-23T18:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "FC Santa Coloma",
+      "awayTeam": "SK Rapid Wien",
+      "channels": [],
+      "isHighlight": true,
+      "kickoff": "2026-07-23T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "TSV Aubstadt",
+      "awayTeam": "1. FC Schweinfurt 05",
+      "channels": [
+        "BR (ARD Mediathek)",
+        "BR24 Sport (Livestream)",
+        "BR24 (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-23T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Europa League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "Hammarby IF",
+      "awayTeam": "RSC Anderlecht",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-23T19:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "FC Vaduz",
+      "awayTeam": "Atletic Escaldes",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-23T19:30:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "UEFA Europa League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "FC St. Gallen",
+      "awayTeam": "Benfica Lissabon",
+      "channels": [
+        "SRF zwei",
+        "SRF zwei HD",
+        "Play SRF",
+        "Play SRF (App)",
+        "SRF Sport"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-23T20:00:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "FC Lugano",
+      "awayTeam": "KF Dukagjini",
+      "channels": [
+        "RSI LA 2",
+        "RSI LA 2 HD",
+        "Play RSI (Livestream)",
+        "Play RSI (App)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-23T20:30:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "FC Shelbourne",
+      "awayTeam": "Nomme Kalju FC",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-23T20:45:00+02:00"
     }
   ]
 }
