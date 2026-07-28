@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-27T08:20:24.074Z",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-28T07:30:50.761Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,53 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "9 Übertragungen heute, u.a. Washington Spirit ♀ - Denver Summit ♀ (01:00 Uhr).",
-    "tr": "Bugün 9 yayın, Washington Spirit ♀ - Denver Summit ♀ dahil (01:00).",
-    "en": "9 broadcasts today, including Washington Spirit ♀ - Denver Summit ♀ (01:00)."
+    "de": "5 Übertragungen heute, u.a. Dinamo Zagreb - FC Thun (20:00 Uhr).",
+    "tr": "Bugün 5 yayın, Dinamo Zagreb - FC Thun dahil (20:00).",
+    "en": "5 broadcasts today, including Dinamo Zagreb - FC Thun (20:00)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "Washington Spirit ♀",
-      "awayTeam": "Denver Summit ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-27T01:00:00+02:00"
-    },
-    {
-      "time": "03:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "Angel City FC ♀",
-      "awayTeam": "Racing Louisville FC ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-27T03:00:00+02:00"
-    },
-    {
-      "time": "13:00",
+      "time": "12:00",
       "competition": "ASEAN Championship",
       "stage": {
         "de": "Gruppenphase",
         "tr": "Grupnphase",
         "en": "Groupnphase"
       },
-      "homeTeam": "Singapur",
-      "awayTeam": "Timor-Leste",
+      "homeTeam": "Philippinen",
+      "awayTeam": "Myanmar",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -63,18 +31,18 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-27T13:00:00+02:00"
+      "kickoff": "2026-07-28T12:00:00+02:00"
     },
     {
-      "time": "15:30",
+      "time": "15:00",
       "competition": "ASEAN Championship",
       "stage": {
         "de": "Gruppenphase",
         "tr": "Grupnphase",
         "en": "Groupnphase"
       },
-      "homeTeam": "Indonesien",
-      "awayTeam": "Kambodscha",
+      "homeTeam": "Malaysia",
+      "awayTeam": "Laos",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -83,98 +51,38 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-27T15:30:00+02:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "24. Spieltag",
-        "tr": "24. Hafta",
-        "en": "Matchday 24"
-      },
-      "homeTeam": "FK Tukums 2000",
-      "awayTeam": "Rigas FS",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-27T17:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "24. Spieltag",
-        "tr": "24. Hafta",
-        "en": "Matchday 24"
-      },
-      "homeTeam": "Grobinas Sporta Centrs",
-      "awayTeam": "FK Ogre United",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-27T18:00:00+02:00"
+      "kickoff": "2026-07-28T15:00:00+02:00"
     },
     {
       "time": "20:00",
-      "competition": "Besta deild karla (Island)",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
       },
-      "homeTeam": "Breidablik Kópavogur",
-      "awayTeam": "IB Vestmannaeyjar",
+      "homeTeam": "Dinamo Zagreb",
+      "awayTeam": "FC Thun",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "RSI LA 2",
+        "SRF zwei",
+        "RSI LA 2 HD",
+        "SRF zwei HD",
+        "Play RSI (Livestream)"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-07-27T20:00:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-07-28T20:00:00+02:00"
     },
     {
-      "time": "20:00",
+      "time": "20:45",
       "competition": "Freundschaftsspiel",
       "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
+        "de": "",
+        "tr": "",
+        "en": ""
       },
-      "homeTeam": "Galatasaray Istanbul",
-      "awayTeam": "Venedig FC",
-      "channels": [
-        "Sportdigital Fussball",
-        "Sportdigital Fussball HD",
-        "OneFootball",
-        "Sportdigital.de (Livestream)",
-        "OneFootball (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-27T20:00:00+02:00"
-    },
-    {
-      "time": "21:15",
-      "competition": "Besta deild karla (Island)",
-      "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
-      },
-      "homeTeam": "KA Akureyri",
-      "awayTeam": "Thor Akureyri",
+      "homeTeam": "Stoke City",
+      "awayTeam": "FC Everton",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -183,7 +91,27 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-27T21:15:00+02:00"
+      "kickoff": "2026-07-28T20:45:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "Heart of Midlothian FC",
+      "awayTeam": "SK Sturm Graz",
+      "channels": [
+        "ORF 1",
+        "ORF 1 HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-28T20:45:00+02:00"
     }
   ]
 }
