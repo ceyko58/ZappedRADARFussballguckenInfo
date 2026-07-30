@@ -1,6 +1,6 @@
 {
-  "date": "2026-07-29",
-  "generatedAt": "2026-07-29T07:36:13.547Z",
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-30T07:26:07.011Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,90 +8,168 @@
     "en"
   ],
   "summary": {
-    "de": "12 Übertragungen heute, u.a. Roter Stern Belgrad - Larne FC (20:00 Uhr).",
-    "tr": "Bugün 12 yayın, Roter Stern Belgrad - Larne FC dahil (20:00).",
-    "en": "12 broadcasts today, including Roter Stern Belgrad - Larne FC (20:00)."
+    "de": "23 Übertragungen heute, u.a. Atletic Escaldes - FC Vaduz (16:00 Uhr).",
+    "tr": "Bugün 23 yayın, Atletic Escaldes - FC Vaduz dahil (16:00).",
+    "en": "23 broadcasts today, including Atletic Escaldes - FC Vaduz (16:00)."
   },
   "matches": [
     {
-      "time": "00:00",
-      "competition": "Copa Sudamericana",
+      "time": "00:15",
+      "competition": "Liga Profesional (Argentinien)",
       "stage": {
-        "de": "Sechzehntelfinale Rückspiel",
-        "tr": "SechzehntelFinal Rövanş",
-        "en": "SechzehntelFinal Second leg"
+        "de": "02. Spieltag",
+        "tr": "02. Hafta",
+        "en": "Matchday 02"
       },
-      "homeTeam": "CA Tigre",
-      "awayTeam": "Club Nacional",
+      "homeTeam": "Gimnasia La Plata",
+      "awayTeam": "CA River Plate",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
         "Sportdigital Fussball HD",
         "blue Sport HD",
-        "OneFootball"
+        "Sportdigital.de (Livestream)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-29T00:00:00+02:00"
+      "kickoff": "2026-07-30T00:15:00+02:00"
+    },
+    {
+      "time": "01:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FC Liverpool",
+      "awayTeam": "Wrexham A.F.C.",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-30T01:30:00+02:00"
+    },
+    {
+      "time": "02:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Kansas City Current ♀",
+      "awayTeam": "Racing Louisville FC ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-30T02:00:00+02:00"
     },
     {
       "time": "02:30",
-      "competition": "Copa Sudamericana",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
       "stage": {
-        "de": "Sechzehntelfinale Rückspiel",
-        "tr": "SechzehntelFinal Rövanş",
-        "en": "SechzehntelFinal Second leg"
+        "de": "21. Spieltag",
+        "tr": "21. Hafta",
+        "en": "Matchday 21"
       },
-      "homeTeam": "FC Santos",
-      "awayTeam": "Universidad Central",
+      "homeTeam": "EC Vitória",
+      "awayTeam": "Palmeiras Sao Paulo",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
         "Sportdigital Fussball HD",
         "blue Sport HD",
-        "OneFootball"
+        "Sportdigital.de (Livestream)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-29T02:30:00+02:00"
+      "kickoff": "2026-07-30T02:30:00+02:00"
     },
     {
-      "time": "12:00",
-      "competition": "Freundschaftsspiel",
+      "time": "03:00",
+      "competition": "National Women’s Soccer League (NWSL)",
       "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
       },
-      "homeTeam": "Cerezo Osaka",
-      "awayTeam": "Borussia Dortmund",
+      "homeTeam": "Utah Royals FC ♀",
+      "awayTeam": "Washington Spirit ♀",
       "channels": [
-        "Sky Sport Bundesliga",
-        "Sky Sport News",
-        "Sky Sport Top Event",
-        "Sky Sport Bundesliga 4 HD",
-        "Sky Sport News HD"
+        "NWSL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-29T12:00:00+02:00"
+      "kickoff": "2026-07-30T03:00:00+02:00"
     },
     {
-      "time": "15:00",
+      "time": "04:00",
+      "competition": "National Women’s Soccer League (NWSL)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Bay FC ♀",
+      "awayTeam": "NJ/NY Gotham FC ♀",
+      "channels": [
+        "NWSL+"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-30T04:00:00+02:00"
+    },
+    {
+      "time": "16:00",
       "competition": "Freundschaftsspiel",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Bayer Leverkusen",
-      "awayTeam": "KRC Genk",
+      "homeTeam": "FC Würzburger Kickers",
+      "awayTeam": "FSV Frankfurt",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-07-30T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "AFC Bournemouth",
+      "channels": [
+        "FCA TV (Augsburg)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-07-30T16:00:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "Atletic Escaldes",
+      "awayTeam": "FC Vaduz",
       "channels": [
         "OneFootball",
-        "Werkself-TV (Bayer 04 Leverkusen)",
         "OneFootball (App)",
         "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)"
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-07-29T15:00:00+02:00"
+      "isHighlight": true,
+      "kickoff": "2026-07-30T16:00:00+02:00"
     },
     {
       "time": "18:00",
@@ -101,42 +179,84 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "1899 Hoffenheim",
-      "awayTeam": "Holstein Kiel",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-07-29T18:00:00+02:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Kickers Offenbach",
-      "awayTeam": "VfB Stuttgart",
+      "homeTeam": "FC Rottach-Egern",
+      "awayTeam": "FC Bayern München",
       "channels": [
-        "Sky Sport Bundesliga",
-        "Sky Sport News",
-        "blue Sport",
-        "Sky Sport Bundesliga HD",
-        "Sky Sport News HD"
+        "fcbayern.com"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-29T18:30:00+02:00"
+      "kickoff": "2026-07-30T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "Auda Riga",
+      "awayTeam": "FCSB Bukarest",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T18:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "HB Torshavn",
+      "awayTeam": "Motherwell FC",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "FC ETO Györ",
+      "awayTeam": "FC Atert Bissen",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T19:00:00+02:00"
     },
     {
       "time": "19:00",
       "competition": "Afrika-Cup (Frauen)",
       "stage": {
-        "de": "Gruppenphase 1. Spieltag",
-        "tr": "Grupnphase 1. Hafta",
-        "en": "Groupnphase Matchday 1"
+        "de": "Gruppenphase 2. Spieltag",
+        "tr": "Grupnphase 2. Hafta",
+        "en": "Groupnphase Matchday 2"
       },
-      "homeTeam": "Ghana ♀",
-      "awayTeam": "Kap Verde ♀",
+      "homeTeam": "Senegal ♀",
+      "awayTeam": "Kenia ♀",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -145,58 +265,18 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-29T19:00:00+02:00"
+      "kickoff": "2026-07-30T19:00:00+02:00"
     },
     {
-      "time": "20:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Real Betis Balompié",
-      "awayTeam": "Olympique Lyon",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-07-29T20:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "UEFA Champions League",
+      "time": "19:00",
+      "competition": "UEFA Europa League",
       "stage": {
         "de": "Qualifikation 2. Runde, Rückspiel",
         "tr": "Eleme 2. Runde, Rövanş",
         "en": "Qualification 2. Runde, Second leg"
       },
-      "homeTeam": "Roter Stern Belgrad",
-      "awayTeam": "Larne FC",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-07-29T20:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Qualifikation 2. Runde, Rückspiel",
-        "tr": "Eleme 2. Runde, Rövanş",
-        "en": "Qualification 2. Runde, Second leg"
-      },
-      "homeTeam": "Gornik Zabrze",
-      "awayTeam": "Fenerbahçe Istanbul",
+      "homeTeam": "FC Midtjylland",
+      "awayTeam": "Besiktas Istanbul",
       "channels": [
         "Sportdigital Fussball",
         "Sportdigital Fussball HD",
@@ -205,7 +285,85 @@
         "Sportdigital+ (App)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-07-29T20:00:00+02:00"
+      "kickoff": "2026-07-30T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Europa League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "Pafos FC",
+      "awayTeam": "Hajduk Split",
+      "channels": [
+        "Sportdigital Fussball",
+        "Sportdigital Fussball HD",
+        "Sportdigital.de (Livestream)",
+        "Sportdigital+ (App)",
+        "Sportdigital Fussball (MagentaSport)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T19:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "Valletta FC",
+      "awayTeam": "Rakow Tschenstochau",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T19:30:00+02:00"
+    },
+    {
+      "time": "20:15",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "FC UNA Strassen",
+      "awayTeam": "Partizan Belgrad",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T20:15:00+02:00"
+    },
+    {
+      "time": "20:15",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "FC Sion",
+      "awayTeam": "Bate Borissow",
+      "channels": [
+        "RTS 2",
+        "RTS 2 HD",
+        "RTS 2 (Livestream)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T20:15:00+02:00"
     },
     {
       "time": "20:30",
@@ -215,37 +373,77 @@
         "tr": "Eleme 2. Runde, Rövanş",
         "en": "Qualification 2. Runde, Second leg"
       },
-      "homeTeam": "SK Rapid Wien",
-      "awayTeam": "FC Santa Coloma",
+      "homeTeam": "FK Austria Wien",
+      "awayTeam": "FK Liepaja",
       "channels": [
         "ORF 1",
         "ORF 1 HD",
-        "OneFootball",
         "ORF ON",
-        "OneFootball (App)"
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-07-29T20:30:00+02:00"
+      "kickoff": "2026-07-30T20:30:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "FC Koper",
+      "awayTeam": "NSÍ Runavík",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T20:45:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Europa League",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Rückspiel",
+        "tr": "Eleme 2. Runde, Rövanş",
+        "en": "Qualification 2. Runde, Second leg"
+      },
+      "homeTeam": "Benfica Lissabon",
+      "awayTeam": "FC St. Gallen",
+      "channels": [
+        "RSI LA 2",
+        "SRF zwei",
+        "RSI LA 2 HD",
+        "SRF zwei HD",
+        "Play RSI (Livestream)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-07-30T21:00:00+02:00"
     },
     {
       "time": "22:00",
       "competition": "Afrika-Cup (Frauen)",
       "stage": {
-        "de": "Gruppenphase 1. Spieltag",
-        "tr": "Grupnphase 1. Hafta",
-        "en": "Groupnphase Matchday 1"
+        "de": "Gruppenphase 2. Spieltag",
+        "tr": "Grupnphase 2. Hafta",
+        "en": "Groupnphase Matchday 2"
       },
-      "homeTeam": "Kamerun ♀",
-      "awayTeam": "Mali ♀",
+      "homeTeam": "Marokko ♀",
+      "awayTeam": "Algerien ♀",
       "channels": [
         "DAZN",
+        "DAZN RISE",
         "DAZN (App)",
         "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-07-29T22:00:00+02:00"
+      "kickoff": "2026-07-30T22:00:00+02:00"
     }
   ]
 }
