@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-04",
-  "generatedAt": "2026-08-04T07:29:59.590Z",
+  "date": "2026-08-05",
+  "generatedAt": "2026-08-05T07:31:02.649Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,21 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "12 Übertragungen heute, u.a. Mjällby AIF - Slovan Bratislava (18:00 Uhr).",
-    "tr": "Bugün 12 yayın, Mjällby AIF - Slovan Bratislava dahil (18:00).",
-    "en": "12 broadcasts today, including Mjällby AIF - Slovan Bratislava (18:00)."
+    "de": "16 Übertragungen heute, u.a. FK Austria Wien ♀ - Hajduk Split ♀ (11:00 Uhr).",
+    "tr": "Bugün 16 yayın, FK Austria Wien ♀ - Hajduk Split ♀ dahil (11:00).",
+    "en": "16 broadcasts today, including FK Austria Wien ♀ - Hajduk Split ♀ (11:00)."
   },
   "matches": [
     {
-      "time": "12:00",
-      "competition": "ASEAN Championship",
+      "time": "10:00",
+      "competition": "Freundschaftsspiel",
       "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
+        "de": "",
+        "tr": "",
+        "en": ""
       },
-      "homeTeam": "Myanmar",
-      "awayTeam": "Laos",
+      "homeTeam": "FC Villarreal",
+      "awayTeam": "UD Levante",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -31,7 +31,21 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-04T12:00:00+02:00"
+      "kickoff": "2026-08-05T10:00:00+02:00"
+    },
+    {
+      "time": "11:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "FK Austria Wien ♀",
+      "awayTeam": "Hajduk Split ♀",
+      "channels": [],
+      "isHighlight": true,
+      "kickoff": "2026-08-05T11:00:00+02:00"
     },
     {
       "time": "13:00",
@@ -41,26 +55,8 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Jeju United",
-      "awayTeam": "FC Bayern München",
-      "channels": [
-        "FC Bayern.tv plus",
-        "FC Bayern.tv plus (mobil)",
-        "FC Bayern.tv plus (MagentaTV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-08-04T13:00:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "ASEAN Championship",
-      "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
-      },
-      "homeTeam": "Philippinen",
-      "awayTeam": "Thailand",
+      "homeTeam": "AC Mailand",
+      "awayTeam": "Inter Mailand",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -69,18 +65,78 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-04T15:00:00+02:00"
+      "kickoff": "2026-08-05T13:00:00+02:00"
+    },
+    {
+      "time": "13:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Team K League (Auswahl)",
+      "awayTeam": "Manchester City",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-05T13:00:00+02:00"
+    },
+    {
+      "time": "13:45",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FC Chelsea",
+      "awayTeam": "Juventus Turin",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-05T13:45:00+02:00"
     },
     {
       "time": "18:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "SKN St. Pölten ♀",
+      "awayTeam": "BSC Young Boys ♀",
+      "channels": [
+        "ORF Sport+",
+        "ORF Sport+ HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-08-05T18:00:00+02:00"
+    },
+    {
+      "time": "18:30",
       "competition": "UEFA Champions League",
       "stage": {
         "de": "Qualifikation 3. Runde, Hinspiel",
         "tr": "Eleme 3. Runde, İlk maç",
         "en": "Qualification 3. Runde, First leg"
       },
-      "homeTeam": "Mjällby AIF",
-      "awayTeam": "Slovan Bratislava",
+      "homeTeam": "AGF Aarhus",
+      "awayTeam": "Sabah FK",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -89,7 +145,7 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-08-04T18:00:00+02:00"
+      "kickoff": "2026-08-05T18:30:00+02:00"
     },
     {
       "time": "19:00",
@@ -99,13 +155,13 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Carl Zeiss Jena",
-      "awayTeam": "RSV Eintracht 1949",
+      "homeTeam": "FC Rot-Weiß Erfurt",
+      "awayTeam": "Tasmania Berlin",
       "channels": [
-        "FCC Radio (Carl Zeiss Jena)"
+        "RWE.tv (Fanradio Rot-Weiß Erfurt)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-04T19:00:00+02:00"
+      "kickoff": "2026-08-05T19:00:00+02:00"
     },
     {
       "time": "19:00",
@@ -115,14 +171,15 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Chemnitzer FC",
-      "awayTeam": "FSV Zwickau",
+      "homeTeam": "BSG Chemie Leipzig",
+      "awayTeam": "Hallescher FC",
       "channels": [
-        "Freie Presse (Livestream)",
-        "Gellert-Welle (Chemnitzer FC)"
+        "MZ Livestream",
+        "Fünfeck.FM (Chemie Leipzig)",
+        "HFC-Fanradio"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-04T19:00:00+02:00"
+      "kickoff": "2026-08-05T19:00:00+02:00"
     },
     {
       "time": "19:00",
@@ -132,45 +189,52 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "SV Babelsberg 03",
-      "awayTeam": "VSG Altglienicke",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-08-04T19:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Regionalliga Nordost",
-      "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
-      },
-      "homeTeam": "Hertha BSC II",
-      "awayTeam": "Greifswalder FC",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-08-04T19:00:00+02:00"
-    },
-    {
-      "time": "19:30",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "Qualifikation 3. Runde, Hinspiel",
-        "tr": "Eleme 3. Runde, İlk maç",
-        "en": "Qualification 3. Runde, First leg"
-      },
-      "homeTeam": "Hapoel Beer Sheva FC",
-      "awayTeam": "Roter Stern Belgrad",
+      "homeTeam": "BFC Preussen",
+      "awayTeam": "1. FC Lok Leipzig",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "LVZ+",
+        "LOKruf (Lok Leipzig)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-05T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Eintracht Frankfurt ♀",
+      "awayTeam": "Omonia Nikosia ♀",
+      "channels": [
+        "EintrachtTV (Frankfurt)",
+        "Inklusives Fanradio (Eintracht Frankfurt)",
+        "EintrachtTV (Smart TV)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-08-04T19:30:00+02:00"
+      "kickoff": "2026-08-05T19:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "RCD Mallorca",
+      "awayTeam": "Paris St. Germain",
+      "channels": [
+        "Sky Sport News",
+        "Sky Sport News HD",
+        "Sky Sport (YouTube)",
+        "Sky Sport News HD (Livestream)",
+        "WOW"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-05T20:00:00+02:00"
     },
     {
       "time": "20:00",
@@ -180,11 +244,37 @@
         "tr": "Eleme 3. Runde, İlk maç",
         "en": "Qualification 3. Runde, First leg"
       },
-      "homeTeam": "Sparta Prag",
-      "awayTeam": "Olympique Lyon",
-      "channels": [],
+      "homeTeam": "Fenerbahçe Istanbul",
+      "awayTeam": "SK Sturm Graz",
+      "channels": [
+        "ORF 1",
+        "ORF 1 HD",
+        "Sportdigital.de (Livestream)",
+        "ORF ON",
+        "Sportdigital+ (App)"
+      ],
       "isHighlight": true,
-      "kickoff": "2026-08-04T20:00:00+02:00"
+      "kickoff": "2026-08-05T20:00:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FC Arsenal",
+      "awayTeam": "Real Betis Balompié",
+      "channels": [
+        "DAZN",
+        "DAZN FAST+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-05T20:30:00+02:00"
     },
     {
       "time": "22:00",
@@ -194,8 +284,8 @@
         "tr": "Grupnphase 3. Hafta",
         "en": "Groupnphase Matchday 3"
       },
-      "homeTeam": "Tansania ♀",
-      "awayTeam": "Elfenbeinküste ♀",
+      "homeTeam": "Malawi ♀",
+      "awayTeam": "Sambia ♀",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -204,7 +294,7 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-04T22:00:00+02:00"
+      "kickoff": "2026-08-05T22:00:00+02:00"
     },
     {
       "time": "22:00",
@@ -214,8 +304,8 @@
         "tr": "Grupnphase 3. Hafta",
         "en": "Groupnphase Matchday 3"
       },
-      "homeTeam": "Burkina Faso ♀",
-      "awayTeam": "Südafrika ♀",
+      "homeTeam": "Ägypten ♀",
+      "awayTeam": "Nigeria ♀",
       "channels": [
         "DAZN",
         "DAZN RISE",
@@ -224,7 +314,7 @@
         "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-04T22:00:00+02:00"
+      "kickoff": "2026-08-05T22:00:00+02:00"
     }
   ]
 }
