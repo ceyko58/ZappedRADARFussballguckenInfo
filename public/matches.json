@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-10",
-  "generatedAt": "2026-08-10T06:05:31.791Z",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-11T05:45:45.407Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,53 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "3 Übertragungen heute, u.a. Chicago Red Stars ♀ - Bay FC ♀ (01:00 Uhr).",
-    "tr": "Bugün 3 yayın, Chicago Red Stars ♀ - Bay FC ♀ dahil (01:00).",
-    "en": "3 broadcasts today, including Chicago Red Stars ♀ - Bay FC ♀ (01:00)."
+    "de": "5 Übertragungen heute, u.a. SK Sturm Graz - Fenerbahçe Istanbul (20:30 Uhr).",
+    "tr": "Bugün 5 yayın, SK Sturm Graz - Fenerbahçe Istanbul dahil (20:30).",
+    "en": "5 broadcasts today, including SK Sturm Graz - Fenerbahçe Istanbul (20:30)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
+      "time": "12:00",
+      "competition": "Freundschaftsspiel",
       "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
+        "de": "",
+        "tr": "",
+        "en": ""
       },
-      "homeTeam": "Chicago Red Stars ♀",
-      "awayTeam": "Bay FC ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-08-10T01:00:00+02:00"
-    },
-    {
-      "time": "03:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
-      },
-      "homeTeam": "OL Reign ♀",
-      "awayTeam": "Angel City FC ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-08-10T03:00:00+02:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "26. Spieltag",
-        "tr": "26. Hafta",
-        "en": "Matchday 26"
-      },
-      "homeTeam": "Rigas FS",
-      "awayTeam": "Grobinas Sporta Centrs",
+      "homeTeam": "Juventus Turin",
+      "awayTeam": "FC Palermo",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -63,7 +31,71 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-10T18:30:00+02:00"
+      "kickoff": "2026-08-11T12:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "VfB Lübeck",
+      "awayTeam": "VfB Oldenburg",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Nordost",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "1. FC Magdeburg II",
+      "awayTeam": "SV Babelsberg 03",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-08-11T19:00:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Qualifikation 3. Runde, Rückspiel",
+        "tr": "Eleme 3. Runde, Rövanş",
+        "en": "Qualification 3. Runde, Second leg"
+      },
+      "homeTeam": "SK Sturm Graz",
+      "awayTeam": "Fenerbahçe Istanbul",
+      "channels": [
+        "ORF 1",
+        "ORF 1 HD",
+        "BILD.de (BILDplus)",
+        "Sportdigital.de (Livestream)",
+        "ORF ON"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-08-11T20:30:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Qualifikation 3. Runde, Rückspiel",
+        "tr": "Eleme 3. Runde, Rövanş",
+        "en": "Qualification 3. Runde, Second leg"
+      },
+      "homeTeam": "Olympique Lyon",
+      "awayTeam": "Sparta Prag",
+      "channels": [],
+      "isHighlight": true,
+      "kickoff": "2026-08-11T21:00:00+02:00"
     }
   ]
 }
