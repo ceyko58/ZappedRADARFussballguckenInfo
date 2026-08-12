@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-11T05:45:45.407Z",
+  "date": "2026-08-12",
+  "generatedAt": "2026-08-12T06:06:30.230Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,30 +8,155 @@
     "en"
   ],
   "summary": {
-    "de": "5 Übertragungen heute, u.a. SK Sturm Graz - Fenerbahçe Istanbul (20:30 Uhr).",
-    "tr": "Bugün 5 yayın, SK Sturm Graz - Fenerbahçe Istanbul dahil (20:30).",
-    "en": "5 broadcasts today, including SK Sturm Graz - Fenerbahçe Istanbul (20:30)."
+    "de": "19 Übertragungen heute, u.a. SK Rapid Wien - Paide Linnameeskond (18:00 Uhr).",
+    "tr": "Bugün 19 yayın, SK Rapid Wien - Paide Linnameeskond dahil (18:00).",
+    "en": "19 broadcasts today, including SK Rapid Wien - Paide Linnameeskond (18:00)."
   },
   "matches": [
     {
-      "time": "12:00",
+      "time": "00:00",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Achtelfinale Hinspiel",
+        "tr": "Son 16 Turu İlk maç",
+        "en": "Round of 16 First leg"
+      },
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Recoleta FC",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T00:00:00+02:00"
+    },
+    {
+      "time": "02:30",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Achtelfinale Hinspiel",
+        "tr": "Son 16 Turu İlk maç",
+        "en": "Round of 16 First leg"
+      },
+      "homeTeam": "Club Bolivar",
+      "awayTeam": "FC Sao Paulo",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T02:30:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "Bremer SV",
+      "awayTeam": "1. FC Phönix Lübeck",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "UEFA Conference League",
+      "stage": {
+        "de": "Qualifikation 3. Runde, Rückspiel",
+        "tr": "Eleme 3. Runde, Rövanş",
+        "en": "Qualification 3. Runde, Second leg"
+      },
+      "homeTeam": "SK Rapid Wien",
+      "awayTeam": "Paide Linnameeskond",
+      "channels": [
+        "ORF 1",
+        "ORF 1 HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-08-12T18:00:00+02:00"
+    },
+    {
+      "time": "18:15",
       "competition": "Freundschaftsspiel",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "Juventus Turin",
-      "awayTeam": "FC Palermo",
+      "homeTeam": "Newcastle United",
+      "awayTeam": "FC Everton",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "DAZN 1",
+        "DAZN 1 HD",
+        "DAZN",
+        "DAZN FAST+",
+        "DAZN (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-11T12:00:00+02:00"
+      "kickoff": "2026-08-12T18:15:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "HSC Hannover",
+      "awayTeam": "SV Atlas Delmenhorst",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "Eimsbütteler TV",
+      "awayTeam": "FSV Schöningen",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FSV Frankfurt",
+      "awayTeam": "Eintracht Frankfurt",
+      "channels": [
+        "EintrachtTV (Frankfurt)",
+        "EintrachtTV (Smart TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T18:30:00+02:00"
     },
     {
       "time": "19:00",
@@ -41,61 +166,195 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "VfB Lübeck",
-      "awayTeam": "VfB Oldenburg",
+      "homeTeam": "SSV Jeddeloh II",
+      "awayTeam": "FC St. Pauli II",
       "channels": [
         "Leagues"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-11T19:00:00+02:00"
+      "kickoff": "2026-08-12T19:00:00+02:00"
     },
     {
       "time": "19:00",
-      "competition": "Regionalliga Nordost",
+      "competition": "Regionalliga Nord",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
       },
-      "homeTeam": "1. FC Magdeburg II",
-      "awayTeam": "SV Babelsberg 03",
-      "channels": [],
+      "homeTeam": "Eintracht Norderstedt",
+      "awayTeam": "Kickers Emden",
+      "channels": [
+        "Leagues"
+      ],
       "isHighlight": false,
-      "kickoff": "2026-08-11T19:00:00+02:00"
+      "kickoff": "2026-08-12T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Afrika-Cup (Frauen)",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Algerien ♀",
+      "awayTeam": "Malawi ♀",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T19:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "SV Drochtersen/Assel",
+      "awayTeam": "Hannover 96 II",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "Hamburger SV II",
+      "awayTeam": "SV Todesfelde",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T19:30:00+02:00"
     },
     {
       "time": "20:30",
-      "competition": "UEFA Champions League",
+      "competition": "Freundschaftsspiel",
       "stage": {
-        "de": "Qualifikation 3. Runde, Rückspiel",
-        "tr": "Eleme 3. Runde, Rövanş",
-        "en": "Qualification 3. Runde, Second leg"
+        "de": "",
+        "tr": "",
+        "en": ""
       },
-      "homeTeam": "SK Sturm Graz",
-      "awayTeam": "Fenerbahçe Istanbul",
+      "homeTeam": "Leeds United",
+      "awayTeam": "Manchester United",
       "channels": [
-        "ORF 1",
-        "ORF 1 HD",
-        "BILD.de (BILDplus)",
-        "Sportdigital.de (Livestream)",
-        "ORF ON"
+        "DAZN 2",
+        "DAZN 2 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-08-11T20:30:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-08-12T20:30:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "FC Arsenal",
+      "awayTeam": "Como 1907",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T20:30:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Nottingham Forest",
+      "awayTeam": "Bayer Leverkusen",
+      "channels": [
+        "Sky Sport Bundesliga",
+        "Sky Sport News",
+        "Sky Sport Premier League",
+        "Sky Sport Top Event",
+        "Sky Sport Bundesliga HD"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T20:45:00+02:00"
     },
     {
       "time": "21:00",
-      "competition": "UEFA Champions League",
+      "competition": "Freundschaftsspiel",
       "stage": {
-        "de": "Qualifikation 3. Runde, Rückspiel",
-        "tr": "Eleme 3. Runde, Rövanş",
-        "en": "Qualification 3. Runde, Second leg"
+        "de": "",
+        "tr": "",
+        "en": ""
       },
-      "homeTeam": "Olympique Lyon",
-      "awayTeam": "Sparta Prag",
-      "channels": [],
-      "isHighlight": true,
-      "kickoff": "2026-08-11T21:00:00+02:00"
+      "homeTeam": "Deportivo La Coruña",
+      "awayTeam": "Real Madrid",
+      "channels": [
+        "Sportdigital Fussball",
+        "Sportdigital Fussball HD",
+        "DAZN",
+        "Sportdigital.de (Livestream)",
+        "DAZN (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Super Cup",
+      "stage": {
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
+      },
+      "homeTeam": "Paris St. Germain",
+      "awayTeam": "Aston Villa",
+      "channels": [
+        "DAZN 1",
+        "Sky Sport Austria 1",
+        "blue Sport",
+        "blue Zoom",
+        "DAZN 1 HD"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T21:00:00+02:00"
+    },
+    {
+      "time": "22:00",
+      "competition": "Afrika-Cup (Frauen)",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Marokko ♀",
+      "awayTeam": "Kamerun ♀",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-12T22:00:00+02:00"
     }
   ]
 }
