@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-18",
-  "generatedAt": "2026-08-18T05:18:33.281Z",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T05:19:21.017Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,11 +8,71 @@
     "en"
   ],
   "summary": {
-    "de": "7 Übertragungen heute, u.a. Dinamo Zagreb - Viking Stavanger FK (21:00 Uhr).",
-    "tr": "Bugün 7 yayın, Dinamo Zagreb - Viking Stavanger FK dahil (21:00).",
-    "en": "7 broadcasts today, including Dinamo Zagreb - Viking Stavanger FK (21:00)."
+    "de": "12 Übertragungen heute, u.a. Atletico Madrid - FC Malaga (21:00 Uhr).",
+    "tr": "Bugün 12 yayın, Atletico Madrid - FC Malaga dahil (21:00).",
+    "en": "12 broadcasts today, including Atletico Madrid - FC Malaga (21:00)."
   },
   "matches": [
+    {
+      "time": "00:00",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Achtelfinale Rückspiel",
+        "tr": "Son 16 Turu Rövanş",
+        "en": "Round of 16 Second leg"
+      },
+      "homeTeam": "Recoleta FC",
+      "awayTeam": "Boca Juniors",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-19T00:00:00+02:00"
+    },
+    {
+      "time": "02:30",
+      "competition": "Copa Sudamericana",
+      "stage": {
+        "de": "Achtelfinale Rückspiel",
+        "tr": "Son 16 Turu Rövanş",
+        "en": "Round of 16 Second leg"
+      },
+      "homeTeam": "FC Sao Paulo",
+      "awayTeam": "Club Bolivar",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-19T02:30:00+02:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "U19-DFB-Nachwuchsliga",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "FC Bayern München (U19)",
+      "awayTeam": "VfB Stuttgart (U19)",
+      "channels": [
+        "FC Bayern.tv plus",
+        "skysport.de",
+        "FC Bayern.tv plus (mobil)",
+        "Sky Sport (App)",
+        "FC Bayern.tv plus (MagentaTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-19T14:00:00+02:00"
+    },
     {
       "time": "15:00",
       "competition": "ASEAN Championship",
@@ -21,8 +81,8 @@
         "tr": "Yarı Final Rövanş",
         "en": "Semi-final Second leg"
       },
-      "homeTeam": "Thailand",
-      "awayTeam": "Singapur",
+      "homeTeam": "Vietnam",
+      "awayTeam": "Malaysia",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -31,64 +91,83 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-18T15:00:00+02:00"
+      "kickoff": "2026-08-19T15:00:00+02:00"
     },
     {
-      "time": "18:00",
+      "time": "18:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "SV Werder Bremen II",
+      "awayTeam": "SC Weiche Flensburg",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-19T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "U19-DFB-Nachwuchsliga",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "Borussia Mönchengladbach (U19)",
+      "awayTeam": "Bayer Leverkusen (U19)",
+      "channels": [
+        "Sky Sport Bundesliga",
+        "Sky Sport Top Event",
+        "Sky Sport Bundesliga HD",
+        "Sky Sport Top Event HD",
+        "Sky Go"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-08-19T18:30:00+02:00"
+    },
+    {
+      "time": "20:00",
       "competition": "Freundschaftsspiel",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "1. FC Heidenheim 1846",
-      "awayTeam": "FC Bayern München",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Al-Ahly SC",
       "channels": [
-        "FC Bayern.tv plus",
-        "FC Bayern.tv plus (mobil)",
-        "FC Bayern.tv plus (MagentaTV)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-08-18T18:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Regionalliga Bayern",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "TSV Aubstadt",
-      "awayTeam": "TSV 1860 München",
-      "channels": [
-        "BR (ARD Mediathek)",
-        "BR24 Sport (Livestream)",
-        "BR24 (App)",
-        "Löwen-Radio (1860 München)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-08-18T19:00:00+02:00"
+      "kickoff": "2026-08-19T20:00:00+02:00"
     },
     {
       "time": "21:00",
-      "competition": "UEFA Champions League",
+      "competition": "La Liga (Spanien)",
       "stage": {
-        "de": "Playoff Hinspiel",
-        "tr": "Play-off İlk maç",
-        "en": "Play-off First leg"
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
       },
-      "homeTeam": "Dinamo Zagreb",
-      "awayTeam": "Viking Stavanger FK",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "FC Malaga",
       "channels": [
+        "DAZN 1",
+        "DAZN 1 HD",
         "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "DAZN FAST+",
+        "DAZN (App)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-08-18T21:00:00+02:00"
+      "kickoff": "2026-08-19T21:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -100,9 +179,15 @@
       },
       "homeTeam": "Slovan Bratislava",
       "awayTeam": "NK Celje",
-      "channels": [],
+      "channels": [
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 3",
+        "blue Sport",
+        "Sky Sport Austria 1 HD",
+        "Sky Sport Austria 3 HD"
+      ],
       "isHighlight": true,
-      "kickoff": "2026-08-18T21:00:00+02:00"
+      "kickoff": "2026-08-19T21:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -112,16 +197,17 @@
         "tr": "Play-off İlk maç",
         "en": "Play-off First leg"
       },
-      "homeTeam": "Fenerbahçe Istanbul",
-      "awayTeam": "Olympique Lyon",
+      "homeTeam": "Hapoel Beer Sheva FC",
+      "awayTeam": "Sabah FK",
       "channels": [
-        "Amazon Prime Video",
-        "Amazon Prime Video (App)",
-        "Amazon Prime Video (MagentaTV)",
-        "Amazon Prime Video (Smart TV)"
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 4",
+        "blue Sport",
+        "Sky Sport Austria 1 HD",
+        "Sky Sport Austria 4 HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-08-18T21:00:00+02:00"
+      "kickoff": "2026-08-19T21:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -131,17 +217,37 @@
         "tr": "Play-off İlk maç",
         "en": "Play-off First leg"
       },
-      "homeTeam": "Levski Sofia",
-      "awayTeam": "AEK Athen",
+      "homeTeam": "Celtic Glasgow",
+      "awayTeam": "Linzer ASK",
       "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "DAZN 2",
+        "CANAL+",
+        "blue Sport",
+        "DAZN 2 HD",
+        "blue Sport HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-08-18T21:00:00+02:00"
+      "kickoff": "2026-08-19T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "Playoff Hinspiel",
+        "tr": "Play-off İlk maç",
+        "en": "Play-off First leg"
+      },
+      "homeTeam": "NEC Nijmegen",
+      "awayTeam": "FK Bodø/Glimt",
+      "channels": [
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 2",
+        "blue Sport",
+        "Sky Sport Austria 1 HD",
+        "Sky Sport Austria 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-08-19T21:00:00+02:00"
     }
   ]
 }
