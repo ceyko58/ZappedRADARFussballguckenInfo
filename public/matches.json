@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-10T09:15:38.795Z",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T09:14:25.240Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,250 +8,30 @@
     "en"
   ],
   "summary": {
-    "de": "31 Übertragungen heute, u.a. PSV Eindhoven - Schachtjor Donezk (18:45 Uhr).",
-    "tr": "Bugün 31 yayın, PSV Eindhoven - Schachtjor Donezk dahil (18:45).",
-    "en": "31 broadcasts today, including PSV Eindhoven - Schachtjor Donezk (18:45)."
+    "de": "44 Übertragungen heute, u.a. SV Werder Bremen ♀ - Hamburger SV ♀ (18:30 Uhr).",
+    "tr": "Bugün 44 yayın, SV Werder Bremen ♀ - Hamburger SV ♀ dahil (18:30).",
+    "en": "44 broadcasts today, including SV Werder Bremen ♀ - Hamburger SV ♀ (18:30)."
   },
   "matches": [
     {
-      "time": "00:00",
+      "time": "02:30",
       "competition": "Copa Sudamericana",
       "stage": {
         "de": "Viertelfinale Hinspiel",
         "tr": "Çeyrek Final İlk maç",
         "en": "Quarter-final First leg"
       },
-      "homeTeam": "FC Santos",
-      "awayTeam": "Atletico Mineiro",
+      "homeTeam": "Club Sportivo Cienciano",
+      "awayTeam": "Montevideo City Torque",
       "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T00:00:00+02:00"
-    },
-    {
-      "time": "00:00",
-      "competition": "Copa Libertadores",
-      "stage": {
-        "de": "Viertelfinale Hinspiel",
-        "tr": "Çeyrek Final İlk maç",
-        "en": "Quarter-final First leg"
-      },
-      "homeTeam": "Palmeiras Sao Paulo",
-      "awayTeam": "LDU Quito",
-      "channels": [
-        "Sportdigital1+",
-        "Sportdigital1+ HD",
-        "Sportdigital1+ (Livestream)",
+        "OneFootball",
+        "Sportdigital.de (Livestream)",
+        "OneFootball (App)",
         "Sportdigital+ (App)",
-        "Sportdigital1+ HD (MagentaTV)"
+        "OneFootball TV (Amazon FireTV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-10T00:00:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Toronto FC",
-      "awayTeam": "Nashville SC",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T01:30:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Philadelphia Union",
-      "awayTeam": "FC Cincinnati",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T01:30:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "New York City FC",
-      "awayTeam": "New England Revolution",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T01:30:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Montreal Impact",
-      "awayTeam": "Charlotte FC",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T01:30:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "D.C. United",
-      "awayTeam": "Columbus Crew SC",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T01:30:00+02:00"
-    },
-    {
-      "time": "01:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Atlanta United",
-      "awayTeam": "Orlando City SC",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T01:30:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Minnesota United FC",
-      "awayTeam": "FC Dallas",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T02:30:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Houston Dynamo",
-      "awayTeam": "Real Salt Lake City",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T02:30:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Chicago Fire",
-      "awayTeam": "Inter Miami",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T02:30:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Austin FC",
-      "awayTeam": "Colorado Rapids",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T02:30:00+02:00"
+      "kickoff": "2026-09-11T02:30:00+02:00"
     },
     {
       "time": "02:30",
@@ -261,8 +41,8 @@
         "tr": "Çeyrek Final İlk maç",
         "en": "Quarter-final First leg"
       },
-      "homeTeam": "Estudiantes de La Plata",
-      "awayTeam": "Corinthians Sao Paulo",
+      "homeTeam": "Independiente del Valle",
+      "awayTeam": "Flamengo Rio de Janeiro",
       "channels": [
         "Sportdigital1+",
         "Sportdigital1+ HD",
@@ -271,158 +51,18 @@
         "Sportdigital1+ HD (MagentaTV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-10T02:30:00+02:00"
+      "kickoff": "2026-09-11T02:30:00+02:00"
     },
     {
-      "time": "04:30",
-      "competition": "Major League Soccer (MLS)",
+      "time": "13:30",
+      "competition": "ASEAN Club Championship",
       "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
+        "de": "Qualifikation Hinspiel",
+        "tr": "Eleme İlk maç",
+        "en": "Qualification First leg"
       },
-      "homeTeam": "Vancouver Whitecaps",
-      "awayTeam": "LA Galaxy",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T04:30:00+02:00"
-    },
-    {
-      "time": "04:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "San Diego FC",
-      "awayTeam": "San Jose Earthquakes",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T04:30:00+02:00"
-    },
-    {
-      "time": "04:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Portland Timbers",
-      "awayTeam": "St. Louis City",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T04:30:00+02:00"
-    },
-    {
-      "time": "04:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "25. Spieltag",
-        "tr": "25. Hafta",
-        "en": "Matchday 25"
-      },
-      "homeTeam": "Los Angeles FC",
-      "awayTeam": "New York Red Bulls",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T04:30:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "U20-WM (Frauen)",
-      "stage": {
-        "de": "Gruppenphase 2. Spieltag",
-        "tr": "Grupnphase 2. Hafta",
-        "en": "Groupnphase Matchday 2"
-      },
-      "homeTeam": "Spanien ♀ (U20)",
-      "awayTeam": "Neukaledonien ♀ (U20)",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T15:00:00+02:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "U20-WM (Frauen)",
-      "stage": {
-        "de": "Gruppenphase 2. Spieltag",
-        "tr": "Grupnphase 2. Hafta",
-        "en": "Groupnphase Matchday 2"
-      },
-      "homeTeam": "Nordkorea ♀ (U20)",
-      "awayTeam": "Costa Rica ♀ (U20)",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T15:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "UEFA Youth League",
-      "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
-      },
-      "homeTeam": "FC Bayern München (U19)",
-      "awayTeam": "FK Bodø/Glimt (U19)",
-      "channels": [
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 1 HD",
-        "UEFA.tv",
-        "Sky Go (Austria)",
-        "Sky X (Austria)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-10T16:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Virsliga (Lettland)",
-      "stage": {
-        "de": "30. Spieltag",
-        "tr": "30. Hafta",
-        "en": "Matchday 30"
-      },
-      "homeTeam": "SK Super Nova",
-      "awayTeam": "FK Tukums 2000",
+      "homeTeam": "Ezra FC",
+      "awayTeam": "Shan United",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -431,18 +71,18 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-10T18:00:00+02:00"
+      "kickoff": "2026-09-11T13:30:00+02:00"
     },
     {
-      "time": "18:00",
+      "time": "15:00",
       "competition": "U20-WM (Frauen)",
       "stage": {
-        "de": "Gruppenphase 2. Spieltag",
-        "tr": "Grupnphase 2. Hafta",
-        "en": "Groupnphase Matchday 2"
+        "de": "Gruppenphase 3. Spieltag",
+        "tr": "Grupnphase 3. Hafta",
+        "en": "Groupnphase Matchday 3"
       },
-      "homeTeam": "China ♀ (U20)",
-      "awayTeam": "Nigeria ♀ (U20)",
+      "homeTeam": "Tansania ♀ (U20)",
+      "awayTeam": "Kanada ♀ (U20)",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -451,18 +91,18 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-10T18:00:00+02:00"
+      "kickoff": "2026-09-11T15:00:00+02:00"
     },
     {
-      "time": "18:00",
+      "time": "15:00",
       "competition": "U20-WM (Frauen)",
       "stage": {
-        "de": "Gruppenphase 2. Spieltag",
-        "tr": "Grupnphase 2. Hafta",
-        "en": "Groupnphase Matchday 2"
+        "de": "Gruppenphase 3. Spieltag",
+        "tr": "Grupnphase 3. Hafta",
+        "en": "Groupnphase Matchday 3"
       },
-      "homeTeam": "Kolumbien ♀ (U20)",
-      "awayTeam": "Portugal ♀ (U20)",
+      "homeTeam": "England ♀ (U20)",
+      "awayTeam": "Brasilien ♀ (U20)",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -471,47 +111,341 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-10T18:00:00+02:00"
+      "kickoff": "2026-09-11T15:00:00+02:00"
     },
     {
-      "time": "18:45",
-      "competition": "UEFA Champions League",
+      "time": "18:00",
+      "competition": "U20-WM (Frauen)",
       "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
+        "de": "Gruppenphase 3. Spieltag",
+        "tr": "Grupnphase 3. Hafta",
+        "en": "Groupnphase Matchday 3"
       },
-      "homeTeam": "PSV Eindhoven",
-      "awayTeam": "Schachtjor Donezk",
+      "homeTeam": "Benin ♀ (U20)",
+      "awayTeam": "Polen ♀ (U20)",
       "channels": [
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 4",
-        "blue Sport",
-        "DAZN 2 HD"
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-09-10T18:45:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-09-11T18:00:00+02:00"
     },
     {
-      "time": "18:45",
-      "competition": "UEFA Champions League",
+      "time": "18:00",
+      "competition": "U20-WM (Frauen)",
       "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
+        "de": "Gruppenphase 3. Spieltag",
+        "tr": "Grupnphase 3. Hafta",
+        "en": "Groupnphase Matchday 3"
       },
-      "homeTeam": "Fenerbahçe Istanbul",
-      "awayTeam": "AS Rom",
+      "homeTeam": "Argentinien ♀ (U20)",
+      "awayTeam": "Mexiko ♀ (U20)",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T18:00:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "2. Liga (Österreich)",
+      "stage": {
+        "de": "06. Spieltag",
+        "tr": "06. Hafta",
+        "en": "Matchday 06"
+      },
+      "homeTeam": "SK Rapid Wien II",
+      "awayTeam": "First Vienna FC 1894",
+      "channels": [
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "2. Liga (Österreich)",
+      "stage": {
+        "de": "06. Spieltag",
+        "tr": "06. Hafta",
+        "en": "Matchday 06"
+      },
+      "homeTeam": "SKU Amstetten",
+      "awayTeam": "Young Violets Austria Wien",
+      "channels": [
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "2. Liga (Österreich)",
+      "stage": {
+        "de": "06. Spieltag",
+        "tr": "06. Hafta",
+        "en": "Matchday 06"
+      },
+      "homeTeam": "FC Admira Wacker",
+      "awayTeam": "KSV 1919",
+      "channels": [
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "VfB Oldenburg",
+      "awayTeam": "Hannover 96 II",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Frauen-Bundesliga",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "SV Werder Bremen ♀",
+      "awayTeam": "Hamburger SV ♀",
       "channels": [
         "DAZN 1",
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 3",
-        "blue Sport"
+        "MagentaSport (Sat)",
+        "DAZN 1 HD",
+        "MagentaSport HD",
+        "DAZN"
       ],
       "isHighlight": true,
-      "kickoff": "2026-09-10T18:45:00+02:00"
+      "kickoff": "2026-09-11T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "2. Bundesliga",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "1. FC Nürnberg",
+      "awayTeam": "Hannover 96",
+      "channels": [
+        "Sky Sport Bundesliga 2",
+        "Sky Sport Bundesliga 3",
+        "Sky Sport Top Event",
+        "Sky Sport Bundesliga 2 HD",
+        "Sky Sport Bundesliga 3 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-11T18:30:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "2. Bundesliga",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "SV Darmstadt 98",
+      "awayTeam": "Arminia Bielefeld",
+      "channels": [
+        "Sky Sport Bundesliga 2",
+        "Sky Sport Bundesliga 4",
+        "Sky Sport Top Event",
+        "Sky Sport Bundesliga 2 HD",
+        "Sky Sport Bundesliga 4 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-11T18:30:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Serie B (Italien)",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "FC Empoli",
+      "awayTeam": "US Arezzo",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "TSV Aubstadt",
+      "awayTeam": "SpVgg Unterhaching",
+      "channels": [
+        "Haching FM (SpVgg Unterhaching)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "Wacker Burghausen",
+      "awayTeam": "TSV 1882 Landsberg",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "TSV Buchbach",
+      "awayTeam": "FC Bayern München II",
+      "channels": [
+        "FC Bayern.tv plus",
+        "FC Bayern.tv plus (mobil)",
+        "FC Bayern.tv plus (MagentaTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "FV Illertissen",
+      "awayTeam": "1. FC Nürnberg II",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "SC Weiche Flensburg",
+      "awayTeam": "Hamburger SV II",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "07. Spieltag",
+        "tr": "07. Hafta",
+        "en": "Matchday 07"
+      },
+      "homeTeam": "SC Freiburg II",
+      "awayTeam": "SV Sandhausen",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "Hardtwald Hörfunk (Sandhausen)",
+        "OneFootball TV (Amazon FireTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "07. Spieltag",
+        "tr": "07. Hafta",
+        "en": "Matchday 07"
+      },
+      "homeTeam": "KSV Hessen Kassel",
+      "awayTeam": "Kickers Offenbach",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "OFC-Fanradio (Offenbach)",
+        "OneFootball TV (Amazon FireTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "3. Liga",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "FC Viktoria Köln",
+      "awayTeam": "Hansa Rostock",
+      "channels": [
+        "MagentaSport (Sat)",
+        "MagentaSport HD",
+        "MagentaSport",
+        "OneFootball",
+        "MagentaSport (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
     },
     {
       "time": "19:00",
@@ -521,111 +455,400 @@
         "tr": "08. Hafta",
         "en": "Matchday 08"
       },
-      "homeTeam": "BFC Dynamo",
-      "awayTeam": "Tasmania Berlin",
-      "channels": [],
+      "homeTeam": "VSG Altglienicke",
+      "awayTeam": "Chemnitzer FC",
+      "channels": [
+        "Freie Presse (Livestream)",
+        "Gellert-Welle (Chemnitzer FC)"
+      ],
       "isHighlight": false,
-      "kickoff": "2026-09-10T19:00:00+02:00"
+      "kickoff": "2026-09-11T19:00:00+02:00"
     },
     {
-      "time": "21:00",
-      "competition": "Liga Portugal",
+      "time": "19:00",
+      "competition": "Regionalliga Nordost",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "FC Rot-Weiß Erfurt",
+      "awayTeam": "RSV Eintracht 1949",
+      "channels": [
+        "FUNKE Medien Thüringen",
+        "RWE.tv (Fanradio Rot-Weiß Erfurt)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "TSV 1860 München",
+      "awayTeam": "TSV Schwaben Augsburg",
+      "channels": [
+        "BR (ARD Mediathek)",
+        "BR24 Sport (Livestream)",
+        "BR24 Sport (YouTube)",
+        "BR24 (App)",
+        "Löwen-Radio (1860 München)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Challenge League (Schweiz)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "FC Stade Nyonnais",
+      "awayTeam": "Neuchâtel Xamax",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "blue Sport (Livestream)",
+        "Swisscom blue TV App"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Challenge League (Schweiz)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "FC Rapperswil-Jona",
+      "awayTeam": "Yverdon-Sport FC",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "blue Sport (Livestream)",
+        "Swisscom blue TV App"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Challenge League (Schweiz)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "FC Stade-Lausanne-Ouchy",
+      "awayTeam": "FC Wil",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "blue Sport (Livestream)",
+        "Swisscom blue TV App"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Bundesliga (Österreich)",
+      "stage": {
+        "de": "06. Spieltag",
+        "tr": "06. Hafta",
+        "en": "Matchday 06"
+      },
+      "homeTeam": "SV Ried",
+      "awayTeam": "RB Salzburg",
+      "channels": [
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 1 HD",
+        "Sky Go (Austria)",
+        "Sky X (Austria)",
+        "Sky Go (Huawei, Austria)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-11T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "SV Atlas Delmenhorst",
+      "awayTeam": "SV Drochtersen/Assel",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "RW Oberhausen",
+      "awayTeam": "FC Schalke 04 II",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T19:30:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Eredivisie (Niederlande)",
+      "stage": {
+        "de": "06. Spieltag",
+        "tr": "06. Hafta",
+        "en": "Matchday 06"
+      },
+      "homeTeam": "AZ Alkmaar",
+      "awayTeam": "Willem II Tilburg",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)",
+        "blue Sport (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T20:00:00+02:00"
+    },
+    {
+      "time": "20:15",
+      "competition": "Challenge League (Schweiz)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "Étoile Carouge FC",
+      "awayTeam": "FC Winterthur",
+      "channels": [
+        "blue Sport",
+        "blue Zoom",
+        "blue Sport HD",
+        "blue Zoom HD",
+        "blue Sport (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T20:15:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "2. Liga (Österreich)",
+      "stage": {
+        "de": "06. Spieltag",
+        "tr": "06. Hafta",
+        "en": "Matchday 06"
+      },
+      "homeTeam": "FC Wacker Innsbruck",
+      "awayTeam": "ASK Voitsberg",
+      "channels": [
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T20:30:00+02:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Bundesliga",
       "stage": {
         "de": "03. Spieltag",
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Estrela Amadora",
-      "awayTeam": "Sporting Braga",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "FC Schalke 04",
       "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "Sportdigital.de (Livestream)"
+        "Sky Sport Bundesliga",
+        "Sky Sport Top Event",
+        "Sky Showcase HD",
+        "Sky Sport Bundesliga HD",
+        "Sky Sport Bundesliga UHD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-11T20:30:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Ligue 1 (Frankreich)",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Stade Rennes",
+      "awayTeam": "Olympique Marseille",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-11T20:45:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Jupiler Pro League (Belgien)",
+      "stage": {
+        "de": "06. Spieltag",
+        "tr": "06. Hafta",
+        "en": "Matchday 06"
+      },
+      "homeTeam": "KV Mechelen",
+      "awayTeam": "RSC Anderlecht",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-10T21:00:00+02:00"
+      "kickoff": "2026-09-11T20:45:00+02:00"
     },
     {
-      "time": "21:00",
-      "competition": "UEFA Champions League",
+      "time": "20:45",
+      "competition": "Serie A (Italien)",
       "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "Slavia Prag",
-      "awayTeam": "RC Lens",
+      "homeTeam": "Venedig FC",
+      "awayTeam": "AC Florenz",
       "channels": [
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 5",
-        "blue Sport",
-        "DAZN 2 HD"
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-09-10T21:00:00+02:00"
+      "kickoff": "2026-09-11T20:45:00+02:00"
     },
     {
-      "time": "21:00",
-      "competition": "UEFA Champions League",
+      "time": "20:45",
+      "competition": "Scottish League Cup",
       "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
+        "de": "Viertelfinale",
+        "tr": "Çeyrek Final",
+        "en": "Quarter-final"
       },
-      "homeTeam": "Manchester United",
-      "awayTeam": "Sabah FK",
+      "homeTeam": "FC Stenhousemuir",
+      "awayTeam": "Heart of Midlothian FC",
       "channels": [
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 4",
-        "blue Sport",
-        "DAZN 2 HD"
+        "Sportdigital Fussball",
+        "Sportdigital Fussball HD",
+        "Sportdigital.de (Livestream)",
+        "Sportdigital+ (App)",
+        "Sportdigital Fussball (MagentaSport)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-09-10T21:00:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-09-11T20:45:00+02:00"
     },
     {
       "time": "21:00",
-      "competition": "UEFA Champions League",
+      "competition": "La Liga (Spanien)",
       "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
       },
-      "homeTeam": "FC Bayern München",
-      "awayTeam": "FK Bodø/Glimt",
+      "homeTeam": "FC Sevilla",
+      "awayTeam": "FC Valencia",
       "channels": [
         "DAZN 1",
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 2",
-        "blue Sport"
+        "DAZN 1 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-09-10T21:00:00+02:00"
+      "kickoff": "2026-09-11T21:00:00+02:00"
     },
     {
       "time": "21:00",
-      "competition": "UEFA Champions League",
+      "competition": "Serie B (Italien)",
       "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "Como 1907",
-      "awayTeam": "RB Leipzig",
+      "homeTeam": "Pisa Sporting Club",
+      "awayTeam": "ACD Virtus Entella",
       "channels": [
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 3",
-        "blue Sport",
-        "DAZN 2 HD"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-09-10T21:00:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-09-11T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Serie B (Italien)",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Benevento Calcio",
+      "awayTeam": "Hellas Verona",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "EFL Championship (England)",
+      "stage": {
+        "de": "07. Spieltag",
+        "tr": "07. Hafta",
+        "en": "Matchday 07"
+      },
+      "homeTeam": "West Ham United",
+      "awayTeam": "Wrexham A.F.C.",
+      "channels": [
+        "Sky Sport Premier League",
+        "Sky Sport Premier League HD",
+        "Sky Go",
+        "WOW",
+        "Sky Go (Huawei)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-11T21:00:00+02:00"
     }
   ]
 }
