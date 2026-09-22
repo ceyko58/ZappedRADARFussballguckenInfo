@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-21",
-  "generatedAt": "2026-09-21T10:16:45.492Z",
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T09:32:06.976Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,98 +8,110 @@
     "en"
   ],
   "summary": {
-    "de": "5 Übertragungen heute, u.a. SV Werder Bremen ♀ - VfB Stuttgart ♀ (18:00 Uhr).",
-    "tr": "Bugün 5 yayın, SV Werder Bremen ♀ - VfB Stuttgart ♀ dahil (18:00).",
-    "en": "5 broadcasts today, including SV Werder Bremen ♀ - VfB Stuttgart ♀ (18:00)."
+    "de": "5 Übertragungen heute, u.a. Inter Mailand ♀ - BK Häcken FF ♀ (18:45 Uhr).",
+    "tr": "Bugün 5 yayın, Inter Mailand ♀ - BK Häcken FF ♀ dahil (18:45).",
+    "en": "5 broadcasts today, including Inter Mailand ♀ - BK Häcken FF ♀ (18:45)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
+      "time": "18:45",
+      "competition": "Champions League (Frauen)",
       "stage": {
-        "de": "21. Spieltag",
-        "tr": "21. Hafta",
-        "en": "Matchday 21"
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
       },
-      "homeTeam": "Bay FC ♀",
-      "awayTeam": "Racing Louisville FC ♀",
+      "homeTeam": "Inter Mailand ♀",
+      "awayTeam": "BK Häcken FF ♀",
       "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-21T01:00:00+02:00"
-    },
-    {
-      "time": "01:00",
-      "competition": "National Women’s Soccer League (NWSL)",
-      "stage": {
-        "de": "21. Spieltag",
-        "tr": "21. Hafta",
-        "en": "Matchday 21"
-      },
-      "homeTeam": "Utah Royals FC ♀",
-      "awayTeam": "Angel City FC ♀",
-      "channels": [
-        "NWSL+"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-21T01:00:00+02:00"
-    },
-    {
-      "time": "01:00",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "27. Spieltag",
-        "tr": "27. Hafta",
-        "en": "Matchday 27"
-      },
-      "homeTeam": "Inter Miami",
-      "awayTeam": "San Diego FC",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-21T01:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Regionalliga West",
-      "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
-      },
-      "homeTeam": "SC Paderborn 07 II",
-      "awayTeam": "Borussia Dortmund II",
-      "channels": [
-        "Leagues"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-21T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Frauen-Bundesliga",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "SV Werder Bremen ♀",
-      "awayTeam": "VfB Stuttgart ♀",
-      "channels": [
-        "DAZN 1",
-        "MagentaSport (Sat)",
-        "Sport1",
-        "DAZN 1 HD",
-        "MagentaSport HD"
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-09-21T18:00:00+02:00"
+      "kickoff": "2026-09-22T18:45:00+02:00"
+    },
+    {
+      "time": "18:45",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "FC Bayern München ♀",
+      "awayTeam": "Manchester City ♀",
+      "channels": [
+        "Disney+",
+        "ZDFmediathek",
+        "Disney+ (App)",
+        "ZDFmediathek (Android)",
+        "ZDFmediathek (iOS)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-22T18:45:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Juventus Turin ♀",
+      "awayTeam": "Benfica Lissabon ♀",
+      "channels": [
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-22T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "FC Arsenal WFC ♀",
+      "awayTeam": "HB Köge ♀",
+      "channels": [
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-22T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Real Madrid ♀",
+      "awayTeam": "Paris St. Germain ♀",
+      "channels": [
+        "l'Équipe",
+        "L'Équipe HD",
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-09-22T21:00:00+02:00"
     }
   ]
 }
