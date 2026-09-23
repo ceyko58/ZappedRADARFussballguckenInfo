@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-22T09:32:06.976Z",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T09:37:15.627Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,12 +8,106 @@
     "en"
   ],
   "summary": {
-    "de": "5 Übertragungen heute, u.a. Inter Mailand ♀ - BK Häcken FF ♀ (18:45 Uhr).",
-    "tr": "Bugün 5 yayın, Inter Mailand ♀ - BK Häcken FF ♀ dahil (18:45).",
-    "en": "5 broadcasts today, including Inter Mailand ♀ - BK Häcken FF ♀ (18:45)."
+    "de": "11 Übertragungen heute, u.a. Oud-Heverlee Leuven ♀ - AS Rom ♀ (18:45 Uhr).",
+    "tr": "Bugün 11 yayın, Oud-Heverlee Leuven ♀ - AS Rom ♀ dahil (18:45).",
+    "en": "11 broadcasts today, including Oud-Heverlee Leuven ♀ - AS Rom ♀ (18:45)."
   },
   "matches": [
     {
+      "time": "15:00",
+      "competition": "U20-WM (Frauen)",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Italien ♀ (U20)",
+      "awayTeam": "Spanien ♀ (U20)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-23T15:00:00+02:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "Arabian Gulf Cup",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
+      },
+      "homeTeam": "Irak",
+      "awayTeam": "Oman",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-23T16:30:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "UEFA Women's Europa Cup",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "FH Hafnarfjördur ♀",
+      "awayTeam": "Eintracht Frankfurt ♀",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-09-23T18:00:00+02:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "U20-WM (Frauen)",
+      "stage": {
+        "de": "Halbfinale",
+        "tr": "Yarı Final",
+        "en": "Semi-final"
+      },
+      "homeTeam": "Nordkorea ♀ (U20)",
+      "awayTeam": "Kolumbien ♀ (U20)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-23T18:30:00+02:00"
+    },
+    {
+      "time": "18:45",
+      "competition": "UEFA Women's Europa Cup",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "SKN St. Pölten ♀",
+      "awayTeam": "Malmö FF ♀",
+      "channels": [
+        "ORF Sport+",
+        "ORF Sport+ HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-23T18:45:00+02:00"
+    },
+    {
       "time": "18:45",
       "competition": "Champions League (Frauen)",
       "stage": {
@@ -21,8 +115,8 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "Inter Mailand ♀",
-      "awayTeam": "BK Häcken FF ♀",
+      "homeTeam": "Oud-Heverlee Leuven ♀",
+      "awayTeam": "AS Rom ♀",
       "channels": [
         "Disney+",
         "Disney+ (App)",
@@ -31,7 +125,7 @@
         "Disney+ (Chromecast)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-09-22T18:45:00+02:00"
+      "kickoff": "2026-09-23T18:45:00+02:00"
     },
     {
       "time": "18:45",
@@ -41,17 +135,56 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "FC Bayern München ♀",
-      "awayTeam": "Manchester City ♀",
+      "homeTeam": "Servette FC Chênois ♀",
+      "awayTeam": "OL Lyonnes ♀",
       "channels": [
+        "RTS 2",
+        "RTS 2 HD",
         "Disney+",
-        "ZDFmediathek",
-        "Disney+ (App)",
-        "ZDFmediathek (Android)",
-        "ZDFmediathek (iOS)"
+        "RTS 2 (Livestream)",
+        "RTS Sport"
       ],
       "isHighlight": true,
-      "kickoff": "2026-09-22T18:45:00+02:00"
+      "kickoff": "2026-09-23T18:45:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "UEFA Women's Europa Cup",
+      "stage": {
+        "de": "Qualifikation 2. Runde, Hinspiel",
+        "tr": "Eleme 2. Runde, İlk maç",
+        "en": "Qualification 2. Runde, First leg"
+      },
+      "homeTeam": "VfL Wolfsburg ♀",
+      "awayTeam": "SK Sturm Graz ♀",
+      "channels": [
+        "DF1",
+        "DF1 HD",
+        "DF1 (Livestream)",
+        "VfL Wolfsburg (YouTube)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-23T19:00:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Arabian Gulf Cup",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
+      },
+      "homeTeam": "Saudi Arabien",
+      "awayTeam": "Kuwait",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-23T20:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -61,8 +194,8 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "Juventus Turin ♀",
-      "awayTeam": "Benfica Lissabon ♀",
+      "homeTeam": "FC Barcelona ♀",
+      "awayTeam": "Paris FC ♀",
       "channels": [
         "Disney+",
         "Disney+ (App)",
@@ -71,7 +204,7 @@
         "Disney+ (Chromecast)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-09-22T21:00:00+02:00"
+      "kickoff": "2026-09-23T21:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -81,37 +214,17 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "FC Arsenal WFC ♀",
-      "awayTeam": "HB Köge ♀",
+      "homeTeam": "FC Chelsea LFC ♀",
+      "awayTeam": "FK Austria Wien ♀",
       "channels": [
+        "ORF Sport+",
+        "ORF Sport+ HD",
         "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
+        "ORF ON",
+        "Disney+ (App)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-09-22T21:00:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "Champions League (Frauen)",
-      "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
-      },
-      "homeTeam": "Real Madrid ♀",
-      "awayTeam": "Paris St. Germain ♀",
-      "channels": [
-        "l'Équipe",
-        "L'Équipe HD",
-        "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-09-22T21:00:00+02:00"
+      "kickoff": "2026-09-23T21:00:00+02:00"
     }
   ]
 }
