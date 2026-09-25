@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-24",
-  "generatedAt": "2026-09-24T09:36:50.275Z",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T09:53:58.883Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,30 +8,82 @@
     "en"
   ],
   "summary": {
-    "de": "13 Übertragungen heute, u.a. Ver. Arabische Emirate - Jemen (17:55 Uhr).",
-    "tr": "Bugün 13 yayın, Ver. Arabische Emirate - Jemen dahil (17:55).",
-    "en": "13 broadcasts today, including Ver. Arabische Emirate - Jemen (17:55)."
+    "de": "29 Übertragungen heute, u.a. Bergisch Gladbach 09 - Westfalia Rhynern (14:00 Uhr).",
+    "tr": "Bugün 29 yayın, Bergisch Gladbach 09 - Westfalia Rhynern dahil (14:00).",
+    "en": "29 broadcasts today, including Bergisch Gladbach 09 - Westfalia Rhynern (14:00)."
   },
   "matches": [
     {
-      "time": "17:55",
-      "competition": "Arabian Gulf Cup",
+      "time": "14:00",
+      "competition": "Regionalliga West",
       "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
       },
-      "homeTeam": "Ver. Arabische Emirate",
-      "awayTeam": "Jemen",
+      "homeTeam": "Bergisch Gladbach 09",
+      "awayTeam": "Westfalia Rhynern",
       "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
+        "Leagues"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T17:55:00+02:00"
+      "kickoff": "2026-09-25T14:00:00+02:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Afrika-Cup",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Mosambik",
+      "awayTeam": "Senegal",
+      "channels": [
+        "DAZN 1",
+        "DAZN 1 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T15:00:00+02:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "1. FC Heidenheim 1846",
+      "channels": [
+        "VfB-TV"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T16:30:00+02:00"
+    },
+    {
+      "time": "17:30",
+      "competition": "Länderspiel (U20)",
+      "stage": {
+        "de": "Elite League, 1. Spieltag",
+        "tr": "Elite League, 1. Hafta",
+        "en": "Elite League, Matchday 1"
+      },
+      "homeTeam": "Deutschland (U20)",
+      "awayTeam": "Frankreich (U20)",
+      "channels": [
+        "DFB.TV (via Sky)",
+        "DAZN",
+        "DFB.TV",
+        "DFB.TV (YouTube)",
+        "DFB.TV (via DAZN)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T17:30:00+02:00"
     },
     {
       "time": "18:00",
@@ -41,37 +93,264 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "Andorra",
-      "awayTeam": "Malta",
+      "homeTeam": "Armenien",
+      "awayTeam": "Lettland",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Nations League",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Georgien",
+      "awayTeam": "Nordirland",
       "channels": [
         "DAZN 1",
         "DAZN 1 HD",
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Afrika-Cup",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Nigeria",
+      "awayTeam": "Madagaskar",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
         "DAZN",
         "DAZN (App)",
         "DAZN (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T18:00:00+02:00"
+      "kickoff": "2026-09-25T18:00:00+02:00"
     },
     {
-      "time": "20:00",
-      "competition": "Arabian Gulf Cup",
+      "time": "18:30",
+      "competition": "Regionalliga Bayern",
       "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
       },
-      "homeTeam": "Katar",
-      "awayTeam": "Bahrain",
+      "homeTeam": "FC Bayern München II",
+      "awayTeam": "TSV Schwaben Augsburg",
       "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "OneFootball"
+        "FC Bayern.tv plus",
+        "FC Bayern.tv plus (mobil)",
+        "FC Bayern.tv plus (MagentaTV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T20:00:00+02:00"
+      "kickoff": "2026-09-25T18:30:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "SpVgg Greuther Fürth II",
+      "awayTeam": "1. FC Nürnberg II",
+      "channels": [
+        "BR (ARD Mediathek)",
+        "BR24 Sport (Livestream)",
+        "BR24 Sport (YouTube)",
+        "BR24 (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
+      },
+      "homeTeam": "1. FC Kaiserslautern II",
+      "awayTeam": "FSV Frankfurt",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "09. Spieltag",
+        "tr": "09. Hafta",
+        "en": "Matchday 09"
+      },
+      "homeTeam": "FC Astoria Walldorf",
+      "awayTeam": "SV Sandhausen",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "Hardtwald Hörfunk (Sandhausen)",
+        "OneFootball TV (Amazon FireTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Nordost",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "1. FC Magdeburg II",
+      "awayTeam": "VSG Altglienicke",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Nordost",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "BFC Dynamo",
+      "awayTeam": "Greifswalder FC",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Nordost",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "Tasmania Berlin",
+      "awayTeam": "Carl Zeiss Jena",
+      "channels": [
+        "FCC Radio (Carl Zeiss Jena)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "3. Liga",
+      "stage": {
+        "de": "07. Spieltag",
+        "tr": "07. Hafta",
+        "en": "Matchday 07"
+      },
+      "homeTeam": "TSV Havelse",
+      "awayTeam": "Fortuna Köln",
+      "channels": [
+        "MagentaSport (Sat)",
+        "MagentaSport HD",
+        "MagentaSport",
+        "OneFootball",
+        "MagentaSport (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "SV Todesfelde",
+      "awayTeam": "VfB Lübeck",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "FSV Schöningen",
+      "awayTeam": "SV Drochtersen/Assel",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "FC Gütersloh",
+      "awayTeam": "SC Paderborn 07 II",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "EM 2027 (U21)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Schweiz (U21)",
+      "awayTeam": "Luxemburg (U21)",
+      "channels": [
+        "RTS 2",
+        "RTS 2 HD",
+        "RTS 2 (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T19:30:00+02:00"
     },
     {
       "time": "20:45",
@@ -81,8 +360,8 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "Liechtenstein",
-      "awayTeam": "Litauen",
+      "homeTeam": "Montenegro",
+      "awayTeam": "Zypern",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -91,7 +370,7 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T20:45:00+02:00"
+      "kickoff": "2026-09-25T20:45:00+02:00"
     },
     {
       "time": "20:45",
@@ -101,8 +380,8 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "Kosovo",
-      "awayTeam": "Irland",
+      "homeTeam": "Schweden",
+      "awayTeam": "Rumänien",
       "channels": [
         "DAZN",
         "L'Équipe Live Football",
@@ -111,7 +390,7 @@
         "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T20:45:00+02:00"
+      "kickoff": "2026-09-25T20:45:00+02:00"
     },
     {
       "time": "20:45",
@@ -121,17 +400,17 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "Österreich",
-      "awayTeam": "Israel",
+      "homeTeam": "Polen",
+      "awayTeam": "Bosnien-Herzegowina",
       "channels": [
-        "ORF 1",
-        "ORF 1 HD",
         "DAZN",
-        "ORF ON",
-        "L'Équipe Live Football"
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T20:45:00+02:00"
+      "kickoff": "2026-09-25T20:45:00+02:00"
     },
     {
       "time": "20:45",
@@ -141,17 +420,37 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "Norwegen",
-      "awayTeam": "Dänemark",
+      "homeTeam": "Ungarn",
+      "awayTeam": "Ukraine",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T20:45:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Italien",
+      "awayTeam": "Belgien",
       "channels": [
         "DAZN 2",
+        "Rai 1",
         "DAZN 2 HD",
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)"
+        "Rai 1 HD",
+        "DAZN"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T20:45:00+02:00"
+      "kickoff": "2026-09-25T20:45:00+02:00"
     },
     {
       "time": "20:45",
@@ -161,57 +460,17 @@
         "tr": "01. Hafta",
         "en": "Matchday 01"
       },
-      "homeTeam": "Portugal",
-      "awayTeam": "Wales",
+      "homeTeam": "Türkei",
+      "awayTeam": "Frankreich",
       "channels": [
         "DAZN 1",
+        "TF1",
         "DAZN 1 HD",
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)"
+        "TF1 HD",
+        "DAZN"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
-      },
-      "homeTeam": "Serbien",
-      "awayTeam": "Griechenland",
-      "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-24T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "01. Spieltag",
-        "tr": "01. Hafta",
-        "en": "Matchday 01"
-      },
-      "homeTeam": "Niederlande",
-      "awayTeam": "Deutschland",
-      "channels": [
-        "RTL",
-        "RTL HD",
-        "RTL+",
-        "DAZN (Austria)",
-        "DAZN (Schweiz)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-09-24T20:45:00+02:00"
+      "kickoff": "2026-09-25T20:45:00+02:00"
     },
     {
       "time": "21:00",
@@ -221,8 +480,8 @@
         "tr": "Eleme",
         "en": "Qualification"
       },
-      "homeTeam": "Elfenbeinküste",
-      "awayTeam": "Ghana",
+      "homeTeam": "Algerien",
+      "awayTeam": "Sambia",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -231,7 +490,7 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T21:00:00+02:00"
+      "kickoff": "2026-09-25T21:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -241,8 +500,8 @@
         "tr": "Eleme",
         "en": "Qualification"
       },
-      "homeTeam": "Tunesien",
-      "awayTeam": "Uganda",
+      "homeTeam": "Marokko",
+      "awayTeam": "Gabun",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -251,7 +510,7 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T21:00:00+02:00"
+      "kickoff": "2026-09-25T21:00:00+02:00"
     },
     {
       "time": "21:00",
@@ -261,8 +520,8 @@
         "tr": "Eleme",
         "en": "Qualification"
       },
-      "homeTeam": "Kamerun",
-      "awayTeam": "Komoren",
+      "homeTeam": "Ägypten",
+      "awayTeam": "Angola",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -271,7 +530,27 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-09-24T21:00:00+02:00"
+      "kickoff": "2026-09-25T21:00:00+02:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Afrika-Cup",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Mali",
+      "awayTeam": "Kap Verde",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-09-25T21:00:00+02:00"
     }
   ]
 }
