@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-01",
-  "generatedAt": "2026-10-01T11:14:32.436Z",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T10:46:58.205Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,37 +8,41 @@
     "en"
   ],
   "summary": {
-    "de": "18 Übertragungen heute, u.a. HB Köge ♀ - Servette FC Chênois ♀ (18:45 Uhr).",
-    "tr": "Bugün 18 yayın, HB Köge ♀ - Servette FC Chênois ♀ dahil (18:45).",
-    "en": "18 broadcasts today, including HB Köge ♀ - Servette FC Chênois ♀ (18:45)."
+    "de": "23 Übertragungen heute, u.a. Bayer Leverkusen ♀ - SV Werder Bremen ♀ (18:30 Uhr).",
+    "tr": "Bugün 23 yayın, Bayer Leverkusen ♀ - SV Werder Bremen ♀ dahil (18:30).",
+    "en": "23 broadcasts today, including Bayer Leverkusen ♀ - SV Werder Bremen ♀ (18:30)."
   },
   "matches": [
     {
+      "time": "03:30",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "25. Spieltag",
+        "tr": "25. Hafta",
+        "en": "Matchday 25"
+      },
+      "homeTeam": "Seattle Sounders",
+      "awayTeam": "Sporting Kansas City",
+      "channels": [
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T03:30:00+02:00"
+    },
+    {
       "time": "11:00",
-      "competition": "Länderspiel (U16)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Deutschland (U16)",
-      "awayTeam": "Griechenland (U16)",
-      "channels": [
-        "DFB Verband (YouTube)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-01T11:00:00+02:00"
-    },
-    {
-      "time": "14:30",
       "competition": "FIFA ASEAN Cup",
       "stage": {
         "de": "Gruppenphase",
         "tr": "Grupnphase",
         "en": "Groupnphase"
       },
-      "homeTeam": "Indonesien",
-      "awayTeam": "Bangladesch",
+      "homeTeam": "Thailand",
+      "awayTeam": "Philippinen",
       "channels": [
         "DAZN",
         "FIFA+",
@@ -47,18 +51,18 @@
         "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T14:30:00+02:00"
+      "kickoff": "2026-10-02T11:00:00+02:00"
     },
     {
-      "time": "14:30",
+      "time": "11:00",
       "competition": "FIFA ASEAN Cup",
       "stage": {
         "de": "Gruppenphase",
         "tr": "Grupnphase",
         "en": "Groupnphase"
       },
-      "homeTeam": "Malaysia",
-      "awayTeam": "Singapur",
+      "homeTeam": "Vietnam",
+      "awayTeam": "Pakistan",
       "channels": [
         "DAZN",
         "FIFA+",
@@ -67,43 +71,83 @@
         "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T14:30:00+02:00"
+      "kickoff": "2026-10-02T11:00:00+02:00"
     },
     {
-      "time": "16:00",
-      "competition": "Länderspiel (U17)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Deutschland (U17)",
-      "awayTeam": "Israel (U17)",
-      "channels": [
-        "DFB.TV (via Sky)",
-        "DAZN",
-        "DFB (YouTube)",
-        "DFB.TV",
-        "DFB.TV (YouTube)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-01T16:00:00+02:00"
-    },
-    {
-      "time": "17:30",
+      "time": "13:00",
       "competition": "Freundschaftsspiel",
       "stage": {
         "de": "",
         "tr": "",
         "en": ""
       },
-      "homeTeam": "VfB Stuttgart",
-      "awayTeam": "SpVgg Greuther Fürth",
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "Hertha BSC",
       "channels": [
-        "VfB-TV"
+        "FCA TV (Augsburg)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T17:30:00+02:00"
+      "kickoff": "2026-10-02T13:00:00+02:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Freundschaftsspiel",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "Eintracht Braunschweig",
+      "channels": [
+        "Sky Sport Bundesliga",
+        "Sky Sport News",
+        "Sky Sport Bundesliga HD",
+        "Sky Sport News HD",
+        "EintrachtTV (Frankfurt)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T15:30:00+02:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Nations League",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "Kasachstan",
+      "awayTeam": "Republik Moldau",
+      "channels": [
+        "DAZN 1",
+        "DAZN 1 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T16:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "EM 2027 (U21)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Österreich (U21)",
+      "awayTeam": "Dänemark (U21)",
+      "channels": [
+        "ORF Sport+",
+        "ORF Sport+ HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T18:00:00+02:00"
     },
     {
       "time": "18:00",
@@ -113,8 +157,8 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Aserbaidschan",
-      "awayTeam": "Liechtenstein",
+      "homeTeam": "Lettland",
+      "awayTeam": "Montenegro",
       "channels": [
         "DAZN 1",
         "DAZN 1 HD",
@@ -123,65 +167,155 @@
         "DAZN (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T18:00:00+02:00"
+      "kickoff": "2026-10-02T18:00:00+02:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Nations League",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "Zypern",
+      "awayTeam": "Armenien",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T18:00:00+02:00"
     },
     {
       "time": "18:30",
-      "competition": "EM 2027 (U21)",
+      "competition": "Frauen-Bundesliga",
       "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
+        "de": "06. Spieltag",
+        "tr": "06. Hafta",
+        "en": "Matchday 06"
       },
-      "homeTeam": "Armenien (U21)",
-      "awayTeam": "Italien (U21)",
+      "homeTeam": "Bayer Leverkusen ♀",
+      "awayTeam": "SV Werder Bremen ♀",
       "channels": [
-        "Rai 2",
-        "Rai 2 HD",
-        "Rai 2 (RaiPlay)"
+        "MagentaSport (Sat)",
+        "MagentaSport HD",
+        "DAZN",
+        "MagentaSport",
+        "OneFootball"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-10-02T18:30:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Women's Super League (Schweiz)",
+      "stage": {
+        "de": "08. Spieltag",
+        "tr": "08. Hafta",
+        "en": "Matchday 08"
+      },
+      "homeTeam": "Grasshopper Club Zürich ♀",
+      "awayTeam": "FC Zürich ♀",
+      "channels": [
+        "AWSL Play"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T18:30:00+02:00"
+      "kickoff": "2026-10-02T19:00:00+02:00"
     },
     {
-      "time": "18:45",
-      "competition": "Champions League (Frauen)",
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
       "stage": {
-        "de": "02. Spieltag",
-        "tr": "02. Hafta",
-        "en": "Matchday 02"
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
       },
-      "homeTeam": "HB Köge ♀",
-      "awayTeam": "Servette FC Chênois ♀",
+      "homeTeam": "SpVgg Unterhaching",
+      "awayTeam": "1. FC Schweinfurt 05",
       "channels": [
-        "RTS 2",
-        "RTS 2 HD",
-        "Disney+",
-        "RTS 2 (Livestream)",
-        "RTS Sport"
+        "BR (ARD Mediathek)",
+        "BR24 Sport (Livestream)",
+        "BR24 Sport (YouTube)",
+        "BR24 (App)",
+        "Haching FM (SpVgg Unterhaching)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-10-01T18:45:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-10-02T19:00:00+02:00"
     },
     {
-      "time": "18:45",
-      "competition": "Champions League (Frauen)",
+      "time": "19:00",
+      "competition": "Regionalliga Südwest",
       "stage": {
-        "de": "02. Spieltag",
-        "tr": "02. Hafta",
-        "en": "Matchday 02"
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
       },
-      "homeTeam": "FK Austria Wien ♀",
-      "awayTeam": "Inter Mailand ♀",
+      "homeTeam": "SV Sandhausen",
+      "awayTeam": "1. FC Kaiserslautern II",
       "channels": [
-        "ORF Sport+",
-        "ORF Sport+ HD",
-        "Disney+",
-        "ORF ON",
-        "Disney+ (App)"
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "Hardtwald Hörfunk (Sandhausen)",
+        "OneFootball TV (Amazon FireTV)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-10-01T18:45:00+02:00"
+      "isHighlight": false,
+      "kickoff": "2026-10-02T19:00:00+02:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "Stuttgarter Kickers",
+      "awayTeam": "Kickers Offenbach",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "OFC-Fanradio (Offenbach)",
+        "Waldauradio (Stu. Kickers)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T19:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "Borussia Mönchengladbach II",
+      "awayTeam": "VfL Bochum II",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T19:30:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "Bonner SC",
+      "awayTeam": "Westfalia Rhynern",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T19:30:00+02:00"
     },
     {
       "time": "20:45",
@@ -191,8 +325,8 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Malta",
-      "awayTeam": "Gibraltar",
+      "homeTeam": "Färöer Inseln",
+      "awayTeam": "Slowakei",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -201,7 +335,7 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T20:45:00+02:00"
+      "kickoff": "2026-10-02T20:45:00+02:00"
     },
     {
       "time": "20:45",
@@ -211,28 +345,8 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Irland",
-      "awayTeam": "Österreich",
-      "channels": [
-        "ORF 1",
-        "ORF 1 HD",
-        "DAZN",
-        "ORF ON",
-        "L'Équipe Live Football"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-01T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
-      },
-      "homeTeam": "Israel",
-      "awayTeam": "Kosovo",
+      "homeTeam": "Bosnien-Herzegowina",
+      "awayTeam": "Schweden",
       "channels": [
         "DAZN",
         "L'Équipe Live Football",
@@ -241,7 +355,7 @@
         "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T20:45:00+02:00"
+      "kickoff": "2026-10-02T20:45:00+02:00"
     },
     {
       "time": "20:45",
@@ -251,8 +365,8 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Wales",
-      "awayTeam": "Norwegen",
+      "homeTeam": "Polen",
+      "awayTeam": "Rumänien",
       "channels": [
         "DAZN",
         "L'Équipe Live Football",
@@ -261,7 +375,7 @@
         "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T20:45:00+02:00"
+      "kickoff": "2026-10-02T20:45:00+02:00"
     },
     {
       "time": "20:45",
@@ -271,17 +385,57 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Dänemark",
-      "awayTeam": "Portugal",
+      "homeTeam": "Ukraine",
+      "awayTeam": "Nordirland",
       "channels": [
-        "DAZN 1",
-        "20 (Mediaset)",
-        "DAZN 1 HD",
-        "20 HD",
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T20:45:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "Ungarn",
+      "awayTeam": "Georgien",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-02T20:45:00+02:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "03. Spieltag",
+        "tr": "03. Hafta",
+        "en": "Matchday 03"
+      },
+      "homeTeam": "Belgien",
+      "awayTeam": "Türkei",
+      "channels": [
+        "DAZN 2",
+        "l'Équipe",
+        "DAZN 2 HD",
+        "L'Équipe HD",
         "DAZN"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T20:45:00+02:00"
+      "kickoff": "2026-10-02T20:45:00+02:00"
     },
     {
       "time": "20:45",
@@ -291,77 +445,17 @@
         "tr": "03. Hafta",
         "en": "Matchday 03"
       },
-      "homeTeam": "Griechenland",
-      "awayTeam": "Niederlande",
+      "homeTeam": "Frankreich",
+      "awayTeam": "Italien",
       "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
+        "DAZN 1",
+        "Rai 1",
+        "RSI LA 2",
+        "RTS 2",
+        "SRF zwei"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-01T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
-      },
-      "homeTeam": "Deutschland",
-      "awayTeam": "Serbien",
-      "channels": [
-        "ZDF",
-        "ZDF HD",
-        "ZDFmediathek",
-        "DAZN (Austria)",
-        "DAZN (Schweiz)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-01T20:45:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "Champions League (Frauen)",
-      "stage": {
-        "de": "02. Spieltag",
-        "tr": "02. Hafta",
-        "en": "Matchday 02"
-      },
-      "homeTeam": "Manchester City ♀",
-      "awayTeam": "Real Madrid ♀",
-      "channels": [
-        "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-10-01T21:00:00+02:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "Champions League (Frauen)",
-      "stage": {
-        "de": "02. Spieltag",
-        "tr": "02. Hafta",
-        "en": "Matchday 02"
-      },
-      "homeTeam": "Paris St. Germain ♀",
-      "awayTeam": "Oud-Heverlee Leuven ♀",
-      "channels": [
-        "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-10-01T21:00:00+02:00"
+      "kickoff": "2026-10-02T20:45:00+02:00"
     }
   ]
 }
