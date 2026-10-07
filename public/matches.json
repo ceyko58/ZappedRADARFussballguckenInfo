@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-06",
-  "generatedAt": "2026-10-06T11:35:04.851Z",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T11:24:36.121Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,345 +8,130 @@
     "en"
   ],
   "summary": {
-    "de": "17 Übertragungen heute, u.a. SV Werder Bremen II - Hannover 96 II (14:00 Uhr).",
-    "tr": "Bugün 17 yayın, SV Werder Bremen II - Hannover 96 II dahil (14:00).",
-    "en": "17 broadcasts today, including SV Werder Bremen II - Hannover 96 II (14:00)."
+    "de": "6 Übertragungen heute, u.a. Argentinien - Benin (01:00 Uhr).",
+    "tr": "Bugün 6 yayın, Argentinien - Benin dahil (01:00).",
+    "en": "6 broadcasts today, including Argentinien - Benin (01:00)."
   },
   "matches": [
     {
-      "time": "14:00",
-      "competition": "Regionalliga Nord",
+      "time": "01:00",
+      "competition": "Länderspiel (Herren)",
       "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
+        "de": "",
+        "tr": "",
+        "en": ""
       },
-      "homeTeam": "SV Werder Bremen II",
-      "awayTeam": "Hannover 96 II",
-      "channels": [
-        "Leagues"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T14:00:00+02:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "Nations League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Kasachstan",
-      "awayTeam": "Färöer Inseln",
-      "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T16:00:00+02:00"
-    },
-    {
-      "time": "17:30",
-      "competition": "EM 2027 (U21)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Nordirland (U21)",
-      "awayTeam": "Griechenland (U21)",
-      "channels": [
-        "DFB.TV (via Sky)",
-        "DAZN",
-        "DFB.TV",
-        "DFB.TV (YouTube)",
-        "DFB.TV (via DAZN)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T17:30:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "EM 2027 (U21)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Wales (U21)",
-      "awayTeam": "Österreich (U21)",
-      "channels": [
-        "ORF Sport+",
-        "ORF Sport+ HD",
-        "ORF ON",
-        "ORF ON (App)",
-        "ORF ON (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T18:00:00+02:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "EM 2027 (U21)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Deutschland (U21)",
-      "awayTeam": "Georgien (U21)",
-      "channels": [
-        "ProSieben MAXX",
-        "ProSieben MAXX HD",
-        "Joyn.de",
-        "ProSieben MAXX (App)",
-        "ProSieben MAXX (Amazon)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T18:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "EM 2027 (U21)",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Frankreich (U21)",
-      "awayTeam": "Schweiz (U21)",
-      "channels": [
-        "RSI LA 2",
-        "RSI LA 2 HD",
-        "Play RSI (Livestream)",
-        "Play RSI (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T19:00:00+02:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Landespokal Bayern",
-      "stage": {
-        "de": "Viertelfinale",
-        "tr": "Çeyrek Final",
-        "en": "Quarter-final"
-      },
-      "homeTeam": "SpVgg Unterhaching",
-      "awayTeam": "SSV Jahn Regensburg",
-      "channels": [
-        "münchen.tv",
-        "münchen.tv (Smart TV)",
-        "münchen.tv HD",
-        "münchen.tv (Livestream)",
-        "Haching FM (SpVgg Unterhaching)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T19:00:00+02:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Arabian Gulf Cup",
-      "stage": {
-        "de": "Finale",
-        "tr": "Final",
-        "en": "Final"
-      },
-      "homeTeam": "Saudi Arabien",
-      "awayTeam": "Ver. Arabische Emirate",
+      "homeTeam": "Argentinien",
+      "awayTeam": "Benin",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
         "Sportdigital Fussball HD",
         "blue Sport HD",
-        "Sportdigital.de (Livestream)"
+        "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-06T20:00:00+02:00"
+      "kickoff": "2026-10-07T01:00:00+02:00"
     },
     {
-      "time": "20:45",
-      "competition": "Nations League",
+      "time": "02:30",
+      "competition": "Major League Soccer (MLS)",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "16. Spieltag",
+        "tr": "16. Hafta",
+        "en": "Matchday 16"
       },
-      "homeTeam": "Luxemburg",
-      "awayTeam": "Bulgarien",
+      "homeTeam": "Chicago Fire",
+      "awayTeam": "Vancouver Whitecaps",
       "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
+      "kickoff": "2026-10-07T02:30:00+02:00"
     },
     {
-      "time": "20:45",
-      "competition": "Nations League",
+      "time": "14:00",
+      "competition": "ASEAN Club Championship",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
       },
-      "homeTeam": "Estland",
-      "awayTeam": "Island",
+      "homeTeam": "Kuching City",
+      "awayTeam": "Tampines Rovers Singapore FC",
       "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
+      "kickoff": "2026-10-07T14:00:00+02:00"
     },
     {
-      "time": "20:45",
-      "competition": "Nations League",
+      "time": "14:00",
+      "competition": "ASEAN Club Championship",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
       },
-      "homeTeam": "Republik Moldau",
-      "awayTeam": "Slowakei",
+      "homeTeam": "Ratchaburi FC",
+      "awayTeam": "Ho Chi Minh City FC",
       "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
+      "kickoff": "2026-10-07T14:00:00+02:00"
     },
     {
-      "time": "20:45",
-      "competition": "Nations League",
+      "time": "14:00",
+      "competition": "ASEAN Club Championship",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
       },
-      "homeTeam": "Belarus",
-      "awayTeam": "Finnland",
+      "homeTeam": "Buriram United",
+      "awayTeam": "Borneo FC",
       "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
+      "kickoff": "2026-10-07T14:00:00+02:00"
     },
     {
-      "time": "20:45",
-      "competition": "Nations League",
+      "time": "18:00",
+      "competition": "Veikkausliiga (Finnland)",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "",
+        "tr": "",
+        "en": ""
       },
-      "homeTeam": "Albanien",
-      "awayTeam": "San Marino",
+      "homeTeam": "IF Gnistan",
+      "awayTeam": "Inter Turku",
       "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Schweiz",
-      "awayTeam": "Nordmazedonien",
-      "channels": [
-        "RSI LA 2",
-        "RTS 2",
-        "SRF zwei",
-        "RSI LA 2 HD",
-        "RTS 2 HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Schottland",
-      "awayTeam": "Slowenien",
-      "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "England",
-      "awayTeam": "Tschechien",
-      "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Kroatien",
-      "awayTeam": "Spanien",
-      "channels": [
-        "DAZN 1",
-        "20 (Mediaset)",
-        "DAZN 1 HD",
-        "20 HD",
-        "DAZN"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-06T20:45:00+02:00"
+      "kickoff": "2026-10-07T18:00:00+02:00"
     }
   ]
 }
