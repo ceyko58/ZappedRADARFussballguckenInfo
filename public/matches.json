@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-07T11:24:36.121Z",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T11:40:14.641Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,21 +8,21 @@
     "en"
   ],
   "summary": {
-    "de": "6 Übertragungen heute, u.a. Argentinien - Benin (01:00 Uhr).",
-    "tr": "Bugün 6 yayın, Argentinien - Benin dahil (01:00).",
-    "en": "6 broadcasts today, including Argentinien - Benin (01:00)."
+    "de": "8 Übertragungen heute, u.a. SC Internacional Porto Alegre - Corinthians Sao Paulo (00:30 Uhr).",
+    "tr": "Bugün 8 yayın, SC Internacional Porto Alegre - Corinthians Sao Paulo dahil (00:30).",
+    "en": "8 broadcasts today, including SC Internacional Porto Alegre - Corinthians Sao Paulo (00:30)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "Länderspiel (Herren)",
+      "time": "00:30",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
       "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
+        "de": "29. Spieltag",
+        "tr": "29. Hafta",
+        "en": "Matchday 29"
       },
-      "homeTeam": "Argentinien",
-      "awayTeam": "Benin",
+      "homeTeam": "SC Internacional Porto Alegre",
+      "awayTeam": "Corinthians Sao Paulo",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
@@ -31,27 +31,7 @@
         "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-07T01:00:00+02:00"
-    },
-    {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
-      "stage": {
-        "de": "16. Spieltag",
-        "tr": "16. Hafta",
-        "en": "Matchday 16"
-      },
-      "homeTeam": "Chicago Fire",
-      "awayTeam": "Vancouver Whitecaps",
-      "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-10-07T02:30:00+02:00"
+      "kickoff": "2026-10-08T00:30:00+02:00"
     },
     {
       "time": "14:00",
@@ -61,8 +41,8 @@
         "tr": "Grupnphase",
         "en": "Groupnphase"
       },
-      "homeTeam": "Kuching City",
-      "awayTeam": "Tampines Rovers Singapore FC",
+      "homeTeam": "Lion City Sailors",
+      "awayTeam": "Cong An Ha Noi FC",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -71,7 +51,7 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-07T14:00:00+02:00"
+      "kickoff": "2026-10-08T14:00:00+02:00"
     },
     {
       "time": "14:00",
@@ -81,8 +61,8 @@
         "tr": "Grupnphase",
         "en": "Groupnphase"
       },
-      "homeTeam": "Ratchaburi FC",
-      "awayTeam": "Ho Chi Minh City FC",
+      "homeTeam": "Port FC",
+      "awayTeam": "Persib Bandung",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -91,7 +71,7 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-07T14:00:00+02:00"
+      "kickoff": "2026-10-08T14:00:00+02:00"
     },
     {
       "time": "14:00",
@@ -101,8 +81,8 @@
         "tr": "Grupnphase",
         "en": "Groupnphase"
       },
-      "homeTeam": "Buriram United",
-      "awayTeam": "Borneo FC",
+      "homeTeam": "Johor Darul Takzim FC",
+      "awayTeam": "Svay Rieng FC",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -111,7 +91,27 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-07T14:00:00+02:00"
+      "kickoff": "2026-10-08T14:00:00+02:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Veikkausliiga (Finnland)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "HJK Helsinki",
+      "awayTeam": "Vaasan PS",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-08T17:00:00+02:00"
     },
     {
       "time": "18:00",
@@ -121,8 +121,8 @@
         "tr": "",
         "en": ""
       },
-      "homeTeam": "IF Gnistan",
-      "awayTeam": "Inter Turku",
+      "homeTeam": "Kuopion PS",
+      "awayTeam": "AC Oulu",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -131,7 +131,47 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-10-07T18:00:00+02:00"
+      "kickoff": "2026-10-08T18:00:00+02:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "SuperLiga (Rumänien)",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "CFR Cluj",
+      "awayTeam": "FC Universitatea Cluj",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-08T19:30:00+02:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Länderspiel (U23 Frauen)",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
+      },
+      "homeTeam": "Schottland ♀ (U23)",
+      "awayTeam": "Deutschland ♀ (U23)",
+      "channels": [
+        "DF1",
+        "DFB.TV (via Sky)",
+        "DF1 HD",
+        "DAZN",
+        "DF1 (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-10-08T20:00:00+02:00"
     }
   ]
 }
