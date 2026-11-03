@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T12:56:29.533Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T12:28:06.840Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,121 +8,97 @@
     "en"
   ],
   "summary": {
-    "de": "18 Übertragungen heute, u.a. Pakhtakor Tashkent FK - Al-Nassr FC (14:45 Uhr).",
-    "tr": "Bugün 18 yayın, Pakhtakor Tashkent FK - Al-Nassr FC dahil (14:45).",
-    "en": "18 broadcasts today, including Pakhtakor Tashkent FK - Al-Nassr FC (14:45)."
+    "de": "12 Übertragungen heute, u.a. Galatasaray Istanbul - VfB Stuttgart (18:45 Uhr).",
+    "tr": "Bugün 12 yayın, Galatasaray Istanbul - VfB Stuttgart dahil (18:45).",
+    "en": "12 broadcasts today, including Galatasaray Istanbul - VfB Stuttgart (18:45)."
   },
   "matches": [
     {
-      "time": "01:00",
-      "competition": "Major League Soccer (MLS)",
+      "time": "14:00",
+      "competition": "UEFA Youth League",
       "stage": {
-        "de": "34. Spieltag",
-        "tr": "34. Hafta",
-        "en": "Matchday 34"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "New England Revolution",
-      "awayTeam": "Inter Miami",
+      "homeTeam": "Manchester United (U19)",
+      "awayTeam": "AS Rom (U19)",
       "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
+        "UEFA.tv"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-02T01:00:00+01:00"
+      "kickoff": "2026-11-03T14:00:00+01:00"
     },
     {
-      "time": "02:30",
-      "competition": "Major League Soccer (MLS)",
+      "time": "16:00",
+      "competition": "UEFA Youth League",
       "stage": {
-        "de": "34. Spieltag",
-        "tr": "34. Hafta",
-        "en": "Matchday 34"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "Los Angeles FC",
-      "awayTeam": "Minnesota United FC",
+      "homeTeam": "Atletico Madrid (U19)",
+      "awayTeam": "FC Bayern München (U19)",
       "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
+        "Sky Sport Austria 1",
+        "blue Sport",
+        "blue Zoom",
+        "Sky Sport Austria 1 HD",
+        "blue Sport HD"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-02T02:30:00+01:00"
+      "kickoff": "2026-11-03T16:00:00+01:00"
     },
     {
-      "time": "03:45",
-      "competition": "Major League Soccer (MLS)",
+      "time": "18:45",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "34. Spieltag",
-        "tr": "34. Hafta",
-        "en": "Matchday 34"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "Portland Timbers",
-      "awayTeam": "Houston Dynamo",
+      "homeTeam": "Galatasaray Istanbul",
+      "awayTeam": "VfB Stuttgart",
       "channels": [
-        "Apple TV",
-        "Apple TV (App)",
-        "Apple TV (PlayStation)",
-        "Apple TV (Set-Top-Box)",
-        "Apple TV (Xbox)"
+        "DAZN 1",
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 3",
+        "blue Sport"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-11-02T03:45:00+01:00"
+      "isHighlight": true,
+      "kickoff": "2026-11-03T18:45:00+01:00"
     },
     {
-      "time": "12:00",
-      "competition": "Premjer Liha (Ukraine)",
+      "time": "18:45",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "FK Sorja Luhansk",
-      "awayTeam": "Epitsentr Kamianets-Podilskyi",
+      "homeTeam": "Schachtjor Donezk",
+      "awayTeam": "Sporting Lissabon",
       "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 4",
+        "blue Sport",
+        "DAZN 2 HD"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-11-02T12:00:00+01:00"
+      "isHighlight": true,
+      "kickoff": "2026-11-03T18:45:00+01:00"
     },
     {
-      "time": "12:00",
-      "competition": "Premjer Liha (Ukraine)",
-      "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
-      },
-      "homeTeam": "Krywbas Krywyj Rih",
-      "awayTeam": "Dynamo Kiew",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-02T12:00:00+01:00"
-    },
-    {
-      "time": "14:45",
+      "time": "19:15",
       "competition": "AFC Champions League Elite",
       "stage": {
         "de": "04. Spieltag",
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "Pakhtakor Tashkent FK",
-      "awayTeam": "Al-Nassr FC",
+      "homeTeam": "Al-Hilal Riad",
+      "awayTeam": "Shabab Al-Ahli Dubai",
       "channels": [
         "Sportdigital1+",
         "blue Sport",
@@ -131,247 +107,146 @@
         "Sportdigital1+ (Livestream)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-02T14:45:00+01:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Vaasan PS",
-      "awayTeam": "HJK Helsinki",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-02T17:00:00+01:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Veikkausliiga (Finnland)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Inter Turku",
-      "awayTeam": "IF Gnistan",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-02T17:00:00+01:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "Premjer Liha (Ukraine)",
-      "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
-      },
-      "homeTeam": "Karpaty Lwiw",
-      "awayTeam": "FC Kudrivka",
-      "channels": [
-        "OneFootball",
-        "OneFootball (App)",
-        "OneFootball TV (Amazon FireTV)",
-        "OneFootball TV (Android/Google TV)",
-        "OneFootball TV (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-02T17:00:00+01:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "DFB-Pokal (Frauen)",
-      "stage": {
-        "de": "Achtelfinale",
-        "tr": "Son 16 Turu",
-        "en": "Round of 16"
-      },
-      "homeTeam": "VfL Wolfsburg ♀",
-      "awayTeam": "1899 Hoffenheim ♀",
-      "channels": [
-        "Sky Sport Mix",
-        "Sky Sport Top Event",
-        "Sky Sport Mix HD",
-        "Sky Sport Top Event HD",
-        "Sky Go"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-02T18:00:00+01:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "10. Spieltag",
-        "tr": "10. Hafta",
-        "en": "Matchday 10"
-      },
-      "homeTeam": "US Sassuolo Calcio",
-      "awayTeam": "AC Florenz",
-      "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-02T18:30:00+01:00"
-    },
-    {
-      "time": "20:30",
-      "competition": "Serie A Femminile (Italien)",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "AC Florenz ♀",
-      "awayTeam": "Juventus Turin ♀",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-02T20:30:00+01:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Serie A (Italien)",
-      "stage": {
-        "de": "10. Spieltag",
-        "tr": "10. Hafta",
-        "en": "Matchday 10"
-      },
-      "homeTeam": "Atalanta Bergamo",
-      "awayTeam": "Parma Calcio 1913",
-      "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-02T20:45:00+01:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Ligue 2 (Frankreich)",
-      "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
-      },
-      "homeTeam": "Stade de Reims",
-      "awayTeam": "FC Sochaux",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-02T20:45:00+01:00"
+      "kickoff": "2026-11-03T19:15:00+01:00"
     },
     {
       "time": "21:00",
-      "competition": "Premier League (England)",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "Newcastle United",
-      "awayTeam": "FC Everton",
+      "homeTeam": "FC Villarreal",
+      "awayTeam": "Paris St. Germain",
       "channels": [
-        "Sky Sport Premier League",
-        "Sky Sport Top Event",
+        "DAZN 2",
         "Sky Sport Austria 1",
-        "Canal+ (via Blue Sport)",
-        "Sky Sport Premier League HD"
+        "Sky Sport Austria 6",
+        "blue Sport",
+        "DAZN 2 HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-02T21:00:00+01:00"
+      "kickoff": "2026-11-03T21:00:00+01:00"
     },
     {
       "time": "21:00",
-      "competition": "La Liga (Spanien)",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "Deportivo La Coruña",
-      "awayTeam": "CA Osasuna",
+      "homeTeam": "Manchester United",
+      "awayTeam": "AS Rom",
+      "channels": [
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 5",
+        "blue Sport",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-03T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Linzer ASK",
+      "awayTeam": "Slovan Bratislava",
+      "channels": [
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 2",
+        "blue Sport",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-03T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Feyenoord Rotterdam",
+      "awayTeam": "Inter Mailand",
+      "channels": [
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 7",
+        "blue Sport",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-03T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "FK Bodø/Glimt",
+      "awayTeam": "OSC Lille",
+      "channels": [
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 8",
+        "blue Sport",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-03T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Aston Villa",
       "channels": [
         "DAZN 1",
-        "DAZN 1 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 4",
+        "blue Sport"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-02T21:00:00+01:00"
+      "kickoff": "2026-11-03T21:00:00+01:00"
     },
     {
       "time": "21:00",
-      "competition": "La Liga 2 (Spanien)",
+      "competition": "UEFA Champions League",
       "stage": {
-        "de": "12. Spieltag",
-        "tr": "12. Hafta",
-        "en": "Matchday 12"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "RCD Mallorca",
-      "awayTeam": "FC Cádiz",
+      "homeTeam": "Atletico Madrid",
+      "awayTeam": "FC Bayern München",
       "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 3",
+        "blue Sport",
+        "Sky Sport Austria 1 HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-02T21:00:00+01:00"
-    },
-    {
-      "time": "21:15",
-      "competition": "Liga Portugal",
-      "stage": {
-        "de": "10. Spieltag",
-        "tr": "10. Hafta",
-        "en": "Matchday 10"
-      },
-      "homeTeam": "Benfica Lissabon",
-      "awayTeam": "FC Alverca",
-      "channels": [
-        "OneFootball",
-        "Sportdigital.de (Livestream)",
-        "OneFootball (App)",
-        "Sportdigital+ (App)",
-        "OneFootball TV (Amazon FireTV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-02T21:15:00+01:00"
+      "kickoff": "2026-11-03T21:00:00+01:00"
     }
   ]
 }
