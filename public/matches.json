@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-03",
-  "generatedAt": "2026-11-03T12:28:06.840Z",
+  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T12:39:16.875Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,11 +8,71 @@
     "en"
   ],
   "summary": {
-    "de": "12 Übertragungen heute, u.a. Galatasaray Istanbul - VfB Stuttgart (18:45 Uhr).",
-    "tr": "Bugün 12 yayın, Galatasaray Istanbul - VfB Stuttgart dahil (18:45).",
-    "en": "12 broadcasts today, including Galatasaray Istanbul - VfB Stuttgart (18:45)."
+    "de": "16 Übertragungen heute, u.a. Melbourne Victory - Persib Bandung (08:45 Uhr).",
+    "tr": "Bugün 16 yayın, Melbourne Victory - Persib Bandung dahil (08:45).",
+    "en": "16 broadcasts today, including Melbourne Victory - Persib Bandung (08:45)."
   },
   "matches": [
+    {
+      "time": "08:45",
+      "competition": "AFC Champions League Two",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Melbourne Victory",
+      "awayTeam": "Persib Bandung",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)",
+        "blue Sport (Livestream)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-04T08:45:00+01:00"
+    },
+    {
+      "time": "11:00",
+      "competition": "AFC Champions League Two",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "FC Seoul",
+      "awayTeam": "Viettel FC",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)",
+        "blue Sport (Livestream)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-04T11:00:00+01:00"
+    },
+    {
+      "time": "13:15",
+      "competition": "AFC Champions League Elite",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Buriram United",
+      "awayTeam": "Kashima Antlers",
+      "channels": [
+        "Sportdigital1+",
+        "blue Sport",
+        "Sportdigital1+ HD",
+        "blue Sport HD",
+        "Sportdigital1+ (Livestream)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-04T13:15:00+01:00"
+    },
     {
       "time": "14:00",
       "competition": "UEFA Youth League",
@@ -21,13 +81,13 @@
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "Manchester United (U19)",
-      "awayTeam": "AS Rom (U19)",
+      "homeTeam": "RC Lens (U19)",
+      "awayTeam": "Como 1907 (U19)",
       "channels": [
         "UEFA.tv"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-03T14:00:00+01:00"
+      "kickoff": "2026-11-04T14:00:00+01:00"
     },
     {
       "time": "16:00",
@@ -37,17 +97,37 @@
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "Atletico Madrid (U19)",
-      "awayTeam": "FC Bayern München (U19)",
+      "homeTeam": "Borussia Dortmund (U19)",
+      "awayTeam": "Real Betis Balompié (U19)",
       "channels": [
         "Sky Sport Austria 1",
-        "blue Sport",
-        "blue Zoom",
         "Sky Sport Austria 1 HD",
-        "blue Sport HD"
+        "DAZN",
+        "UEFA.tv",
+        "Sky Go (Austria)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-03T16:00:00+01:00"
+      "kickoff": "2026-11-04T16:00:00+01:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "UEFA Europa League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Stade Rennes",
+      "awayTeam": "Olympiakos Piräus",
+      "channels": [
+        "Sky Sport Mix",
+        "Sky Sport Austria 2",
+        "blue Sport",
+        "Sky Sport Mix HD",
+        "Sky Sport Austria 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-04T16:30:00+01:00"
     },
     {
       "time": "18:45",
@@ -57,8 +137,8 @@
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "Galatasaray Istanbul",
-      "awayTeam": "VfB Stuttgart",
+      "homeTeam": "Fenerbahçe Istanbul",
+      "awayTeam": "FC Liverpool",
       "channels": [
         "DAZN 1",
         "DAZN 2",
@@ -67,7 +147,7 @@
         "blue Sport"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-03T18:45:00+01:00"
+      "kickoff": "2026-11-04T18:45:00+01:00"
     },
     {
       "time": "18:45",
@@ -77,8 +157,8 @@
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "Schachtjor Donezk",
-      "awayTeam": "Sporting Lissabon",
+      "homeTeam": "AEK Athen",
+      "awayTeam": "Real Madrid",
       "channels": [
         "DAZN 2",
         "Sky Sport Austria 1",
@@ -87,27 +167,25 @@
         "DAZN 2 HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-03T18:45:00+01:00"
+      "kickoff": "2026-11-04T18:45:00+01:00"
     },
     {
-      "time": "19:15",
-      "competition": "AFC Champions League Elite",
+      "time": "19:00",
+      "competition": "ÖFB Frauen Bundesliga",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "02. Spieltag",
+        "tr": "02. Hafta",
+        "en": "Matchday 02"
       },
-      "homeTeam": "Al-Hilal Riad",
-      "awayTeam": "Shabab Al-Ahli Dubai",
+      "homeTeam": "SK Rapid Wien ♀",
+      "awayTeam": "SKN St. Pölten ♀",
       "channels": [
-        "Sportdigital1+",
-        "blue Sport",
-        "Sportdigital1+ HD",
-        "blue Sport HD",
-        "Sportdigital1+ (Livestream)"
+        "LAOLA1 (Livestream)",
+        "ÖFB TV",
+        "ÖFB TV (via ÖFB App)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-03T19:15:00+01:00"
+      "kickoff": "2026-11-04T19:00:00+01:00"
     },
     {
       "time": "21:00",
@@ -117,68 +195,8 @@
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "FC Villarreal",
-      "awayTeam": "Paris St. Germain",
-      "channels": [
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 6",
-        "blue Sport",
-        "DAZN 2 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-03T21:00:00+01:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Manchester United",
-      "awayTeam": "AS Rom",
-      "channels": [
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 5",
-        "blue Sport",
-        "DAZN 2 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-03T21:00:00+01:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Linzer ASK",
-      "awayTeam": "Slovan Bratislava",
-      "channels": [
-        "DAZN 2",
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 2",
-        "blue Sport",
-        "DAZN 2 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-03T21:00:00+01:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Feyenoord Rotterdam",
-      "awayTeam": "Inter Mailand",
+      "homeTeam": "Viking Stavanger FK",
+      "awayTeam": "Sabah FK",
       "channels": [
         "DAZN 2",
         "Sky Sport Austria 1",
@@ -187,7 +205,7 @@
         "DAZN 2 HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-03T21:00:00+01:00"
+      "kickoff": "2026-11-04T21:00:00+01:00"
     },
     {
       "time": "21:00",
@@ -197,17 +215,17 @@
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "FK Bodø/Glimt",
-      "awayTeam": "OSC Lille",
+      "homeTeam": "Slavia Prag",
+      "awayTeam": "FC Arsenal",
       "channels": [
         "DAZN 2",
         "Sky Sport Austria 1",
-        "Sky Sport Austria 8",
+        "Sky Sport Austria 4",
         "blue Sport",
         "DAZN 2 HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-03T21:00:00+01:00"
+      "kickoff": "2026-11-04T21:00:00+01:00"
     },
     {
       "time": "21:00",
@@ -217,36 +235,97 @@
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "FC Barcelona",
-      "awayTeam": "Aston Villa",
+      "homeTeam": "RC Lens",
+      "awayTeam": "Como 1907",
+      "channels": [
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 5",
+        "blue Sport",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-04T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Manchester City",
+      "channels": [
+        "DAZN 2",
+        "CANAL+",
+        "blue Sport",
+        "TV8",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-04T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "PSV Eindhoven",
+      "awayTeam": "Club Brügge",
+      "channels": [
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 6",
+        "blue Sport",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-04T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "FC Porto",
+      "awayTeam": "SSC Neapel",
+      "channels": [
+        "DAZN 2",
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 3",
+        "blue Sport",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-04T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "UEFA Champions League",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "Real Betis Balompié",
       "channels": [
         "DAZN 1",
         "DAZN 2",
         "Sky Sport Austria 1",
-        "Sky Sport Austria 4",
-        "blue Sport"
+        "Sky Sport Austria 2",
+        "RSI LA 2"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-03T21:00:00+01:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "UEFA Champions League",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Atletico Madrid",
-      "awayTeam": "FC Bayern München",
-      "channels": [
-        "Sky Sport Austria 1",
-        "Sky Sport Austria 3",
-        "blue Sport",
-        "Sky Sport Austria 1 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-03T21:00:00+01:00"
+      "kickoff": "2026-11-04T21:00:00+01:00"
     }
   ]
 }
