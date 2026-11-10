@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "generatedAt": "2026-11-09T13:27:57.953Z",
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T13:06:36.907Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,88 +8,126 @@
     "en"
   ],
   "summary": {
-    "de": "4 Übertragungen heute, u.a. 1. FC Köln ♀ - RB Leipzig ♀ (18:00 Uhr).",
-    "tr": "Bugün 4 yayın, 1. FC Köln ♀ - RB Leipzig ♀ dahil (18:00).",
-    "en": "4 broadcasts today, including 1. FC Köln ♀ - RB Leipzig ♀ (18:00)."
+    "de": "6 Übertragungen heute, u.a. Real Madrid ♀ - Paris FC ♀ (18:45 Uhr).",
+    "tr": "Bugün 6 yayın, Real Madrid ♀ - Paris FC ♀ dahil (18:45).",
+    "en": "6 broadcasts today, including Real Madrid ♀ - Paris FC ♀ (18:45)."
   },
   "matches": [
     {
-      "time": "18:00",
-      "competition": "Frauen-Bundesliga",
+      "time": "18:45",
+      "competition": "Champions League (Frauen)",
       "stage": {
-        "de": "09. Spieltag",
-        "tr": "09. Hafta",
-        "en": "Matchday 09"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "1. FC Köln ♀",
-      "awayTeam": "RB Leipzig ♀",
+      "homeTeam": "Real Madrid ♀",
+      "awayTeam": "Paris FC ♀",
       "channels": [
-        "DAZN 1",
-        "MagentaSport (Sat)",
-        "Sport1",
-        "DAZN 1 HD",
-        "MagentaSport HD"
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-09T18:00:00+01:00"
+      "kickoff": "2026-11-10T18:45:00+01:00"
     },
     {
-      "time": "20:30",
-      "competition": "La Liga 2 (Spanien)",
+      "time": "18:45",
+      "competition": "Champions League (Frauen)",
       "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "Sabadell",
-      "awayTeam": "Real Sociedad II",
+      "homeTeam": "BK Häcken FF ♀",
+      "awayTeam": "FC Chelsea LFC ♀",
       "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-09T20:30:00+01:00"
+      "kickoff": "2026-11-10T18:45:00+01:00"
     },
     {
-      "time": "20:45",
-      "competition": "Serie C (Italien)",
+      "time": "19:00",
+      "competition": "UEFA Women's Europa Cup",
       "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
+        "de": "Achtelfinale Rückspiel",
+        "tr": "Son 16 Turu Rövanş",
+        "en": "Round of 16 Second leg"
       },
-      "homeTeam": "AZ Picerno",
-      "awayTeam": "SSC Bari",
+      "homeTeam": "Feyenoord Rotterdam ♀",
+      "awayTeam": "VfL Wolfsburg ♀",
       "channels": [
-        "Rai Sport",
-        "Rai Sport (Livestream)",
-        "RaiPlay (App)"
+        "VfL Wolfsburg (YouTube)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-09T20:45:00+01:00"
+      "kickoff": "2026-11-10T19:00:00+01:00"
     },
     {
       "time": "21:00",
-      "competition": "FA Cup (England)",
+      "competition": "Champions League (Frauen)",
       "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
       },
-      "homeTeam": "Plymouth Parkway",
-      "awayTeam": "Berkhamsted FC",
+      "homeTeam": "Inter Mailand ♀",
+      "awayTeam": "Manchester City ♀",
       "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-09T21:00:00+01:00"
+      "kickoff": "2026-11-10T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "AS Rom ♀",
+      "awayTeam": "Servette FC Chênois ♀",
+      "channels": [
+        "RTS 2",
+        "RTS 2 HD",
+        "Disney+",
+        "RTS 2 (Livestream)",
+        "RTS Sport"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-10T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Paris St. Germain ♀",
+      "awayTeam": "FC Bayern München ♀",
+      "channels": [
+        "Disney+",
+        "ZDF-Streaming",
+        "Disney+ (App)",
+        "ZDF-Streaming (Android)",
+        "ZDF-Streaming (iOS)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-10T21:00:00+01:00"
     }
   ]
 }
