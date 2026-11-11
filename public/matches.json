@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-10",
-  "generatedAt": "2026-11-10T13:06:36.907Z",
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T12:16:23.417Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,77 +8,58 @@
     "en"
   ],
   "summary": {
-    "de": "6 Übertragungen heute, u.a. Real Madrid ♀ - Paris FC ♀ (18:45 Uhr).",
-    "tr": "Bugün 6 yayın, Real Madrid ♀ - Paris FC ♀ dahil (18:45).",
-    "en": "6 broadcasts today, including Real Madrid ♀ - Paris FC ♀ (18:45)."
+    "de": "6 Übertragungen heute, u.a. Oud-Heverlee Leuven ♀ - HB Köge ♀ (18:45 Uhr).",
+    "tr": "Bugün 6 yayın, Oud-Heverlee Leuven ♀ - HB Köge ♀ dahil (18:45).",
+    "en": "6 broadcasts today, including Oud-Heverlee Leuven ♀ - HB Köge ♀ (18:45)."
   },
   "matches": [
     {
-      "time": "18:45",
-      "competition": "Champions League (Frauen)",
+      "time": "11:00",
+      "competition": "U17-EM",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
       },
-      "homeTeam": "Real Madrid ♀",
-      "awayTeam": "Paris FC ♀",
+      "homeTeam": "Deutschland (U17)",
+      "awayTeam": "Aserbaidschan (U17)",
       "channels": [
-        "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
+        "DFB.TV (via Sky)",
+        "DAZN",
+        "DFB.TV",
+        "DFB.TV (YouTube)",
+        "DFB.TV (via DAZN)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-11-10T18:45:00+01:00"
+      "isHighlight": false,
+      "kickoff": "2026-11-11T11:00:00+01:00"
     },
     {
-      "time": "18:45",
-      "competition": "Champions League (Frauen)",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "BK Häcken FF ♀",
-      "awayTeam": "FC Chelsea LFC ♀",
-      "channels": [
-        "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-10T18:45:00+01:00"
-    },
-    {
-      "time": "19:00",
+      "time": "18:30",
       "competition": "UEFA Women's Europa Cup",
       "stage": {
         "de": "Achtelfinale Rückspiel",
         "tr": "Son 16 Turu Rövanş",
         "en": "Round of 16 Second leg"
       },
-      "homeTeam": "Feyenoord Rotterdam ♀",
-      "awayTeam": "VfL Wolfsburg ♀",
+      "homeTeam": "Eintracht Frankfurt ♀",
+      "awayTeam": "PSV Eindhoven ♀",
       "channels": [
-        "VfL Wolfsburg (YouTube)"
+        "EintrachtTV (Frankfurt)",
+        "EintrachtTV (Smart TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-10T19:00:00+01:00"
+      "kickoff": "2026-11-11T18:30:00+01:00"
     },
     {
-      "time": "21:00",
+      "time": "18:45",
       "competition": "Champions League (Frauen)",
       "stage": {
         "de": "04. Spieltag",
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "Inter Mailand ♀",
-      "awayTeam": "Manchester City ♀",
+      "homeTeam": "Oud-Heverlee Leuven ♀",
+      "awayTeam": "HB Köge ♀",
       "channels": [
         "Disney+",
         "Disney+ (App)",
@@ -87,47 +68,63 @@
         "Disney+ (Chromecast)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-10T21:00:00+01:00"
+      "kickoff": "2026-11-11T18:45:00+01:00"
     },
     {
-      "time": "21:00",
+      "time": "18:45",
       "competition": "Champions League (Frauen)",
       "stage": {
         "de": "04. Spieltag",
         "tr": "04. Hafta",
         "en": "Matchday 04"
       },
-      "homeTeam": "AS Rom ♀",
-      "awayTeam": "Servette FC Chênois ♀",
-      "channels": [
-        "RTS 2",
-        "RTS 2 HD",
-        "Disney+",
-        "RTS 2 (Livestream)",
-        "RTS Sport"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-10T21:00:00+01:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "Champions League (Frauen)",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "Paris St. Germain ♀",
-      "awayTeam": "FC Bayern München ♀",
+      "homeTeam": "FC Barcelona ♀",
+      "awayTeam": "FC Arsenal WFC ♀",
       "channels": [
         "Disney+",
-        "ZDF-Streaming",
         "Disney+ (App)",
-        "ZDF-Streaming (Android)",
-        "ZDF-Streaming (iOS)"
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-10T21:00:00+01:00"
+      "kickoff": "2026-11-11T18:45:00+01:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "WSL Players Cup (England)",
+      "stage": {
+        "de": "Gruppenphase",
+        "tr": "Grupnphase",
+        "en": "Groupnphase"
+      },
+      "homeTeam": "Tottenham Hotspur ♀",
+      "awayTeam": "Crystal Palace ♀",
+      "channels": [
+        "Barclays Women's Super League (YouTube)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-11T20:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "04. Spieltag",
+        "tr": "04. Hafta",
+        "en": "Matchday 04"
+      },
+      "homeTeam": "Juventus Turin ♀",
+      "awayTeam": "OL Lyonnes ♀",
+      "channels": [
+        "l'Équipe",
+        "L'Équipe HD",
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-11T21:00:00+01:00"
     }
   ]
 }
