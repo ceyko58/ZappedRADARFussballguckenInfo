@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "generatedAt": "2026-11-12T13:25:03.552Z",
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T12:42:05.366Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,90 +8,70 @@
     "en"
   ],
   "summary": {
-    "de": "19 Übertragungen heute, u.a. FC Barcelona ♀ - FC Arsenal WFC ♀ (18:45 Uhr).",
-    "tr": "Bugün 19 yayın, FC Barcelona ♀ - FC Arsenal WFC ♀ dahil (18:45).",
-    "en": "19 broadcasts today, including FC Barcelona ♀ - FC Arsenal WFC ♀ (18:45)."
+    "de": "23 Übertragungen heute, u.a. SK Sturm Graz ♀ - First Vienna FC 1894 ♀ (18:00 Uhr).",
+    "tr": "Bugün 23 yayın, SK Sturm Graz ♀ - First Vienna FC 1894 ♀ dahil (18:00).",
+    "en": "23 broadcasts today, including SK Sturm Graz ♀ - First Vienna FC 1894 ♀ (18:00)."
   },
   "matches": [
     {
-      "time": "11:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "RB Leipzig",
-      "awayTeam": "FK Mladá Boleslav",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T11:00:00+01:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Regionalliga West",
-      "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
-      },
-      "homeTeam": "SC Paderborn 07 II",
-      "awayTeam": "VfL Bochum II",
-      "channels": [
-        "Leagues"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T14:00:00+01:00"
-    },
-    {
-      "time": "14:00",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "1. FC Mönchengladbach",
-      "awayTeam": "Standard Lüttich",
-      "channels": [],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T14:00:00+01:00"
-    },
-    {
-      "time": "14:30",
-      "competition": "Freundschaftsspiel",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "VfL Wolfsburg",
-      "awayTeam": "1. FC Union Berlin",
-      "channels": [
-        "VfL Wolfsburg (YouTube)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T14:30:00+01:00"
-    },
-    {
-      "time": "16:00",
+      "time": "17:00",
       "competition": "Afrika-Cup",
       "stage": {
         "de": "Qualifikation",
         "tr": "Eleme",
         "en": "Qualification"
       },
-      "homeTeam": "Ghana",
-      "awayTeam": "Somalia",
+      "homeTeam": "Tunesien",
+      "awayTeam": "Libyen",
       "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T17:00:00+01:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "Afrika-Cup",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Nigeria",
+      "awayTeam": "Tansania",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
         "DAZN",
         "DAZN (App)",
         "DAZN (Amazon)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-12T16:00:00+01:00"
+      "kickoff": "2026-11-13T17:00:00+01:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "ÖFB Frauen Bundesliga",
+      "stage": {
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
+      },
+      "homeTeam": "SK Sturm Graz ♀",
+      "awayTeam": "First Vienna FC 1894 ♀",
+      "channels": [
+        "ORF Sport+",
+        "ORF Sport+ HD",
+        "ORF ON",
+        "ORF ON (App)",
+        "ORF ON (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-13T18:00:00+01:00"
     },
     {
       "time": "18:00",
@@ -101,28 +81,314 @@
         "tr": "05. Hafta",
         "en": "Matchday 05"
       },
-      "homeTeam": "Armenien",
-      "awayTeam": "Zypern",
+      "homeTeam": "Republik Moldau",
+      "awayTeam": "Kasachstan",
       "channels": [
-        "DAZN 2",
-        "DAZN 2 HD",
         "DAZN",
         "L'Équipe Live Football",
-        "DAZN (App)"
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-12T18:00:00+01:00"
+      "kickoff": "2026-11-13T18:00:00+01:00"
     },
     {
       "time": "18:00",
+      "competition": "Länderspiel (U21)",
+      "stage": {
+        "de": "",
+        "tr": "",
+        "en": ""
+      },
+      "homeTeam": "Deutschland (U21)",
+      "awayTeam": "Belgien (U21)",
+      "channels": [
+        "ProSieben MAXX",
+        "ProSieben MAXX HD",
+        "Joyn.de",
+        "ProSieben MAXX (Joyn)",
+        "ProSieben MAXX (MagentaTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T18:00:00+01:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Frauen-Bundesliga",
+      "stage": {
+        "de": "10. Spieltag",
+        "tr": "10. Hafta",
+        "en": "Matchday 10"
+      },
+      "homeTeam": "Hamburger SV ♀",
+      "awayTeam": "1. FSV Mainz 05 ♀",
+      "channels": [
+        "DAZN 1",
+        "MagentaSport (Sat)",
+        "DAZN 1 HD",
+        "MagentaSport HD",
+        "DAZN"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-13T18:30:00+01:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Women's Super League (Schweiz)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "FC Rapperswil-Jona ♀",
+      "awayTeam": "Grasshopper Club Zürich ♀",
+      "channels": [
+        "AWSL Play",
+        "SRF Sport"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T19:00:00+01:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "19. Spieltag",
+        "tr": "19. Hafta",
+        "en": "Matchday 19"
+      },
+      "homeTeam": "TSV Buchbach",
+      "awayTeam": "SpVgg Greuther Fürth II",
+      "channels": [
+        "BR (ARD Mediathek)",
+        "BR24 Sport (Livestream)",
+        "BR24 Sport (YouTube)",
+        "BR24 (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T19:00:00+01:00"
+    },
+    {
+      "time": "19:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "16. Spieltag",
+        "tr": "16. Hafta",
+        "en": "Matchday 16"
+      },
+      "homeTeam": "FC 08 Homburg",
+      "awayTeam": "FSV Frankfurt",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T19:00:00+01:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "SV Drochtersen/Assel",
+      "awayTeam": "VfB Oldenburg",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T19:30:00+01:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Landespokal Sachsen-Anhalt",
+      "stage": {
+        "de": "Viertelfinale",
+        "tr": "Çeyrek Final",
+        "en": "Quarter-final"
+      },
+      "homeTeam": "Burger BC 08",
+      "awayTeam": "VfL Halle 96",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:00:00+01:00"
+    },
+    {
+      "time": "20:00",
+      "competition": "Afrika-Cup",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Mali",
+      "awayTeam": "Ruanda",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:00:00+01:00"
+    },
+    {
+      "time": "20:45",
       "competition": "Nations League",
       "stage": {
         "de": "05. Spieltag",
         "tr": "05. Hafta",
         "en": "Matchday 05"
       },
-      "homeTeam": "Türkei",
-      "awayTeam": "Belgien",
+      "homeTeam": "Liechtenstein",
+      "awayTeam": "Aserbaidschan",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Andorra",
+      "awayTeam": "Gibraltar",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Luxemburg",
+      "awayTeam": "Estland",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Bulgarien",
+      "awayTeam": "Island",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Slowakei",
+      "awayTeam": "Färöer Inseln",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Slowenien",
+      "awayTeam": "Schweiz",
+      "channels": [
+        "DAZN 2",
+        "RSI LA 2",
+        "RTS 2",
+        "SRF zwei",
+        "DAZN 2 HD"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Schottland",
+      "awayTeam": "Nordmazedonien",
+      "channels": [
+        "DAZN",
+        "L'Équipe Live Football",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Nations League",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Niederlande",
+      "awayTeam": "Griechenland",
       "channels": [
         "DAZN 1",
         "DAZN 1 HD",
@@ -131,107 +397,7 @@
         "DAZN (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-12T18:00:00+01:00"
-    },
-    {
-      "time": "18:00",
-      "competition": "Länderspiel (Herren)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Malta",
-      "awayTeam": "Eswatini",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T18:00:00+01:00"
-    },
-    {
-      "time": "18:45",
-      "competition": "Champions League (Frauen)",
-      "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
-      },
-      "homeTeam": "FC Barcelona ♀",
-      "awayTeam": "FC Arsenal WFC ♀",
-      "channels": [
-        "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-12T18:45:00+01:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Afrika-Cup",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Senegal",
-      "awayTeam": "Sudan",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T20:00:00+01:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Afrika-Cup",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Kamerun",
-      "awayTeam": "Namibia",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T20:00:00+01:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "Afrika-Cup",
-      "stage": {
-        "de": "Qualifikation",
-        "tr": "Eleme",
-        "en": "Qualification"
-      },
-      "homeTeam": "Elfenbeinküste",
-      "awayTeam": "Gambia",
-      "channels": [
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T20:00:00+01:00"
+      "kickoff": "2026-11-13T20:45:00+01:00"
     },
     {
       "time": "20:45",
@@ -241,137 +407,57 @@
         "tr": "05. Hafta",
         "en": "Matchday 05"
       },
-      "homeTeam": "Montenegro",
-      "awayTeam": "Lettland",
+      "homeTeam": "Serbien",
+      "awayTeam": "Deutschland",
       "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
+        "RTL",
+        "20 (Mediaset)",
+        "RTL HD",
+        "20 HD",
+        "RTL+"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-12T20:45:00+01:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "San Marino",
-      "awayTeam": "Belarus",
-      "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T20:45:00+01:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "Albanien",
-      "awayTeam": "Finnland",
-      "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T20:45:00+01:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "Tschechien",
-      "awayTeam": "Spanien",
-      "channels": [
-        "DAZN",
-        "L'Équipe Live Football",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T20:45:00+01:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "England",
-      "awayTeam": "Kroatien",
-      "channels": [
-        "DAZN 2",
-        "l'Équipe",
-        "DAZN 2 HD",
-        "L'Équipe HD",
-        "DAZN"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T20:45:00+01:00"
-    },
-    {
-      "time": "20:45",
-      "competition": "Nations League",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "Italien",
-      "awayTeam": "Frankreich",
-      "channels": [
-        "DAZN 1",
-        "PULS 4",
-        "Rai 1",
-        "RSI LA 2",
-        "RTS 2"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-12T20:45:00+01:00"
+      "kickoff": "2026-11-13T20:45:00+01:00"
     },
     {
       "time": "21:00",
-      "competition": "Champions League (Frauen)",
+      "competition": "Afrika-Cup",
       "stage": {
-        "de": "04. Spieltag",
-        "tr": "04. Hafta",
-        "en": "Matchday 04"
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
       },
-      "homeTeam": "Benfica Lissabon ♀",
-      "awayTeam": "FK Austria Wien ♀",
+      "homeTeam": "Marokko",
+      "awayTeam": "Niger",
       "channels": [
-        "ORF Sport+",
-        "ORF Sport+ HD",
-        "Disney+",
-        "ORF ON",
-        "Disney+ (App)"
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-11-12T21:00:00+01:00"
+      "isHighlight": false,
+      "kickoff": "2026-11-13T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Afrika-Cup",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Ägypten",
+      "awayTeam": "Malawi",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-13T21:00:00+01:00"
     }
   ]
 }
