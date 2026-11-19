@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T13:32:35.603Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T13:59:36.861Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,116 +8,270 @@
     "en"
   ],
   "summary": {
-    "de": "8 Übertragungen heute, u.a. BK Häcken FF ♀ - Manchester City ♀ (18:45 Uhr).",
-    "tr": "Bugün 8 yayın, BK Häcken FF ♀ - Manchester City ♀ dahil (18:45).",
-    "en": "8 broadcasts today, including BK Häcken FF ♀ - Manchester City ♀ (18:45)."
+    "de": "15 Übertragungen heute, u.a. Paris FC ♀ - HB Köge ♀ (18:45 Uhr).",
+    "tr": "Bugün 15 yayın, Paris FC ♀ - HB Köge ♀ dahil (18:45).",
+    "en": "15 broadcasts today, including Paris FC ♀ - HB Köge ♀ (18:45)."
   },
   "matches": [
     {
-      "time": "00:00",
-      "competition": "Länderspiel (Herren)",
+      "time": "00:30",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
       "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
+        "de": "35. Spieltag",
+        "tr": "35. Hafta",
+        "en": "Matchday 35"
       },
-      "homeTeam": "Argentinien",
-      "awayTeam": "Costa Rica",
+      "homeTeam": "Cruzeiro Belo Horizonte",
+      "awayTeam": "Palmeiras Sao Paulo",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T00:30:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "U17-WM",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Frankreich (U17)",
+      "awayTeam": "Haiti (U17)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "U17-WM",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Neukaledonien (U17)",
+      "awayTeam": "Ecuador (U17)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T14:00:00+01:00"
+    },
+    {
+      "time": "14:30",
+      "competition": "U17-WM",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Südkorea (U17)",
+      "awayTeam": "Uganda (U17)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T14:30:00+01:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "U17-WM",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Saudi Arabien (U17)",
+      "awayTeam": "Uruguay (U17)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T15:00:00+01:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "U17-WM",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Mosambik (U17)",
+      "awayTeam": "Dänemark (U17)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T16:00:00+01:00"
+    },
+    {
+      "time": "16:30",
+      "competition": "U17-WM",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Katar (U17)",
+      "awayTeam": "Panama (U17)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T16:30:00+01:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "U17-WM",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Argentinien (U17)",
+      "awayTeam": "Australien (U17)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T17:00:00+01:00"
+    },
+    {
+      "time": "17:00",
+      "competition": "U17-WM",
+      "stage": {
+        "de": "01. Spieltag",
+        "tr": "01. Hafta",
+        "en": "Matchday 01"
+      },
+      "homeTeam": "Ägypten (U17)",
+      "awayTeam": "Griechenland (U17)",
+      "channels": [
+        "DAZN",
+        "FIFA+",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-19T17:00:00+01:00"
+    },
+    {
+      "time": "18:45",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Paris FC ♀",
+      "awayTeam": "HB Köge ♀",
+      "channels": [
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-19T18:45:00+01:00"
+    },
+    {
+      "time": "18:45",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "FK Austria Wien ♀",
+      "awayTeam": "FC Bayern München ♀",
+      "channels": [
+        "ORF 1",
+        "ORF 1 HD",
+        "Disney+",
+        "ZDF-Streaming",
+        "ORF ON"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-19T18:45:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "Benfica Lissabon ♀",
+      "awayTeam": "AS Rom ♀",
+      "channels": [
+        "Disney+",
+        "Disney+ (App)",
+        "Disney+ (Amazon)",
+        "Disney+ (Apple TV)",
+        "Disney+ (Chromecast)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-19T21:00:00+01:00"
+    },
+    {
+      "time": "21:00",
+      "competition": "Champions League (Frauen)",
+      "stage": {
+        "de": "05. Spieltag",
+        "tr": "05. Hafta",
+        "en": "Matchday 05"
+      },
+      "homeTeam": "FC Arsenal WFC ♀",
+      "awayTeam": "OL Lyonnes ♀",
       "channels": [
         "l'Équipe",
-        "L'Équipe HD"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-18T00:00:00+01:00"
-    },
-    {
-      "time": "18:45",
-      "competition": "Champions League (Frauen)",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "BK Häcken FF ♀",
-      "awayTeam": "Manchester City ♀",
-      "channels": [
+        "L'Équipe HD",
         "Disney+",
         "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
+        "Disney+ (Amazon)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-18T18:45:00+01:00"
-    },
-    {
-      "time": "18:45",
-      "competition": "Champions League (Frauen)",
-      "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
-      },
-      "homeTeam": "Real Madrid ♀",
-      "awayTeam": "Inter Mailand ♀",
-      "channels": [
-        "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-18T18:45:00+01:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Regionalliga Nord",
-      "stage": {
-        "de": "18. Spieltag",
-        "tr": "18. Hafta",
-        "en": "Matchday 18"
-      },
-      "homeTeam": "SSV Jeddeloh II",
-      "awayTeam": "1. FC Phönix Lübeck",
-      "channels": [
-        "Leagues"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-18T19:00:00+01:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Landespokal Mittelrhein",
-      "stage": {
-        "de": "Achtelfinale",
-        "tr": "Son 16 Turu",
-        "en": "Round of 16"
-      },
-      "homeTeam": "FC Hennef 05",
-      "awayTeam": "Alemannia Aachen",
-      "channels": [
-        "Leagues",
-        "100,5 Alemannia Livestream (Aachen)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-18T19:00:00+01:00"
-    },
-    {
-      "time": "20:00",
-      "competition": "WSL Players Cup (England)",
-      "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
-      },
-      "homeTeam": "London City Lionesses ♀",
-      "awayTeam": "Brighton & Hove Albion ♀",
-      "channels": [
-        "Barclays Women's Super League (YouTube)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-18T20:00:00+01:00"
+      "kickoff": "2026-11-19T21:00:00+01:00"
     },
     {
       "time": "21:00",
@@ -127,37 +281,37 @@
         "tr": "05. Hafta",
         "en": "Matchday 05"
       },
-      "homeTeam": "Juventus Turin ♀",
-      "awayTeam": "Oud-Heverlee Leuven ♀",
+      "homeTeam": "FC Barcelona ♀",
+      "awayTeam": "Servette FC Chênois ♀",
       "channels": [
+        "RTS 2",
+        "RTS 2 HD",
         "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
+        "RTS 2 (Livestream)",
+        "RTS Sport"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-18T21:00:00+01:00"
+      "kickoff": "2026-11-19T21:00:00+01:00"
     },
     {
-      "time": "21:00",
-      "competition": "Champions League (Frauen)",
+      "time": "23:30",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
       "stage": {
-        "de": "05. Spieltag",
-        "tr": "05. Hafta",
-        "en": "Matchday 05"
+        "de": "35. Spieltag",
+        "tr": "35. Hafta",
+        "en": "Matchday 35"
       },
-      "homeTeam": "FC Chelsea LFC ♀",
-      "awayTeam": "Paris St. Germain ♀",
+      "homeTeam": "Vasco da Gama",
+      "awayTeam": "SC Internacional Porto Alegre",
       "channels": [
-        "Disney+",
-        "Disney+ (App)",
-        "Disney+ (Amazon)",
-        "Disney+ (Apple TV)",
-        "Disney+ (Chromecast)"
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
       ],
-      "isHighlight": true,
-      "kickoff": "2026-11-18T21:00:00+01:00"
+      "isHighlight": false,
+      "kickoff": "2026-11-19T23:30:00+01:00"
     }
   ]
 }
