@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T14:29:34.509Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T13:45:04.643Z",
   "source": "https://fussballgucken.info/fussball-heute",
   "languages": [
     "de",
@@ -8,11 +8,71 @@
     "en"
   ],
   "summary": {
-    "de": "33 Übertragungen heute, u.a. Pyramids FC - MAS Fes (17:00 Uhr).",
-    "tr": "Bugün 33 yayın, Pyramids FC - MAS Fes dahil (17:00).",
-    "en": "33 broadcasts today, including Pyramids FC - MAS Fes (17:00)."
+    "de": "89 Übertragungen heute, u.a. Holstein Kiel - 1. FC Kaiserslautern (13:00 Uhr).",
+    "tr": "Bugün 89 yayın, Holstein Kiel - 1. FC Kaiserslautern dahil (13:00).",
+    "en": "89 broadcasts today, including Holstein Kiel - 1. FC Kaiserslautern (13:00)."
   },
   "matches": [
+    {
+      "time": "00:00",
+      "competition": "Campeonato Brasileiro Série A (Brasilien)",
+      "stage": {
+        "de": "37. Spieltag",
+        "tr": "37. Hafta",
+        "en": "Matchday 37"
+      },
+      "homeTeam": "Fluminense Rio de Janeiro",
+      "awayTeam": "Cruzeiro Belo Horizonte",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T00:00:00+01:00"
+    },
+    {
+      "time": "02:00",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "Playoff",
+        "tr": "Play-off",
+        "en": "Play-off"
+      },
+      "homeTeam": "Columbus Crew SC",
+      "awayTeam": "Inter Miami",
+      "channels": [
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T02:00:00+01:00"
+    },
+    {
+      "time": "04:00",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "Playoff",
+        "tr": "Play-off",
+        "en": "Play-off"
+      },
+      "homeTeam": "Real Salt Lake City",
+      "awayTeam": "Vancouver Whitecaps",
+      "channels": [
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T04:00:00+01:00"
+    },
     {
       "time": "09:40",
       "competition": "A-League (Australien)",
@@ -21,17 +81,17 @@
         "tr": "06. Hafta",
         "en": "Matchday 06"
       },
-      "homeTeam": "Macarthur FC",
-      "awayTeam": "Melbourne City FC",
+      "homeTeam": "Central Coast Mariners",
+      "awayTeam": "Auckland FC",
       "channels": [
         "Sportdigital Fussball",
         "blue Sport",
         "Sportdigital Fussball HD",
         "blue Sport HD",
-        "Sportdigital.de (Livestream)"
+        "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T09:40:00+01:00"
+      "kickoff": "2026-11-28T09:40:00+01:00"
     },
     {
       "time": "12:00",
@@ -41,8 +101,8 @@
         "tr": "14. Hafta",
         "en": "Matchday 14"
       },
-      "homeTeam": "FC Livyi Bereh",
-      "awayTeam": "Kolos Kowaliwka",
+      "homeTeam": "FC Obolon Kiew",
+      "awayTeam": "FK Sorja Luhansk",
       "channels": [
         "OneFootball",
         "OneFootball (App)",
@@ -51,210 +111,779 @@
         "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T12:00:00+01:00"
+      "kickoff": "2026-11-28T12:00:00+01:00"
     },
     {
-      "time": "14:00",
-      "competition": "U17-WM",
+      "time": "12:00",
+      "competition": "Premjer Liha (Ukraine)",
       "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
       },
-      "homeTeam": "Kolumbien (U17)",
-      "awayTeam": "Serbien (U17)",
+      "homeTeam": "Dynamo Kiew",
+      "awayTeam": "FC Chornomorets Odessa",
       "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T14:00:00+01:00"
+      "kickoff": "2026-11-28T12:00:00+01:00"
     },
     {
-      "time": "14:00",
-      "competition": "U17-WM",
+      "time": "13:00",
+      "competition": "Regionalliga Nordost",
       "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
       },
-      "homeTeam": "Honduras (U17)",
-      "awayTeam": "Japan (U17)",
-      "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
+      "homeTeam": "RSV Eintracht 1949",
+      "awayTeam": "BFC Preussen",
+      "channels": [],
       "isHighlight": false,
-      "kickoff": "2026-11-27T14:00:00+01:00"
+      "kickoff": "2026-11-28T13:00:00+01:00"
     },
     {
-      "time": "15:00",
-      "competition": "U17-WM",
+      "time": "13:00",
+      "competition": "2. Bundesliga",
       "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
       },
-      "homeTeam": "Costa Rica (U17)",
-      "awayTeam": "Brasilien (U17)",
+      "homeTeam": "Holstein Kiel",
+      "awayTeam": "1. FC Kaiserslautern",
       "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T15:00:00+01:00"
-    },
-    {
-      "time": "15:00",
-      "competition": "U17-WM",
-      "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
-      },
-      "homeTeam": "Irland (U17)",
-      "awayTeam": "Tansania (U17)",
-      "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T15:00:00+01:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "U17-WM",
-      "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
-      },
-      "homeTeam": "Algerien (U17)",
-      "awayTeam": "Dominikanische Republik (U17)",
-      "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T16:00:00+01:00"
-    },
-    {
-      "time": "16:00",
-      "competition": "U17-WM",
-      "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
-      },
-      "homeTeam": "Montenegro (U17)",
-      "awayTeam": "Chile (U17)",
-      "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T16:00:00+01:00"
-    },
-    {
-      "time": "17:00",
-      "competition": "CAF Champions League",
-      "stage": {
-        "de": "Gruppenphase",
-        "tr": "Grupnphase",
-        "en": "Groupnphase"
-      },
-      "homeTeam": "Pyramids FC",
-      "awayTeam": "MAS Fes",
-      "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
-        "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
+        "Sky Sport Bundesliga 2",
+        "Sky Sport Bundesliga 5",
+        "Sky Sport Bundesliga 7",
+        "Sky Sport Top Event",
+        "Sky Sport Bundesliga 2 HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-27T17:00:00+01:00"
+      "kickoff": "2026-11-28T13:00:00+01:00"
     },
     {
-      "time": "17:00",
-      "competition": "U17-WM",
+      "time": "13:00",
+      "competition": "2. Bundesliga",
       "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
       },
-      "homeTeam": "Rumänien (U17)",
-      "awayTeam": "Kamerun (U17)",
+      "homeTeam": "Dynamo Dresden",
+      "awayTeam": "FC St. Pauli",
       "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
+        "Sky Sport Bundesliga 2",
+        "Sky Sport Bundesliga 4",
+        "Sky Sport Bundesliga 7",
+        "Sky Sport Top Event",
+        "Sky Sport Bundesliga 2 HD"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T17:00:00+01:00"
+      "isHighlight": true,
+      "kickoff": "2026-11-28T13:00:00+01:00"
     },
     {
-      "time": "17:00",
-      "competition": "U17-WM",
+      "time": "13:00",
+      "competition": "2. Bundesliga",
       "stage": {
-        "de": "03. Spieltag",
-        "tr": "03. Hafta",
-        "en": "Matchday 03"
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
       },
-      "homeTeam": "Venezuela (U17)",
-      "awayTeam": "Mexiko (U17)",
+      "homeTeam": "Hertha BSC",
+      "awayTeam": "Karlsruher SC",
       "channels": [
-        "DAZN",
-        "FIFA+",
-        "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)"
+        "Sky Sport Bundesliga 2",
+        "Sky Sport Bundesliga 3",
+        "Sky Sport Bundesliga 7",
+        "Sky Sport Top Event",
+        "Sky Sport Bundesliga 2 HD"
       ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T17:00:00+01:00"
+      "isHighlight": true,
+      "kickoff": "2026-11-28T13:00:00+01:00"
     },
     {
-      "time": "18:30",
+      "time": "13:15",
       "competition": "Saudi Professional League",
       "stage": {
         "de": "13. Spieltag",
         "tr": "13. Hafta",
         "en": "Matchday 13"
       },
-      "homeTeam": "Al-Ittihad",
-      "awayTeam": "Neom SC",
+      "homeTeam": "Al-Hazem",
+      "awayTeam": "Al-Nassr FC",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T13:15:00+01:00"
+    },
+    {
+      "time": "13:30",
+      "competition": "EFL Championship (England)",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "Preston North End",
+      "awayTeam": "Norwich City",
+      "channels": [
+        "Sky Sport Premier League",
+        "Sky Sport Premier League HD",
+        "Sky Go",
+        "WOW",
+        "Sky Go (Huawei)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T13:30:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "Real Betis Balompié",
+      "awayTeam": "Rayo Vallecano",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "21. Spieltag",
+        "tr": "21. Hafta",
+        "en": "Matchday 21"
+      },
+      "homeTeam": "SpVgg Unterhaching",
+      "awayTeam": "1. FC Nürnberg II",
+      "channels": [
+        "Haching FM (SpVgg Unterhaching)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Bayern",
+      "stage": {
+        "de": "21. Spieltag",
+        "tr": "21. Hafta",
+        "en": "Matchday 21"
+      },
+      "homeTeam": "FC Bayern München II",
+      "awayTeam": "Wacker Burghausen",
+      "channels": [
+        "FC Bayern.tv plus",
+        "FC Bayern.tv plus (mobil)",
+        "FC Bayern.tv plus (MagentaTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "20. Spieltag",
+        "tr": "20. Hafta",
+        "en": "Matchday 20"
+      },
+      "homeTeam": "VfB Oldenburg",
+      "awayTeam": "SV Todesfelde",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "20. Spieltag",
+        "tr": "20. Hafta",
+        "en": "Matchday 20"
+      },
+      "homeTeam": "SC Weiche Flensburg",
+      "awayTeam": "HSC Hannover",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "20. Spieltag",
+        "tr": "20. Hafta",
+        "en": "Matchday 20"
+      },
+      "homeTeam": "Eimsbütteler TV",
+      "awayTeam": "Eintracht Norderstedt",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "20. Spieltag",
+        "tr": "20. Hafta",
+        "en": "Matchday 20"
+      },
+      "homeTeam": "FSV Schöningen",
+      "awayTeam": "SV Werder Bremen II",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "SV Rödinghausen",
+      "awayTeam": "Borussia Mönchengladbach II",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "FC Gütersloh",
+      "awayTeam": "Sportfreunde Lotte",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "Borussia Dortmund II",
+      "awayTeam": "VfL Bochum II",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "SC Wiedenbrück 2000",
+      "awayTeam": "1. FC Köln II",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "SG Wattenscheid 09",
+      "awayTeam": "Bergisch Gladbach 09",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "SF Siegen",
+      "awayTeam": "Westfalia Rhynern",
+      "channels": [
+        "Leagues",
+        "fanRADIO SIEGEN"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "1. FC Bocholt 1900",
+      "awayTeam": "VfB 03 Hilden",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga West",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "RW Oberhausen",
+      "awayTeam": "Bonner SC",
+      "channels": [
+        "Leagues"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "Eintracht Frankfurt II",
+      "awayTeam": "KSV Hessen Kassel",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "FC Astoria Walldorf",
+      "awayTeam": "Kickers Offenbach",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "OFC-Fanradio (Offenbach)",
+        "OneFootball TV (Amazon FireTV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "SC Freiburg II",
+      "awayTeam": "VfR Aalen",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "TSV Steinbach Haiger",
+      "awayTeam": "SV Sandhausen",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Südwest",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "SGV Freiberg",
+      "awayTeam": "1. FC Kaiserslautern II",
+      "channels": [
+        "Leagues",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "3. Liga",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "1. FC Saarbrücken",
+      "awayTeam": "Alemannia Aachen",
+      "channels": [
+        "MagentaSport (Sat)",
+        "SR Fernsehen",
+        "WDR Fernsehen",
+        "MagentaSport HD",
+        "SR Fernsehen HD"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "3. Liga",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Waldhof Mannheim",
+      "awayTeam": "VfB Stuttgart II",
+      "channels": [
+        "MagentaSport (Sat)",
+        "MagentaSport HD",
+        "MagentaSport",
+        "OneFootball",
+        "MagentaSport (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "3. Liga",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Rot-Weiss Essen",
+      "awayTeam": "1899 Hoffenheim II",
+      "channels": [
+        "MagentaSport (Sat)",
+        "MagentaSport HD",
+        "MagentaSport",
+        "OneFootball",
+        "MagentaSport (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "3. Liga",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "SC Preußen Münster",
+      "awayTeam": "SC Verl",
+      "channels": [
+        "MagentaSport (Sat)",
+        "MagentaSport HD",
+        "MagentaSport",
+        "OneFootball",
+        "MagentaSport (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "3. Liga",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "FC Würzburger Kickers",
+      "awayTeam": "Fortuna Düsseldorf",
+      "channels": [
+        "BR",
+        "MagentaSport (Sat)",
+        "BR HD",
+        "MagentaSport HD",
+        "BR (ARD Mediathek)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Nordost",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "VSG Altglienicke",
+      "awayTeam": "Erzgebirge Aue",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "14:00",
+      "competition": "Regionalliga Nordost",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "1. FC Lok Leipzig",
+      "awayTeam": "FSV 63 Luckenwalde",
+      "channels": [
+        "MDR Fernsehen",
+        "MDR HD",
+        "MDR (ARD Mediathek)",
+        "MDR Mediathek",
+        "Sport im Osten (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T14:00:00+01:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Serie B (Italien)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "FC Empoli",
+      "awayTeam": "Hellas Verona",
       "channels": [
         "blue Sport",
         "blue Sport HD",
-        "Sportdigital Fussball 2",
-        "Sportdigital.de (Livestream)",
-        "blue Sport (Livestream)"
+        "OneFootball",
+        "blue Sport (Livestream)",
+        "OneFootball (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T18:30:00+01:00"
+      "kickoff": "2026-11-28T15:00:00+01:00"
     },
     {
-      "time": "18:30",
+      "time": "15:00",
+      "competition": "Serie B (Italien)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "Carrarese Calcio",
+      "awayTeam": "SS Juve Stabia",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T15:00:00+01:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Serie B (Italien)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "Ascoli Calcio",
+      "awayTeam": "ACD Virtus Entella",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T15:00:00+01:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Serie A (Italien)",
+      "stage": {
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
+      },
+      "homeTeam": "Frosinone Calcio",
+      "awayTeam": "Parma Calcio 1913",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T15:00:00+01:00"
+    },
+    {
+      "time": "15:00",
+      "competition": "Regionalliga Nord",
+      "stage": {
+        "de": "20. Spieltag",
+        "tr": "20. Hafta",
+        "en": "Matchday 20"
+      },
+      "homeTeam": "SV Atlas Delmenhorst",
+      "awayTeam": "SSV Jeddeloh II",
+      "channels": [],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T15:00:00+01:00"
+    },
+    {
+      "time": "15:20",
+      "competition": "Saudi Professional League",
+      "stage": {
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
+      },
+      "homeTeam": "Al-Ettifaq",
+      "awayTeam": "Al-Hilal Riad",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "Sportdigital.de (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T15:20:00+01:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "2. Liga (Österreich)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "ASK Voitsberg",
+      "awayTeam": "Young Violets Austria Wien",
+      "channels": [
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T15:30:00+01:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "2. Liga (Österreich)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "Schwarz-Weiß Bregenz",
+      "awayTeam": "SV Austria Salzburg",
+      "channels": [
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T15:30:00+01:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "2. Liga (Österreich)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "SK Rapid Wien II",
+      "awayTeam": "KSV 1919",
+      "channels": [
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T15:30:00+01:00"
+    },
+    {
+      "time": "15:30",
       "competition": "2. Liga (Österreich)",
       "stage": {
         "de": "14. Spieltag",
@@ -271,77 +900,198 @@
         "OneFootball TV (Android/Google TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T18:30:00+01:00"
+      "kickoff": "2026-11-28T15:30:00+01:00"
     },
     {
-      "time": "18:30",
-      "competition": "2. Bundesliga",
+      "time": "15:30",
+      "competition": "2. Liga (Österreich)",
       "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
       },
-      "homeTeam": "VfL Bochum",
-      "awayTeam": "SV Darmstadt 98",
+      "homeTeam": "FC Admira Wacker",
+      "awayTeam": "FC Liefering",
       "channels": [
-        "Sky Sport Bundesliga 2",
-        "Sky Sport Bundesliga 4",
-        "Sky Sport Top Event",
-        "Sky Sport Bundesliga 2 HD",
-        "Sky Sport Bundesliga 4 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-27T18:30:00+01:00"
-    },
-    {
-      "time": "18:30",
-      "competition": "2. Bundesliga",
-      "stage": {
-        "de": "13. Spieltag",
-        "tr": "13. Hafta",
-        "en": "Matchday 13"
-      },
-      "homeTeam": "1. FC Heidenheim 1846",
-      "awayTeam": "1. FC Nürnberg",
-      "channels": [
-        "Sky Sport Bundesliga 2",
-        "Sky Sport Bundesliga 3",
-        "Sky Sport Top Event",
-        "Sky Sport Bundesliga 2 HD",
-        "Sky Sport Bundesliga 3 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-27T18:30:00+01:00"
-    },
-    {
-      "time": "19:00",
-      "competition": "Regionalliga Bayern",
-      "stage": {
-        "de": "21. Spieltag",
-        "tr": "21. Hafta",
-        "en": "Matchday 21"
-      },
-      "homeTeam": "TSV 1860 München",
-      "awayTeam": "1. FC Schweinfurt 05",
-      "channels": [
-        "BR (ARD Mediathek)",
-        "BR24 Sport (Livestream)",
-        "BR24 Sport (YouTube)",
-        "BR24 (App)"
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T19:00:00+01:00"
+      "kickoff": "2026-11-28T15:30:00+01:00"
     },
     {
-      "time": "19:00",
+      "time": "15:30",
+      "competition": "Bundesliga",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "FC Schalke 04",
+      "channels": [
+        "DAZN 1",
+        "Sky Sport Bundesliga 4",
+        "DAZN 1 HD",
+        "Sky Sport Bundesliga 4 HD",
+        "DAZN"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T15:30:00+01:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Bundesliga",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "SV Elversberg",
+      "channels": [
+        "DAZN 1",
+        "Sky Sport Bundesliga 3",
+        "DAZN 1 HD",
+        "Sky Sport Bundesliga 3 HD",
+        "DAZN"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T15:30:00+01:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Bundesliga",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "FC Bayern München",
+      "channels": [
+        "DAZN 1",
+        "Sky Sport Bundesliga",
+        "Sky Sport Bundesliga 1",
+        "Sky Sport Top Event",
+        "DAZN 1 HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T15:30:00+01:00"
+    },
+    {
+      "time": "15:30",
+      "competition": "Bundesliga",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "1. FC Union Berlin",
+      "channels": [
+        "DAZN 1",
+        "Sky Sport Bundesliga 2",
+        "DAZN 1 HD",
+        "Sky Sport Bundesliga 2 HD",
+        "DAZN"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T15:30:00+01:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Premier League (England)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Manchester United",
+      "awayTeam": "Brentford FC",
+      "channels": [
+        "Sky Sport Premier League",
+        "Canal+ (via Blue Sport)",
+        "Sky Sport Premier League HD",
+        "RTL+",
+        "Sky Go"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T16:00:00+01:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Premier League (England)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Leeds United",
+      "awayTeam": "Coventry City",
+      "channels": [
+        "Sky Sport 8",
+        "Sky Sport 8 HD",
+        "Sky Go",
+        "WOW",
+        "WOW (Austria)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T16:00:00+01:00"
+    },
+    {
+      "time": "16:00",
+      "competition": "Regionalliga Nordost",
+      "stage": {
+        "de": "18. Spieltag",
+        "tr": "18. Hafta",
+        "en": "Matchday 18"
+      },
+      "homeTeam": "Hallescher FC",
+      "awayTeam": "Greifswalder FC",
+      "channels": [
+        "MDR Fernsehen",
+        "MDR HD",
+        "MDR (ARD Mediathek)",
+        "MDR Mediathek",
+        "Sport im Osten (App)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T16:00:00+01:00"
+    },
+    {
+      "time": "16:15",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "FC Malaga",
+      "awayTeam": "Athletic Bilbao",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T16:15:00+01:00"
+    },
+    {
+      "time": "16:30",
       "competition": "3. Liga",
       "stage": {
         "de": "15. Spieltag",
         "tr": "15. Hafta",
         "en": "Matchday 15"
       },
-      "homeTeam": "Hansa Rostock",
-      "awayTeam": "TSV Havelse",
+      "homeTeam": "SG Sonnenhof Großaspach",
+      "awayTeam": "MSV Duisburg",
       "channels": [
         "MagentaSport (Sat)",
         "MagentaSport HD",
@@ -350,67 +1100,158 @@
         "MagentaSport (App)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T19:00:00+01:00"
+      "kickoff": "2026-11-28T16:30:00+01:00"
     },
     {
-      "time": "19:00",
-      "competition": "Regionalliga Nordost",
+      "time": "17:00",
+      "competition": "Bundesliga (Österreich)",
       "stage": {
-        "de": "18. Spieltag",
-        "tr": "18. Hafta",
-        "en": "Matchday 18"
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
       },
-      "homeTeam": "Chemnitzer FC",
-      "awayTeam": "Hertha BSC II",
+      "homeTeam": "FK Austria Wien",
+      "awayTeam": "Wolfsberger AC",
       "channels": [
-        "Gellert-Welle (Chemnitzer FC)"
+        "Sky Sport Austria 1",
+        "Sky Sport Austria 1 HD",
+        "Sky Go (Austria)",
+        "WOW (Austria)",
+        "Sky Go (Huawei, Austria)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T17:00:00+01:00"
+    },
+    {
+      "time": "17:15",
+      "competition": "Ligue 1 (Frankreich)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "SCO Angers",
+      "awayTeam": "RC Lens",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T17:15:00+01:00"
+    },
+    {
+      "time": "17:15",
+      "competition": "Serie B (Italien)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "L.R. Vicenza",
+      "awayTeam": "FC Cesena",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T19:00:00+01:00"
+      "kickoff": "2026-11-28T17:15:00+01:00"
     },
     {
-      "time": "19:00",
-      "competition": "Regionalliga Nordost",
+      "time": "17:30",
+      "competition": "2. Liga (Österreich)",
       "stage": {
-        "de": "18. Spieltag",
-        "tr": "18. Hafta",
-        "en": "Matchday 18"
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
       },
-      "homeTeam": "BFC Dynamo",
-      "awayTeam": "FC Rot-Weiß Erfurt",
+      "homeTeam": "FC Blau Weiss Linz",
+      "awayTeam": "SK Sturm Graz II",
       "channels": [
-        "RWE.tv (Fanradio Rot-Weiß Erfurt)"
+        "LAOLA1 (Livestream)",
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T19:00:00+01:00"
+      "kickoff": "2026-11-28T17:30:00+01:00"
     },
     {
-      "time": "19:00",
-      "competition": "Regionalliga Nordost",
+      "time": "18:00",
+      "competition": "Serie A (Italien)",
       "stage": {
-        "de": "18. Spieltag",
-        "tr": "18. Hafta",
-        "en": "Matchday 18"
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
       },
-      "homeTeam": "SV Babelsberg 03",
-      "awayTeam": "BSG Chemie Leipzig",
+      "homeTeam": "FC Turin",
+      "awayTeam": "Lazio Rom",
       "channels": [
-        "LVZ+",
-        "Fünfeck.FM (Chemie Leipzig)"
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T18:00:00+01:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Super League (Schweiz)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "FC Vaduz",
+      "awayTeam": "FC Zürich",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "blue Sport UHD",
+        "blue Sport (Livestream)",
+        "Swisscom blue TV App"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T19:00:00+01:00"
+      "kickoff": "2026-11-28T18:00:00+01:00"
     },
     {
-      "time": "19:30",
+      "time": "18:00",
+      "competition": "Super League (Schweiz)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Grasshopper Club Zürich",
+      "awayTeam": "FC Basel",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "blue Sport UHD",
+        "blue Sport (Livestream)",
+        "Swisscom blue TV App"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T18:00:00+01:00"
+    },
+    {
+      "time": "18:00",
       "competition": "Challenge League (Schweiz)",
       "stage": {
         "de": "15. Spieltag",
         "tr": "15. Hafta",
         "en": "Matchday 15"
       },
-      "homeTeam": "SC Kriens",
-      "awayTeam": "FC Aarau",
+      "homeTeam": "Neuchâtel Xamax",
+      "awayTeam": "FC Stade Nyonnais",
       "channels": [
         "blue Sport",
         "blue Sport HD",
@@ -418,7 +1259,185 @@
         "Swisscom blue TV App"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T19:30:00+01:00"
+      "kickoff": "2026-11-28T18:00:00+01:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "Challenge League (Schweiz)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "FC Wil",
+      "awayTeam": "Yverdon-Sport FC",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "blue Sport (Livestream)",
+        "Swisscom blue TV App"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T18:00:00+01:00"
+    },
+    {
+      "time": "18:00",
+      "competition": "U19-EM (Frauen)",
+      "stage": {
+        "de": "Qualifikation",
+        "tr": "Eleme",
+        "en": "Qualification"
+      },
+      "homeTeam": "Deutschland ♀ (U19)",
+      "awayTeam": "Slowenien ♀ (U19)",
+      "channels": [
+        "DFB.TV (via Sky)",
+        "DFB.TV",
+        "DFB.TV (YouTube)",
+        "DFB.TV (via DAZN)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T18:00:00+01:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "Playoff",
+        "tr": "Play-off",
+        "en": "Play-off"
+      },
+      "homeTeam": "Charlotte FC",
+      "awayTeam": "Chicago Fire",
+      "channels": [
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T18:30:00+01:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Premier League (England)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Aston Villa",
+      "channels": [
+        "Sky Sport Premier League",
+        "Canal+ (via Blue Sport)",
+        "Sky Sport Premier League HD",
+        "Sky Go",
+        "WOW"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T18:30:00+01:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "La Liga (Spanien)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "Elche C.F.",
+      "awayTeam": "Atletico Madrid",
+      "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T18:30:00+01:00"
+    },
+    {
+      "time": "18:30",
+      "competition": "Bundesliga",
+      "stage": {
+        "de": "11. Spieltag",
+        "tr": "11. Hafta",
+        "en": "Matchday 11"
+      },
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Eintracht Frankfurt",
+      "channels": [
+        "Sky Sport Bundesliga",
+        "Sky Sport Bundesliga 1",
+        "Sky Sport Top Event",
+        "Sky Sport Bundesliga 1 HD",
+        "Sky Sport Bundesliga HD"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T18:30:00+01:00"
+    },
+    {
+      "time": "18:45",
+      "competition": "Scottish Premiership",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Motherwell FC",
+      "awayTeam": "Hibernian FC Edinburgh",
+      "channels": [
+        "blue Sport",
+        "blue Sport HD",
+        "Sportdigital Fussball 2",
+        "Sportdigital.de (Livestream)",
+        "blue Sport (Livestream)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T18:45:00+01:00"
+    },
+    {
+      "time": "18:45",
+      "competition": "Eredivisie (Niederlande)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "PSV Eindhoven",
+      "awayTeam": "Go Ahead Eagles Deventer",
+      "channels": [
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T18:45:00+01:00"
+    },
+    {
+      "time": "19:30",
+      "competition": "Serie B (Italien)",
+      "stage": {
+        "de": "14. Spieltag",
+        "tr": "14. Hafta",
+        "en": "Matchday 14"
+      },
+      "homeTeam": "FC Palermo",
+      "awayTeam": "Benevento Calcio",
+      "channels": [
+        "OneFootball",
+        "OneFootball (App)",
+        "OneFootball TV (Amazon FireTV)",
+        "OneFootball TV (Android/Google TV)",
+        "OneFootball TV (Apple TV)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T19:30:00+01:00"
     },
     {
       "time": "19:30",
@@ -428,8 +1447,8 @@
         "tr": "14. Hafta",
         "en": "Matchday 14"
       },
-      "homeTeam": "GAK 1902",
-      "awayTeam": "SCR Altach",
+      "homeTeam": "SC Austria Lustenau",
+      "awayTeam": "SK Rapid Wien",
       "channels": [
         "Sky Sport Austria 1",
         "Sky Sport Austria 1 HD",
@@ -438,86 +1457,67 @@
         "Sky Go (Huawei, Austria)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-27T19:30:00+01:00"
-    },
-    {
-      "time": "20:15",
-      "competition": "Challenge League (Schweiz)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "FC Winterthur",
-      "awayTeam": "FC Rapperswil-Jona",
-      "channels": [
-        "blue Sport",
-        "blue Zoom",
-        "blue Sport HD",
-        "blue Zoom HD",
-        "blue Sport (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T20:15:00+01:00"
-    },
-    {
-      "time": "20:15",
-      "competition": "Challenge League (Schweiz)",
-      "stage": {
-        "de": "15. Spieltag",
-        "tr": "15. Hafta",
-        "en": "Matchday 15"
-      },
-      "homeTeam": "Étoile Carouge FC",
-      "awayTeam": "FC Stade-Lausanne-Ouchy",
-      "channels": [
-        "blue Sport",
-        "blue Sport HD",
-        "blue Sport (Livestream)",
-        "Swisscom blue TV App"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T20:15:00+01:00"
+      "kickoff": "2026-11-28T19:30:00+01:00"
     },
     {
       "time": "20:30",
-      "competition": "Bundesliga",
+      "competition": "Major League Soccer (MLS)",
       "stage": {
-        "de": "11. Spieltag",
-        "tr": "11. Hafta",
-        "en": "Matchday 11"
+        "de": "Playoff",
+        "tr": "Play-off",
+        "en": "Play-off"
       },
-      "homeTeam": "SV Werder Bremen",
-      "awayTeam": "Borussia Mönchengladbach",
+      "homeTeam": "Houston Dynamo",
+      "awayTeam": "San Jose Earthquakes",
       "channels": [
-        "Sky Sport Bundesliga",
-        "Sky Sport Bundesliga 1",
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T20:30:00+01:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "Super League (Schweiz)",
+      "stage": {
+        "de": "15. Spieltag",
+        "tr": "15. Hafta",
+        "en": "Matchday 15"
+      },
+      "homeTeam": "Servette Genf",
+      "awayTeam": "FC Lausanne-Sport",
+      "channels": [
+        "RSI LA 2",
+        "RTS 2",
+        "SRF info",
+        "SRF zwei",
+        "blue Sport"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T20:30:00+01:00"
+    },
+    {
+      "time": "20:30",
+      "competition": "2. Bundesliga",
+      "stage": {
+        "de": "13. Spieltag",
+        "tr": "13. Hafta",
+        "en": "Matchday 13"
+      },
+      "homeTeam": "VfL Osnabrück",
+      "awayTeam": "Hannover 96",
+      "channels": [
+        "NITRO",
+        "Sky Sport Bundesliga 2",
         "Sky Sport Top Event",
-        "Sky Showcase HD",
-        "Sky Sport Bundesliga 1 HD"
+        "NITRO HD",
+        "Sky Sport Bundesliga 2 HD"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-27T20:30:00+01:00"
-    },
-    {
-      "time": "20:30",
-      "competition": "2. Liga (Österreich)",
-      "stage": {
-        "de": "14. Spieltag",
-        "tr": "14. Hafta",
-        "en": "Matchday 14"
-      },
-      "homeTeam": "FC Wacker Innsbruck",
-      "awayTeam": "First Vienna FC 1894",
-      "channels": [
-        "ORF Sport+",
-        "ORF Sport+ HD",
-        "LAOLA1 (Livestream)",
-        "OneFootball",
-        "ORF ON"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T20:30:00+01:00"
+      "kickoff": "2026-11-28T20:30:00+01:00"
     },
     {
       "time": "20:45",
@@ -527,17 +1527,77 @@
         "tr": "12. Hafta",
         "en": "Matchday 12"
       },
-      "homeTeam": "Stade Brest",
-      "awayTeam": "Paris FC",
+      "homeTeam": "Paris St. Germain",
+      "awayTeam": "FC Lorient",
       "channels": [
-        "DAZN 1",
-        "DAZN 1 HD",
+        "TV5 Monde Europe",
         "DAZN",
-        "DAZN (App)",
-        "DAZN (Amazon)"
+        "DAZN FAST+",
+        "TV5 Monde Europe (Livestream)",
+        "DAZN (App)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-27T20:45:00+01:00"
+      "kickoff": "2026-11-28T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Ligue 1 (Frankreich)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "O.G.C. Nizza",
+      "awayTeam": "ES Troyes AC",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Ligue 1 (Frankreich)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Le Mans FC",
+      "awayTeam": "OSC Lille",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T20:45:00+01:00"
+    },
+    {
+      "time": "20:45",
+      "competition": "Ligue 1 (Frankreich)",
+      "stage": {
+        "de": "12. Spieltag",
+        "tr": "12. Hafta",
+        "en": "Matchday 12"
+      },
+      "homeTeam": "Le Havre AC",
+      "awayTeam": "Racing Straßburg",
+      "channels": [
+        "DAZN",
+        "DAZN (App)",
+        "DAZN (Amazon)",
+        "DAZN (Android TV)",
+        "DAZN (Apple TV)"
+      ],
+      "isHighlight": true,
+      "kickoff": "2026-11-28T20:45:00+01:00"
     },
     {
       "time": "20:45",
@@ -547,8 +1607,8 @@
         "tr": "13. Hafta",
         "en": "Matchday 13"
       },
-      "homeTeam": "Venedig FC",
-      "awayTeam": "FC Bologna",
+      "homeTeam": "Inter Mailand",
+      "awayTeam": "CFC Genua",
       "channels": [
         "DAZN",
         "DAZN (App)",
@@ -557,27 +1617,7 @@
         "DAZN (Apple TV)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-27T20:45:00+01:00"
-    },
-    {
-      "time": "21:00",
-      "competition": "Premier League (England)",
-      "stage": {
-        "de": "12. Spieltag",
-        "tr": "12. Hafta",
-        "en": "Matchday 12"
-      },
-      "homeTeam": "Nottingham Forest",
-      "awayTeam": "FC Chelsea",
-      "channels": [
-        "Sky Sport Premier League",
-        "Sky Sport Austria 3",
-        "Canal+ (via Blue Sport)",
-        "Sky Sport Premier League HD",
-        "Sky Sport Austria 3 HD"
-      ],
-      "isHighlight": true,
-      "kickoff": "2026-11-27T21:00:00+01:00"
+      "kickoff": "2026-11-28T20:45:00+01:00"
     },
     {
       "time": "21:00",
@@ -587,75 +1627,75 @@
         "tr": "14. Hafta",
         "en": "Matchday 14"
       },
-      "homeTeam": "UD Levante",
-      "awayTeam": "Racing Santander",
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Deportivo Alaves",
       "channels": [
+        "DAZN 2",
+        "DAZN 2 HD",
         "DAZN",
         "DAZN (App)",
-        "DAZN (Amazon)",
-        "DAZN (Android TV)",
-        "DAZN (Apple TV)"
+        "DAZN (Amazon)"
       ],
       "isHighlight": true,
-      "kickoff": "2026-11-27T21:00:00+01:00"
+      "kickoff": "2026-11-28T21:00:00+01:00"
     },
     {
       "time": "21:00",
-      "competition": "EFL Championship (England)",
+      "competition": "Copa Libertadores",
       "stage": {
-        "de": "18. Spieltag",
-        "tr": "18. Hafta",
-        "en": "Matchday 18"
+        "de": "Finale",
+        "tr": "Final",
+        "en": "Final"
       },
-      "homeTeam": "FC Southampton",
-      "awayTeam": "FC Middlesbrough",
+      "homeTeam": "Palmeiras Sao Paulo",
+      "awayTeam": "Estudiantes de La Plata",
       "channels": [
-        "Sky Sport 6",
-        "Sky Sport 6 HD",
-        "Sky Go",
-        "WOW",
-        "Sky Go (Huawei)"
+        "Sportdigital Fussball",
+        "blue Sport",
+        "Sportdigital Fussball HD",
+        "blue Sport HD",
+        "OneFootball"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T21:00:00+01:00"
+      "kickoff": "2026-11-28T21:00:00+01:00"
     },
     {
-      "time": "21:00",
-      "competition": "Länderspiel (Frauen)",
-      "stage": {
-        "de": "",
-        "tr": "",
-        "en": ""
-      },
-      "homeTeam": "Frankreich ♀",
-      "awayTeam": "Venezuela ♀",
-      "channels": [
-        "France 4",
-        "France 4 HD",
-        "France 4 (Livestream)"
-      ],
-      "isHighlight": false,
-      "kickoff": "2026-11-27T21:00:00+01:00"
-    },
-    {
-      "time": "21:15",
+      "time": "21:30",
       "competition": "Liga Portugal",
       "stage": {
         "de": "12. Spieltag",
         "tr": "12. Hafta",
         "en": "Matchday 12"
       },
-      "homeTeam": "Maritimo Funchal",
-      "awayTeam": "CD Nacional Funchal",
+      "homeTeam": "Vitoria Guimaraes",
+      "awayTeam": "Estrela Amadora",
       "channels": [
-        "Sportdigital Fussball",
-        "blue Sport",
-        "Sportdigital Fussball HD",
-        "blue Sport HD",
-        "Sportdigital.de (Livestream)"
+        "Sportdigital.de (Livestream)",
+        "Sportdigital+ (App)",
+        "Sportdigital+ (Smart TV)"
       ],
       "isHighlight": false,
-      "kickoff": "2026-11-27T21:15:00+01:00"
+      "kickoff": "2026-11-28T21:30:00+01:00"
+    },
+    {
+      "time": "22:30",
+      "competition": "Major League Soccer (MLS)",
+      "stage": {
+        "de": "Playoff",
+        "tr": "Play-off",
+        "en": "Play-off"
+      },
+      "homeTeam": "Philadelphia Union",
+      "awayTeam": "New England Revolution",
+      "channels": [
+        "Apple TV",
+        "Apple TV (App)",
+        "Apple TV (PlayStation)",
+        "Apple TV (Set-Top-Box)",
+        "Apple TV (Xbox)"
+      ],
+      "isHighlight": false,
+      "kickoff": "2026-11-28T22:30:00+01:00"
     }
   ]
 }
